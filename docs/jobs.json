@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-19T09:50:46.959861+00:00",
- "signature": "f17c710b8eae33c9bb7b56680f888c48ff356fa1",
- "count": 501,
+ "generated_at": "2026-08-19T10:47:57.203711+00:00",
+ "signature": "882af643194691ff66758fbdbae5074f467074f9",
+ "count": 500,
  "jobs": [
   {
    "key": "greenhouse:datadog:7943824",
@@ -161,30 +161,6 @@
    "why": [
     "Title match: iam engineer",
     "Skills (9): terraform, zero trust, incident response, hipaa, automation, identity",
-    "Healthcare signals: healthcare, hipaa, clinical, patient",
-    "Healthcare company + technical role",
-    "Onsite outside SoCal",
-    "Senior level"
-   ]
-  },
-  {
-   "key": "greenhouse:komodo health:7885159002",
-   "title": "Senior Platform Engineer",
-   "company": "Komodo Health",
-   "url": "https://job-boards.greenhouse.io/komodohealth/jobs/7885159002",
-   "location": "India",
-   "source": "greenhouse",
-   "posted_at": "2026-06-01T15:31:48+00:00",
-   "first_seen_at": "2026-08-19T04:14:00.571020+00:00",
-   "score": 90,
-   "category": "Healthcare IT",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": true,
-   "salary": "",
-   "why": [
-    "Title match: platform engineer",
-    "Skills (9): terraform, networking, kubernetes, ci/cd, troubleshooting, hipaa",
     "Healthcare signals: healthcare, hipaa, clinical, patient",
     "Healthcare company + technical role",
     "Onsite outside SoCal",
@@ -2571,11 +2547,11 @@
    ]
   },
   {
-   "key": "greenhouse:datadog:7405822",
+   "key": "greenhouse:datadog:7465857",
    "title": "Enterprise Sales Executive",
    "company": "Datadog",
-   "url": "https://careers.datadoghq.com/detail/7405822/?gh_jid=7405822",
-   "location": "Georgia, USA, Remote",
+   "url": "https://careers.datadoghq.com/detail/7465857/?gh_jid=7465857",
+   "location": "North Carolina, USA, Remote; Tennessee, USA, Remote",
    "source": "greenhouse",
    "posted_at": "2026-08-12T19:59:08+00:00",
    "first_seen_at": "2026-08-19T04:12:53.757863+00:00",
@@ -2615,11 +2591,11 @@
    ]
   },
   {
-   "key": "greenhouse:datadog:7465857",
+   "key": "greenhouse:datadog:7405822",
    "title": "Enterprise Sales Executive",
    "company": "Datadog",
-   "url": "https://careers.datadoghq.com/detail/7465857/?gh_jid=7465857",
-   "location": "North Carolina, USA, Remote; Tennessee, USA, Remote",
+   "url": "https://careers.datadoghq.com/detail/7405822/?gh_jid=7405822",
+   "location": "Georgia, USA, Remote",
    "source": "greenhouse",
    "posted_at": "2026-08-12T19:59:08+00:00",
    "first_seen_at": "2026-08-19T04:12:53.757863+00:00",
@@ -7995,28 +7971,6 @@
    ]
   },
   {
-   "key": "b9ded010595fef2b",
-   "title": "Senior Solutions Architect (EDW Enterprise Data Warehouse Migrations)",
-   "company": "databricks",
-   "url": "https://www.arbeitnow.com/jobs/companies/databricks/senior-solutions-architect-edw-enterprise-data-warehouse-migrations-berlin-munich-271828",
-   "location": "Berlin; Munich",
-   "source": "arbeitnow",
-   "posted_at": "2026-08-18T17:55:18+00:00",
-   "first_seen_at": "2026-08-19T04:12:53.757863+00:00",
-   "score": 31,
-   "category": "Cloud",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: solutions architect",
-    "Skills (4): azure, escalation, aws, gcp",
-    "Onsite outside SoCal",
-    "Senior level"
-   ]
-  },
-  {
    "key": "227a05b09c46cc2e",
    "title": "Senior Solutions Architect (EDW Enterprise Data Warehouse Migrations)",
    "company": "databricks",
@@ -9412,6 +9366,27 @@
     "Skills (2): nist, automation",
     "Healthcare signals: patient, life sciences",
     "California"
+   ]
+  },
+  {
+   "key": "greenhouse:datadog:6485604",
+   "title": "Key Accounts Executive - EMEA",
+   "company": "Datadog",
+   "url": "https://careers.datadoghq.com/detail/6485604/?gh_jid=6485604",
+   "location": "Germany, Remote; London, United Kingdom",
+   "source": "greenhouse",
+   "posted_at": "2026-08-19T10:17:40+00:00",
+   "first_seen_at": "2026-08-19T10:47:57.203711+00:00",
+   "score": 28,
+   "category": "Other",
+   "remote": "Remote",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (3): networking, observability, identity",
+    "Remote",
+    "Senior level"
    ]
   },
   {
