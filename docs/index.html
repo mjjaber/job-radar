@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Job Radar</title>
+<style>
+:root{--bg:#0f1115;--card:#181b22;--line:#272b34;--fg:#e7e9ee;--mut:#9aa3b2;--acc:#4da3ff;--ok:#3ecf8e;--warn:#ffb547}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:15px/1.45 system-ui,Segoe UI,Arial,sans-serif}
+header{padding:18px 20px;border-bottom:1px solid var(--line);display:flex;flex-wrap:wrap;gap:12px;align-items:baseline}
+h1{font-size:20px;margin:0}
+.meta{color:var(--mut);font-size:13px}
+#counts{display:flex;gap:18px;padding:12px 20px;border-bottom:1px solid var(--line);font-size:14px;color:var(--mut)}
+#counts b{color:var(--fg);font-size:17px}
+#views{display:flex;flex-wrap:wrap;gap:8px;padding:12px 20px 0}
+#views button{background:transparent;color:var(--mut);border:1px solid var(--line);border-bottom-width:3px;border-radius:8px;padding:8px 16px;cursor:pointer;font-size:14px;font-weight:600}
+#views button.on{color:var(--fg);border-bottom-color:var(--acc)}
+#filters{display:flex;flex-wrap:wrap;gap:8px;padding:14px 20px;border-bottom:1px solid var(--line)}
+button.f{background:var(--card);color:var(--fg);border:1px solid var(--line);border-radius:20px;padding:6px 14px;cursor:pointer;font-size:13px}
+button.f.on{background:var(--acc);border-color:var(--acc);color:#06121f;font-weight:600}
+#search{background:var(--card);border:1px solid var(--line);color:var(--fg);border-radius:20px;padding:6px 14px;min-width:200px}
+#list{padding:16px 20px;display:grid;gap:12px;max-width:1100px}
+.job{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:14px 16px}
+.top{display:flex;gap:12px;align-items:flex-start;justify-content:space-between}
+.score{background:#1f2937;border-radius:8px;padding:6px 10px;font-weight:700;color:var(--ok);min-width:52px;text-align:center}
+.title{font-size:16px;font-weight:600;margin:0 0 3px}
+.co{color:var(--mut);font-size:13px}
+.tags{display:flex;flex-wrap:wrap;gap:6px;margin:9px 0}
+.tag{font-size:12px;border:1px solid var(--line);border-radius:6px;padding:2px 8px;color:var(--mut)}
+.tag.hi{color:var(--warn);border-color:#4a3b1a}
+.tag.new{color:#06121f;background:var(--ok);border-color:var(--ok);font-weight:700}
+.why{color:var(--mut);font-size:12.5px;margin-top:6px}
+a.apply{display:inline-block;margin-top:10px;background:var(--acc);color:#06121f;text-decoration:none;font-weight:600;padding:7px 14px;border-radius:8px;font-size:13px}
+.empty{color:var(--mut);padding:40px 0}
+</style>
+</head>
+<body>
+<header>
+  <h1>Job Radar</h1>
+  <span class="meta" id="meta">loading…</span>
+</header>
+<div id="counts"></div>
+<div id="views"></div>
+<div id="filters"></div>
+<div id="list"></div>
+<script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,50 @@
+{
+  "title_strong": {
+    "weight": 30,
+    "terms": ["senior cloud engineer","cloud engineer","azure engineer","cloud infrastructure engineer","platform engineer","devops engineer","devsecops","site reliability","sre","cloud operations","cloud support engineer","technical support engineer","escalation engineer","production support engineer","solutions architect","solutions engineer","cloud security engineer","security engineer","iam engineer","identity engineer","soc engineer","infrastructure engineer","systems engineer","cloud architect"]
+  },
+  "title_healthcare": {
+    "weight": 25,
+    "terms": ["healthcare","health it","health informatics","clinical","hospital","digital health","medical","payer","health plan","public health"]
+  },
+  "skills": {
+    "weight": 4,
+    "max": 40,
+    "terms": ["azure","azure virtual desktop","avd","entra","active directory","terraform","powershell","intune","m365","microsoft 365","networking","vpn","firewall","linux","windows server","kubernetes","docker","ci/cd","iac","bicep","arm template","sentinel","defender","zero trust","incident response","escalation","troubleshooting","nist","cmmc","fedramp","hipaa","soc 2","automation","monitoring","observability","aws","gcp","identity","sso","saml","oidc","conditional access","siem","vulnerability"]
+  },
+  "healthcare_signals": {
+    "weight": 6,
+    "max": 30,
+    "terms": ["healthcare","health care","hipaa","phi","fhir","hl7","ehr","emr","epic","cerner","clinical","patient","hospital","provider network","payer","health system","medicaid","medicare","digital health","health informatics","medtech","life sciences"]
+  },
+  "shift": {
+    "weight": 18,
+    "max": 40,
+    "terms": ["second shift","2nd shift","swing shift","evening shift","night shift","overnight","weekend shift","weekends required","saturday","sunday","friday through tuesday","saturday through wednesday","after hours","after-hours","non-traditional schedule","nontraditional schedule","24x7 shift","shift work","rotating shift"]
+  },
+  "location": {
+    "remote_us": 20,
+    "remote_ca": 18,
+    "socal": 16,
+    "california": 8,
+    "remote_other": 6,
+    "onsite_far": -25
+  },
+  "seniority": {
+    "senior_bonus": 10,
+    "senior_terms": ["senior","sr.","sr ","staff","principal","lead","iii","iv"],
+    "entry_penalty": -30,
+    "entry_terms": ["intern","internship","entry level","entry-level","junior","new grad","graduate program","apprentice","co-op","trainee"]
+  },
+  "salary": {
+    "good_min": 130000,
+    "good_bonus": 12,
+    "low_max": 70000,
+    "low_penalty": -20
+  },
+  "negative": {
+    "weight": -35,
+    "terms": ["commission only","commission-only","account executive","sales representative","sales development","business development representative","registered nurse","nurse practitioner","physician","licensed clinician","rn license","medical assistant","phlebotom","pharmacist","therapist","social worker","recruiter","teacher"]
+  },
+  "min_score_to_keep": 25
+}

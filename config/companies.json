@@ -1,0 +1,20 @@
+{
+  "_comment": "Add companies here. 'slug' is the board id in the ATS URL (greenhouse: boards.greenhouse.io/<slug>, lever: jobs.lever.co/<slug>, ashby: jobs.ashbyhq.com/<slug>). healthcare=true gives that company's technical roles a healthcare boost. Bad slugs are skipped automatically.",
+  "greenhouse": [
+    {"slug": "collectivehealth", "name": "Collective Health", "healthcare": true},
+    {"slug": "zocdoc", "name": "Zocdoc", "healthcare": true},
+    {"slug": "komodohealth", "name": "Komodo Health", "healthcare": true},
+    {"slug": "talkspace", "name": "Talkspace", "healthcare": true},
+    {"slug": "databricks", "name": "Databricks", "healthcare": false},
+    {"slug": "cloudflare", "name": "Cloudflare", "healthcare": false},
+    {"slug": "datadog", "name": "Datadog", "healthcare": false}
+  ],
+  "lever": [
+    {"slug": "veeva", "name": "Veeva Systems", "healthcare": true},
+    {"slug": "spotify", "name": "Spotify", "healthcare": false}
+  ],
+  "ashby": [
+    {"slug": "openai", "name": "OpenAI", "healthcare": false},
+    {"slug": "ramp", "name": "Ramp", "healthcare": false}
+  ]
+}
