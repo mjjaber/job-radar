@@ -1,9 +1,9 @@
 {
   "manifest_version": 3,
   "name": "Job Radar Capture",
-  "version": "1.0",
-  "description": "Adds a Capture button to job pages and saves each job into its own numbered folder in Downloads.",
-  "permissions": ["downloads", "storage"],
+  "version": "1.1",
+  "description": "Adds a Capture button to job pages and saves each job into its own numbered folder under Downloads/Captured Jobs.",
+  "permissions": ["downloads", "storage", "offscreen"],
   "background": { "service_worker": "background.js" },
   "action": { "default_title": "Job Radar Capture" },
   "content_scripts": [
