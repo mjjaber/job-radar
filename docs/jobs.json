@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-20T09:51:25.592199+00:00",
- "signature": "c17ecdad75d7ffd9b3591802d422fb6ae705630d",
+ "generated_at": "2026-08-20T10:49:37.344185+00:00",
+ "signature": "5dc0f56c79fcef8b6ddcac54f5c71b993a9c580e",
  "count": 499,
  "jobs": [
   {
@@ -48,6 +48,28 @@
     "Healthcare company + technical role",
     "Remote (US)",
     "Senior level"
+   ]
+  },
+  {
+   "key": "9849381f705ba09a",
+   "title": "DevOps Engineer- Night Shift(10:00 PM - 6:00 AM)",
+   "company": "Nice",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/nice/devops-engineer-night-shift1000-pm-600-am-475706",
+   "location": "",
+   "source": "arbeitnow",
+   "posted_at": "2026-08-20T09:55:10+00:00",
+   "first_seen_at": "2026-08-20T10:49:37.344185+00:00",
+   "score": 100,
+   "category": "Cloud",
+   "remote": "Hybrid",
+   "shift": "night shift, weekend shift",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: devops engineer",
+    "Skills (11): terraform, powershell, networking, linux, windows server, ci/cd",
+    "Healthcare signals: phi",
+    "Shift match: night shift, weekend shift"
    ]
   },
   {
@@ -519,14 +541,14 @@
    ]
   },
   {
-   "key": "60642e101c898d2c",
-   "title": "Staff Software Engineer - Databases SRE | Germany | Remote",
-   "company": "Grafanalabs",
-   "url": "https://www.arbeitnow.com/jobs/companies/grafanalabs/staff-software-engineer-databases-sre-germany-remote-102044",
+   "key": "5b6a61fae259bbf2",
+   "title": "Lead Site Reliability Engineer",
+   "company": "Nice",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/nice/lead-site-reliability-engineer-465949",
    "location": "",
    "source": "arbeitnow",
-   "posted_at": "2026-08-19T14:55:30+00:00",
-   "first_seen_at": "2026-08-19T15:48:07.895081+00:00",
+   "posted_at": "2026-08-20T09:55:10+00:00",
+   "first_seen_at": "2026-08-20T10:49:37.344185+00:00",
    "score": 80,
    "category": "Cloud",
    "remote": "Onsite",
@@ -534,8 +556,8 @@
    "healthcare": false,
    "salary": "",
    "why": [
-    "Title match: sre",
-    "Skills (13): azure, terraform, networking, linux, kubernetes, incident response",
+    "Title match: site reliability",
+    "Skills (12): azure, terraform, powershell, kubernetes, ci/cd, iac",
     "Senior level"
    ]
   },
@@ -4795,6 +4817,28 @@
     "Healthcare signals: patient, life sciences",
     "Healthcare company + technical role",
     "Onsite outside SoCal"
+   ]
+  },
+  {
+   "key": "320613c2b8f7ebaa",
+   "title": "Senior Full-Stack Developer",
+   "company": "Cside",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/cside/remote-senior-full-stack-developer-480909",
+   "location": "Remote - UK",
+   "source": "arbeitnow",
+   "posted_at": "2026-08-20T09:41:09+00:00",
+   "first_seen_at": "2026-08-20T10:49:37.344185+00:00",
+   "score": 40,
+   "category": "Other",
+   "remote": "Remote",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (1): identity",
+    "Healthcare signals: phi",
+    "Remote (US)",
+    "Senior level"
    ]
   },
   {
@@ -9720,50 +9764,6 @@
    "why": [
     "Skills (6): terraform, kubernetes, docker, ci/cd, automation, aws",
     "Healthcare signals: healthcare, patient, life sciences",
-    "Onsite outside SoCal",
-    "Senior level"
-   ]
-  },
-  {
-   "key": "1fec163288fd92b3",
-   "title": "Security Engineering Lead",
-   "company": "Attio",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/attio/security-engineering-lead-united-kingdom-364646",
-   "location": "United Kingdom",
-   "source": "arbeitnow",
-   "posted_at": "2026-08-19T12:40:11+00:00",
-   "first_seen_at": "2026-08-19T13:59:18.961235+00:00",
-   "score": 27,
-   "category": "Cybersecurity",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: security engineer",
-    "Skills (3): incident response, nist, sso",
-    "Onsite outside SoCal",
-    "Senior level"
-   ]
-  },
-  {
-   "key": "65446c688381fbc5",
-   "title": "Security Engineering Lead",
-   "company": "Attio",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/attio/security-engineering-lead-london-331976",
-   "location": "London",
-   "source": "arbeitnow",
-   "posted_at": "2026-08-19T12:40:11+00:00",
-   "first_seen_at": "2026-08-19T13:59:18.961235+00:00",
-   "score": 27,
-   "category": "Cybersecurity",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: security engineer",
-    "Skills (3): incident response, nist, sso",
     "Onsite outside SoCal",
     "Senior level"
    ]
