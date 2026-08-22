@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-22T01:52:17.070524+00:00",
- "signature": "7898b58ad9e65c3eda3eaf696c8880aeca33958d",
- "count": 513,
+ "generated_at": "2026-08-22T03:09:46.402288+00:00",
+ "signature": "11fee41408087bb0a0291465dbbdd9024055b9b3",
+ "count": 514,
  "jobs": [
   {
    "key": "greenhouse:datadog:7943824",
@@ -2115,6 +2115,28 @@
     "Title match: solutions architect",
     "Skills (10): azure, terraform, networking, kubernetes, docker, troubleshooting",
     "Healthcare signals: healthcare",
+    "Onsite outside SoCal"
+   ]
+  },
+  {
+   "key": "2ee560c0e77c9e8b",
+   "title": "Platform & DevOps Engineer (m/w/d)",
+   "company": "Yoummday GmbH",
+   "url": "https://www.arbeitnow.com/jobs/companies/yoummday-gmbh/platform-devops-engineer-munchen-363402",
+   "location": "M\u00fcnchen",
+   "source": "arbeitnow",
+   "posted_at": "2026-08-22T02:30:19+00:00",
+   "first_seen_at": "2026-08-22T03:09:46.402288+00:00",
+   "score": 51,
+   "category": "Cloud",
+   "remote": "Hybrid",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: devops engineer",
+    "Skills (17): azure, terraform, powershell, networking, kubernetes, docker",
+    "Healthcare signals: ehr",
     "Onsite outside SoCal"
    ]
   },
@@ -7947,28 +7969,6 @@
    ]
   },
   {
-   "key": "5913ecbec747b5cc",
-   "title": "Microsoft Cloud & AI Infrastructure (Senior) Consultant (m/w/d)",
-   "company": "Windhoff Group",
-   "url": "https://www.arbeitnow.com/jobs/companies/windhoff-group/microsoft-cloud-ai-infrastructure-senior-consultant-gescher-115902",
-   "location": "Gescher",
-   "source": "arbeitnow",
-   "posted_at": "2026-08-21T11:30:35+00:00",
-   "first_seen_at": "2026-08-21T11:44:38.285650+00:00",
-   "score": 31,
-   "category": "Other",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Skills (10): azure, entra, terraform, powershell, linux, ci/cd",
-    "Healthcare signals: ehr",
-    "Onsite outside SoCal",
-    "Senior level"
-   ]
-  },
-  {
    "key": "greenhouse:databricks:8720251002",
    "title": "Senior Solutions Architect (EDW Enterprise Data Warehouse Migrations)",
    "company": "Databricks",
@@ -8186,6 +8186,27 @@
     "Healthcare signals: phi",
     "Onsite outside SoCal",
     "Senior level"
+   ]
+  },
+  {
+   "key": "d03b2e2ff56a51cb",
+   "title": "Engineering Manager - Cloud Platform & Operations  (f/m/d)",
+   "company": "Sonarsource",
+   "url": "https://www.arbeitnow.com/jobs/companies/sonarsource/engineering-manager-cloud-platform-operations-bochum-387514",
+   "location": "Bochum",
+   "source": "arbeitnow",
+   "posted_at": "2026-08-22T02:24:58+00:00",
+   "first_seen_at": "2026-08-22T03:09:46.402288+00:00",
+   "score": 31,
+   "category": "Cloud Operations/Support",
+   "remote": "Onsite",
+   "shift": "saturday, sunday",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (5): terraform, incident response, automation, observability, aws",
+    "Shift match: saturday, sunday",
+    "Onsite outside SoCal"
    ]
   },
   {
