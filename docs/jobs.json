@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-25T21:45:52.543744+00:00",
- "signature": "49e31a61d53c4fa507742520a5703b7ed2f6c0d9",
+ "generated_at": "2026-08-25T22:47:43.059173+00:00",
+ "signature": "4438218c852639ea8ff3112c8a985ae82d659f80",
  "count": 512,
  "jobs": [
   {
@@ -47,30 +47,6 @@
     "Healthcare signals: healthcare, patient",
     "Healthcare company + technical role",
     "Remote (US)",
-    "Senior level"
-   ]
-  },
-  {
-   "key": "c7818491e6362947",
-   "title": "Senior IT Infrastructure and Systems Engineer - Network",
-   "company": "Flatrock",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/flatrock/remote-senior-it-infrastructure-and-systems-engineer-network-445338",
-   "location": "Remote UK",
-   "source": "arbeitnow",
-   "posted_at": "2026-08-24T21:29:48+00:00",
-   "first_seen_at": "2026-08-24T22:46:43.829885+00:00",
-   "score": 100,
-   "category": "Cloud",
-   "remote": "Remote",
-   "shift": "after-hours",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: systems engineer",
-    "Skills (10): azure, active directory, microsoft 365, networking, firewall, linux",
-    "Healthcare signals: healthcare, life sciences",
-    "Shift match: after-hours",
-    "Remote",
     "Senior level"
    ]
   },
@@ -354,28 +330,6 @@
     "Remote (California)",
     "Senior level",
     "Salary $219,100 - $301,300"
-   ]
-  },
-  {
-   "key": "e8a8231453f9050b",
-   "title": "Senior IT Infrastructure / Systems Engineer",
-   "company": "Flatrock",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/flatrock/remote-senior-it-infrastructure-systems-engineer-136137",
-   "location": "Remote UK",
-   "source": "arbeitnow",
-   "posted_at": "2026-08-24T21:29:48+00:00",
-   "first_seen_at": "2026-08-24T22:46:43.829885+00:00",
-   "score": 86,
-   "category": "Cloud",
-   "remote": "Remote",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: systems engineer",
-    "Skills (10): azure, active directory, firewall, linux, escalation, troubleshooting",
-    "Remote",
-    "Senior level"
    ]
   },
   {
@@ -919,6 +873,29 @@
    ]
   },
   {
+   "key": "467c23c6ec4bc902",
+   "title": "Senior Product Security Engineer",
+   "company": "Numan",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/numan/senior-product-security-engineer-london-435779",
+   "location": "London",
+   "source": "arbeitnow",
+   "posted_at": "2026-08-25T21:24:35+00:00",
+   "first_seen_at": "2026-08-25T22:47:43.059173+00:00",
+   "score": 71,
+   "category": "Cybersecurity",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": true,
+   "salary": "",
+   "why": [
+    "Title match: security engineer",
+    "Skills (8): azure, kubernetes, ci/cd, iac, incident response, aws",
+    "Healthcare signals: healthcare, clinical, patient, digital health",
+    "Onsite outside SoCal",
+    "Senior level"
+   ]
+  },
+  {
    "key": "greenhouse:datadog:7960450",
    "title": "Senior Manager, Product Solutions Architecture",
    "company": "Datadog",
@@ -1121,27 +1098,6 @@
     "Skills (3): azure, aws, gcp",
     "Healthcare signals: healthcare",
     "Remote (US)"
-   ]
-  },
-  {
-   "key": "18bedb358cb1d7dc",
-   "title": "Cyber Security Engineer II",
-   "company": "Pingidentity",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/pingidentity/cyber-security-engineer-ii-385761",
-   "location": "",
-   "source": "arbeitnow",
-   "posted_at": "2026-08-24T18:56:06+00:00",
-   "first_seen_at": "2026-08-24T19:46:53.948742+00:00",
-   "score": 68,
-   "category": "Cybersecurity",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: security engineer",
-    "Skills (8): kubernetes, docker, incident response, automation, aws, gcp",
-    "Healthcare signals: healthcare"
    ]
   },
   {
@@ -2973,28 +2929,6 @@
    ]
   },
   {
-   "key": "dc3e140d6664505a",
-   "title": "Senior Platform Engineer",
-   "company": "9Fin",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/9fin/senior-platform-engineer-london-337119",
-   "location": "London",
-   "source": "arbeitnow",
-   "posted_at": "2026-08-24T21:40:18+00:00",
-   "first_seen_at": "2026-08-24T22:46:43.829885+00:00",
-   "score": 47,
-   "category": "Cloud",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: platform engineer",
-    "Skills (8): entra, terraform, linux, docker, ci/cd, monitoring",
-    "Onsite outside SoCal",
-    "Senior level"
-   ]
-  },
-  {
    "key": "greenhouse:datadog:8018696",
    "title": "Technical Account Manager 2 - South Africa",
    "company": "Datadog",
@@ -4475,29 +4409,6 @@
    ]
   },
   {
-   "key": "greenhouse:cloudflare:8087792",
-   "title": "Senior Systems Engineer",
-   "company": "Cloudflare",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8087792?gh_jid=8087792",
-   "location": "Hybrid",
-   "source": "greenhouse",
-   "posted_at": "2026-08-24T22:08:09+00:00",
-   "first_seen_at": "2026-08-19T04:12:53.757863+00:00",
-   "score": 41,
-   "category": "Cloud",
-   "remote": "Hybrid",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: systems engineer",
-    "Skills (5): networking, linux, incident response, monitoring, identity",
-    "Healthcare signals: phi",
-    "Onsite outside SoCal",
-    "Senior level"
-   ]
-  },
-  {
    "key": "ashby:openai:2d8b30c7-afa3-42ca-b315-ead35e8457ab",
    "title": "Security Engineer, Detection and Response - EMEA",
    "company": "OpenAI",
@@ -4588,7 +4499,7 @@
    "url": "https://careers.datadoghq.com/detail/7984983/?gh_jid=7984983",
    "location": "Boston, Massachusetts, USA; New York, New York, USA",
    "source": "greenhouse",
-   "posted_at": "2026-08-24T14:26:32+00:00",
+   "posted_at": "2026-08-25T22:38:49+00:00",
    "first_seen_at": "2026-08-19T04:12:53.757863+00:00",
    "score": 40,
    "category": "Other",
@@ -5718,6 +5629,29 @@
    ]
   },
   {
+   "key": "greenhouse:cloudflare:8087792",
+   "title": "Senior Systems Engineer",
+   "company": "Cloudflare",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8087792?gh_jid=8087792",
+   "location": "Hybrid",
+   "source": "greenhouse",
+   "posted_at": "2026-08-25T21:56:22+00:00",
+   "first_seen_at": "2026-08-19T04:12:53.757863+00:00",
+   "score": 37,
+   "category": "Cloud",
+   "remote": "Hybrid",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: systems engineer",
+    "Skills (4): networking, linux, monitoring, identity",
+    "Healthcare signals: phi",
+    "Onsite outside SoCal",
+    "Senior level"
+   ]
+  },
+  {
    "key": "lever:veeva systems:398a6579-7bb0-4e63-b43a-2042d4947d56",
    "title": "Senior Data Analyst",
    "company": "Veeva Systems",
@@ -5850,27 +5784,6 @@
     "Senior level",
     "Salary $139,700 - $192,050",
     "Downranked: account executive"
-   ]
-  },
-  {
-   "key": "2dc9544ba60e9998",
-   "title": "Platform Engineer",
-   "company": "9Fin",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/9fin/platform-engineer-london-97734",
-   "location": "London",
-   "source": "arbeitnow",
-   "posted_at": "2026-08-24T21:40:18+00:00",
-   "first_seen_at": "2026-08-24T22:46:43.829885+00:00",
-   "score": 37,
-   "category": "Cloud",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: platform engineer",
-    "Skills (8): entra, terraform, linux, docker, ci/cd, monitoring",
-    "Onsite outside SoCal"
    ]
   },
   {
@@ -8146,6 +8059,28 @@
    "why": [
     "Skills (10): azure, terraform, linux, kubernetes, docker, iac",
     "Healthcare signals: phi",
+    "Onsite outside SoCal",
+    "Senior level"
+   ]
+  },
+  {
+   "key": "403028f49306886b",
+   "title": "Senior Data Platform Engineer",
+   "company": "Smartly",
+   "url": "https://www.arbeitnow.com/jobs/companies/smartly/senior-data-platform-engineer-berlin-172988",
+   "location": "Berlin, Germany",
+   "source": "arbeitnow",
+   "posted_at": "2026-08-25T13:45:28+00:00",
+   "first_seen_at": "2026-08-25T22:47:43.059173+00:00",
+   "score": 31,
+   "category": "Cloud",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: platform engineer",
+    "Skills (4): entra, kubernetes, automation, observability",
     "Onsite outside SoCal",
     "Senior level"
    ]
@@ -10580,6 +10515,47 @@
    ]
   },
   {
+   "key": "greenhouse:talkspace:6162085004",
+   "title": "Network Strategic Operations Coordinator",
+   "company": "Talkspace",
+   "url": "https://www.talkspace.com/careers/job?gh_jid=6162085004",
+   "location": "New York, NY (Remote)",
+   "source": "greenhouse",
+   "posted_at": "2026-08-25T22:13:36+00:00",
+   "first_seen_at": "2026-08-25T22:47:43.059173+00:00",
+   "score": 26,
+   "category": "Cloud Operations/Support",
+   "remote": "Remote",
+   "shift": "",
+   "healthcare": true,
+   "salary": "",
+   "why": [
+    "Skills (2): monitoring, sso",
+    "Healthcare signals: healthcare, clinical",
+    "Remote"
+   ]
+  },
+  {
+   "key": "7ace873954510549",
+   "title": "Staff Product Manager, OpenTelemetry | UK | Remote",
+   "company": "grafanalabs",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/grafanalabs/staff-product-manager-opentelemetry-uk-remote-22840",
+   "location": "",
+   "source": "arbeitnow",
+   "posted_at": "2026-08-25T21:55:25+00:00",
+   "first_seen_at": "2026-08-25T22:47:43.059173+00:00",
+   "score": 26,
+   "category": "Other",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (4): kubernetes, troubleshooting, monitoring, observability",
+    "Senior level"
+   ]
+  },
+  {
    "key": "greenhouse:cloudflare:7641930",
    "title": "Senior Atlassian System Admin",
    "company": "Cloudflare",
@@ -11158,6 +11134,27 @@
     "Title match: systems engineer",
     "Skills (5): networking, kubernetes, incident response, monitoring, observability",
     "Onsite outside SoCal"
+   ]
+  },
+  {
+   "key": "743a268d0d2128af",
+   "title": "Principal Implementation Engineer, Customer Support (EMEA)",
+   "company": "Bitwarden",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/bitwarden/principal-implementation-engineer-customer-support-emea-united-kingdom-138228",
+   "location": "United Kingdom",
+   "source": "arbeitnow",
+   "posted_at": "2026-08-25T21:45:28+00:00",
+   "first_seen_at": "2026-08-25T22:47:43.059173+00:00",
+   "score": 25,
+   "category": "Cloud Operations/Support",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (14): azure, entra, active directory, powershell, linux, kubernetes",
+    "Onsite outside SoCal",
+    "Senior level"
    ]
   }
  ]
