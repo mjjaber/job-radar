@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-25T03:14:17.490825+00:00",
- "signature": "32763fb70cbb9110e843f97f05c7747d46ec7438",
- "count": 504,
+ "generated_at": "2026-08-25T04:04:07.067709+00:00",
+ "signature": "25c7683cd9daaa837efcd6d4a876c4373d80aa81",
+ "count": 507,
  "jobs": [
   {
    "key": "greenhouse:datadog:7943824",
@@ -189,6 +189,29 @@
     "Remote (California)",
     "Senior level",
     "Salary $219,100"
+   ]
+  },
+  {
+   "key": "5decfa35c441274d",
+   "title": "(Senior) DevOps Engineer (m/w/d)",
+   "company": "HyPlus Technology GmbH",
+   "url": "https://www.arbeitnow.com/jobs/companies/hyplus-technology-gmbh/remote-senior-devops-engineer-ratingen-325974",
+   "location": "Remote job",
+   "source": "arbeitnow",
+   "posted_at": "2026-08-25T02:30:12+00:00",
+   "first_seen_at": "2026-08-25T04:04:07.067709+00:00",
+   "score": 92,
+   "category": "Cloud",
+   "remote": "Remote",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: devops engineer",
+    "Skills (16): azure, terraform, linux, kubernetes, docker, ci/cd",
+    "Healthcare signals: ehr",
+    "Remote",
+    "Senior level"
    ]
   },
   {
@@ -1388,6 +1411,29 @@
     "Title match: solutions engineer",
     "Skills (10): azure, terraform, linux, kubernetes, docker, iac",
     "Healthcare signals: phi",
+    "Onsite outside SoCal",
+    "Senior level"
+   ]
+  },
+  {
+   "key": "78ff5228842b2160",
+   "title": "Senior DevOps Engineer (m/w/d) f\u00fcr Brandenburg, Berlin, Braunschweig",
+   "company": "HyPlus Technology GmbH",
+   "url": "https://www.arbeitnow.com/jobs/companies/hyplus-technology-gmbh/senior-devops-engineer-fur-brandenburg-berlin-braunschweig-brunswick-241394",
+   "location": "Brunswick, Niedersachsen, Germany",
+   "source": "arbeitnow",
+   "posted_at": "2026-08-25T02:30:12+00:00",
+   "first_seen_at": "2026-08-25T04:04:07.067709+00:00",
+   "score": 61,
+   "category": "Cloud",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: devops engineer",
+    "Skills (15): entra, terraform, linux, kubernetes, docker, ci/cd",
+    "Healthcare signals: ehr",
     "Onsite outside SoCal",
     "Senior level"
    ]
@@ -9783,6 +9829,28 @@
     "Skills (3): escalation, troubleshooting, automation",
     "Shift match: weekend shift, saturday, sunday",
     "Onsite outside SoCal"
+   ]
+  },
+  {
+   "key": "3e5e60ddcabf0514",
+   "title": "Senior Software Engineer FullStack Kotlin / React - Berlin (f/m/d)",
+   "company": "Doctolib",
+   "url": "https://www.arbeitnow.com/jobs/companies/doctolib/senior-software-engineer-fullstack-kotlin-react-berlin-berlin-berlin-469096",
+   "location": "Berlin, Berlin",
+   "source": "arbeitnow",
+   "posted_at": "2026-08-25T02:55:05+00:00",
+   "first_seen_at": "2026-08-25T04:04:07.067709+00:00",
+   "score": 27,
+   "category": "Other",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": true,
+   "salary": "",
+   "why": [
+    "Skills (3): ci/cd, monitoring, observability",
+    "Healthcare signals: healthcare, fhir, hl7, ehr",
+    "Onsite outside SoCal",
+    "Senior level"
    ]
   },
   {
