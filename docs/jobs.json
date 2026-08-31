@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-31T20:08:35.446597+00:00",
- "signature": "9fdd78047e3b0e9e7428c41f0bbed8c4e0b54b8b",
- "count": 501,
+ "generated_at": "2026-08-31T23:53:00.331444+00:00",
+ "signature": "4a124a7013101e3ed011d3b415bab9486d44d12c",
+ "count": 500,
  "jobs": [
   {
    "key": "greenhouse:datadog:7943824",
@@ -286,28 +286,6 @@
    ]
   },
   {
-   "key": "c14caca3e9becdf6",
-   "title": "Principal Solutions Architect, Professional Services",
-   "company": "Docker",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/docker/principal-solutions-architect-professional-services-england-126150",
-   "location": "England",
-   "source": "arbeitnow",
-   "posted_at": "2026-08-29T09:40:09+00:00",
-   "first_seen_at": "2026-08-29T14:30:41.470434+00:00",
-   "score": 86,
-   "category": "Cloud",
-   "remote": "Remote",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: solutions architect",
-    "Skills (10): azure, active directory, kubernetes, docker, observability, identity",
-    "Remote",
-    "Senior level"
-   ]
-  },
-  {
    "key": "greenhouse:datadog:8010455",
    "title": "Partner Solutions Architect (GSI) - AMER West",
    "company": "Datadog",
@@ -555,6 +533,27 @@
    ]
   },
   {
+   "key": "c9f92b6edea89b68",
+   "title": "Site Reliability Engineers (SRE)",
+   "company": "Xm",
+   "url": "https://www.arbeitnow.com/jobs/companies/xm/remote-site-reliability-engineers-sre-252482",
+   "location": "Remote",
+   "source": "arbeitnow",
+   "posted_at": "2026-08-31T20:04:06+00:00",
+   "first_seen_at": "2026-08-31T23:53:00.331444+00:00",
+   "score": 76,
+   "category": "Cloud",
+   "remote": "Remote",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: site reliability",
+    "Skills (11): terraform, networking, linux, kubernetes, ci/cd, iac",
+    "Remote"
+   ]
+  },
+  {
    "key": "ashby:openai:f51f750f-a737-4441-8f96-30133a2a8049",
    "title": "Security Engineer, Infrastructure Security",
    "company": "OpenAI",
@@ -665,11 +664,11 @@
    ]
   },
   {
-   "key": "greenhouse:datadog:7683726",
+   "key": "greenhouse:datadog:8094179",
    "title": "Partner Solutions Architect (EMEA)",
    "company": "Datadog",
-   "url": "https://careers.datadoghq.com/detail/7683726/?gh_jid=7683726",
-   "location": "Italy, Remote; Paris, France; Portugal, Remote; Spain, Remote",
+   "url": "https://careers.datadoghq.com/detail/8094179/?gh_jid=8094179",
+   "location": "Amsterdam, The Netherlands; Germany, Remote",
    "source": "greenhouse",
    "posted_at": "2026-08-27T20:40:41+00:00",
    "first_seen_at": "2026-08-19T04:12:53.757863+00:00",
@@ -686,11 +685,11 @@
    ]
   },
   {
-   "key": "greenhouse:datadog:8094179",
+   "key": "greenhouse:datadog:7683726",
    "title": "Partner Solutions Architect (EMEA)",
    "company": "Datadog",
-   "url": "https://careers.datadoghq.com/detail/8094179/?gh_jid=8094179",
-   "location": "Amsterdam, The Netherlands; Germany, Remote",
+   "url": "https://careers.datadoghq.com/detail/7683726/?gh_jid=7683726",
+   "location": "Italy, Remote; Paris, France; Portugal, Remote; Spain, Remote",
    "source": "greenhouse",
    "posted_at": "2026-08-27T20:40:41+00:00",
    "first_seen_at": "2026-08-19T04:12:53.757863+00:00",
@@ -1296,11 +1295,11 @@
    ]
   },
   {
-   "key": "greenhouse:databricks:6544435002",
+   "key": "greenhouse:databricks:4799387002",
    "title": "Senior Software Engineer - Backend",
    "company": "Databricks",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6544435002",
-   "location": "Mountain View, California",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=4799387002",
+   "location": "San Francisco, California",
    "source": "greenhouse",
    "posted_at": "2026-08-18T17:17:04+00:00",
    "first_seen_at": "2026-08-21T17:47:42.253585+00:00",
@@ -1319,11 +1318,11 @@
    ]
   },
   {
-   "key": "greenhouse:databricks:4799387002",
+   "key": "greenhouse:databricks:6544435002",
    "title": "Senior Software Engineer - Backend",
    "company": "Databricks",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=4799387002",
-   "location": "San Francisco, California",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6544435002",
+   "location": "Mountain View, California",
    "source": "greenhouse",
    "posted_at": "2026-08-18T17:17:04+00:00",
    "first_seen_at": "2026-08-21T17:47:42.253585+00:00",
@@ -1359,6 +1358,29 @@
    "why": [
     "Healthcare signals: healthcare, phi, clinical, patient",
     "Remote (US)",
+    "Senior level"
+   ]
+  },
+  {
+   "key": "a75f28e69e3558d4",
+   "title": "Senior Security Engineer - Remote",
+   "company": "Parity",
+   "url": "https://www.arbeitnow.com/jobs/companies/parity/senior-security-engineer-remote-359025",
+   "location": "Remote",
+   "source": "arbeitnow",
+   "posted_at": "2026-08-31T20:40:18+00:00",
+   "first_seen_at": "2026-08-31T23:53:00.331444+00:00",
+   "score": 60,
+   "category": "Cybersecurity",
+   "remote": "Remote",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: security engineer",
+    "Skills (2): entra, vulnerability",
+    "Healthcare signals: phi",
+    "Remote",
     "Senior level"
    ]
   },
@@ -1634,11 +1656,11 @@
    ]
   },
   {
-   "key": "greenhouse:databricks:5408888002",
+   "key": "greenhouse:databricks:6544443002",
    "title": "Staff Software Engineer - Backend",
    "company": "Databricks",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=5408888002",
-   "location": "San Francisco, California",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6544443002",
+   "location": "Mountain View, California",
    "source": "greenhouse",
    "posted_at": "2026-08-18T17:17:04+00:00",
    "first_seen_at": "2026-08-21T17:47:42.253585+00:00",
@@ -1656,11 +1678,11 @@
    ]
   },
   {
-   "key": "greenhouse:databricks:6544443002",
+   "key": "greenhouse:databricks:5408888002",
    "title": "Staff Software Engineer - Backend",
    "company": "Databricks",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6544443002",
-   "location": "Mountain View, California",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=5408888002",
+   "location": "San Francisco, California",
    "source": "greenhouse",
    "posted_at": "2026-08-18T17:17:04+00:00",
    "first_seen_at": "2026-08-21T17:47:42.253585+00:00",
@@ -1898,11 +1920,11 @@
    ]
   },
   {
-   "key": "greenhouse:datadog:8141240",
+   "key": "greenhouse:datadog:8141243",
    "title": "Security Sales Engineer",
    "company": "Datadog",
-   "url": "https://careers.datadoghq.com/detail/8141240/?gh_jid=8141240",
-   "location": "Florida, USA, Remote; Georgia, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote",
+   "url": "https://careers.datadoghq.com/detail/8141243/?gh_jid=8141243",
+   "location": "California, USA, Remote; Colorado, USA, Remote; Washington, USA, Remote",
    "source": "greenhouse",
    "posted_at": "2026-08-27T20:40:41+00:00",
    "first_seen_at": "2026-08-19T08:56:34.050171+00:00",
@@ -1919,11 +1941,11 @@
    ]
   },
   {
-   "key": "greenhouse:datadog:8141243",
+   "key": "greenhouse:datadog:8141240",
    "title": "Security Sales Engineer",
    "company": "Datadog",
-   "url": "https://careers.datadoghq.com/detail/8141243/?gh_jid=8141243",
-   "location": "California, USA, Remote; Colorado, USA, Remote; Washington, USA, Remote",
+   "url": "https://careers.datadoghq.com/detail/8141240/?gh_jid=8141240",
+   "location": "Florida, USA, Remote; Georgia, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote",
    "source": "greenhouse",
    "posted_at": "2026-08-27T20:40:41+00:00",
    "first_seen_at": "2026-08-19T08:56:34.050171+00:00",
@@ -2003,28 +2025,6 @@
     "Skills (3): azure, aws, gcp",
     "Healthcare signals: healthcare",
     "Remote"
-   ]
-  },
-  {
-   "key": "bc5b94550466d578",
-   "title": "Senior Healthcare Consultant (Klinische KI-Transformation) (m/w/d)",
-   "company": "Recare Deutschland GmbH",
-   "url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-senior-healthcare-consultant-klinische-ki-transformation-berlin-381604",
-   "location": "Remote job",
-   "source": "arbeitnow",
-   "posted_at": "2026-08-31T08:30:05+00:00",
-   "first_seen_at": "2026-08-31T13:57:21.804049+00:00",
-   "score": 53,
-   "category": "Healthcare IT",
-   "remote": "Remote",
-   "shift": "",
-   "healthcare": true,
-   "salary": "",
-   "why": [
-    "Healthcare title: healthcare",
-    "Healthcare signals: healthcare, patient",
-    "Remote",
-    "Senior level"
    ]
   },
   {
@@ -2115,14 +2115,14 @@
    ]
   },
   {
-   "key": "c11469763a12e523",
-   "title": "IT Systems Engineer (m/w/d)",
-   "company": "Raya Diagnostics GmbH",
-   "url": "https://www.arbeitnow.com/jobs/companies/raya-diagnostics-gmbh/it-systems-engineer-munich-7878",
-   "location": "Munich",
+   "key": "7657522532257ece",
+   "title": "DevOps Engineer \u2013 Release & Deployment (m/w/d)",
+   "company": "GRAYOAK",
+   "url": "https://www.arbeitnow.com/jobs/companies/grayoak/devops-engineer-release-deployment-frankfurt-am-main-35890",
+   "location": "Frankfurt am Main",
    "source": "arbeitnow",
-   "posted_at": "2026-08-31T08:30:44+00:00",
-   "first_seen_at": "2026-08-31T13:57:21.804049+00:00",
+   "posted_at": "2026-08-31T20:09:22+00:00",
+   "first_seen_at": "2026-08-31T23:53:00.331444+00:00",
    "score": 51,
    "category": "Cloud",
    "remote": "Onsite",
@@ -2130,8 +2130,8 @@
    "healthcare": false,
    "salary": "",
    "why": [
-    "Title match: systems engineer",
-    "Skills (17): azure, entra, terraform, powershell, intune, microsoft 365",
+    "Title match: devops engineer",
+    "Skills (10): azure, entra, terraform, networking, kubernetes, docker",
     "Healthcare signals: ehr",
     "Onsite outside SoCal"
    ]
@@ -2547,28 +2547,6 @@
    ]
   },
   {
-   "key": "greenhouse:datadog:7405822",
-   "title": "Enterprise Sales Executive",
-   "company": "Datadog",
-   "url": "https://careers.datadoghq.com/detail/7405822/?gh_jid=7405822",
-   "location": "Georgia, USA, Remote",
-   "source": "greenhouse",
-   "posted_at": "2026-08-27T20:40:41+00:00",
-   "first_seen_at": "2026-08-19T04:12:53.757863+00:00",
-   "score": 48,
-   "category": "Other",
-   "remote": "Remote",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Skills (3): networking, observability, identity",
-    "Healthcare signals: healthcare",
-    "Remote (US)",
-    "Senior level"
-   ]
-  },
-  {
    "key": "greenhouse:datadog:7465857",
    "title": "Enterprise Sales Executive",
    "company": "Datadog",
@@ -2596,6 +2574,28 @@
    "company": "Datadog",
    "url": "https://careers.datadoghq.com/detail/7466155/?gh_jid=7466155",
    "location": "Florida, USA, Remote",
+   "source": "greenhouse",
+   "posted_at": "2026-08-27T20:40:41+00:00",
+   "first_seen_at": "2026-08-19T04:12:53.757863+00:00",
+   "score": 48,
+   "category": "Other",
+   "remote": "Remote",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (3): networking, observability, identity",
+    "Healthcare signals: healthcare",
+    "Remote (US)",
+    "Senior level"
+   ]
+  },
+  {
+   "key": "greenhouse:datadog:7405822",
+   "title": "Enterprise Sales Executive",
+   "company": "Datadog",
+   "url": "https://careers.datadoghq.com/detail/7405822/?gh_jid=7405822",
+   "location": "Georgia, USA, Remote",
    "source": "greenhouse",
    "posted_at": "2026-08-27T20:40:41+00:00",
    "first_seen_at": "2026-08-19T04:12:53.757863+00:00",
@@ -2812,23 +2812,23 @@
    ]
   },
   {
-   "key": "445cc76a631caa00",
-   "title": "Senior Software Engineer, DevOps",
-   "company": "Muckrack",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/muckrack/remote-senior-software-engineer-devops-84240",
-   "location": "Remote (Bulgaria, Ireland",
+   "key": "9b629b795011d911",
+   "title": "Senior Solutions Architect",
+   "company": "Elastic",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/elastic/senior-solutions-architect-360118",
+   "location": "",
    "source": "arbeitnow",
-   "posted_at": "2026-08-29T03:55:25+00:00",
-   "first_seen_at": "2026-08-29T09:07:34.869800+00:00",
+   "posted_at": "2026-08-31T21:55:18+00:00",
+   "first_seen_at": "2026-08-31T23:53:00.331444+00:00",
    "score": 48,
-   "category": "Other",
-   "remote": "Remote",
+   "category": "Cloud",
+   "remote": "Onsite",
    "shift": "",
    "healthcare": false,
    "salary": "",
    "why": [
-    "Skills (8): terraform, networking, kubernetes, docker, ci/cd, monitoring",
-    "Remote",
+    "Title match: solutions architect",
+    "Skills (2): observability, identity",
     "Senior level"
    ]
   },
@@ -4073,57 +4073,11 @@
    ]
   },
   {
-   "key": "greenhouse:databricks:8494144002",
+   "key": "greenhouse:databricks:8494146002",
    "title": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
    "company": "Databricks",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494144002",
-   "location": "Dallas, Texas",
-   "source": "greenhouse",
-   "posted_at": "2026-08-18T17:55:14+00:00",
-   "first_seen_at": "2026-08-21T17:47:42.253585+00:00",
-   "score": 42,
-   "category": "Healthcare IT",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": true,
-   "salary": "",
-   "why": [
-    "Healthcare title: healthcare",
-    "Skills (5): azure, entra, ci/cd, aws, gcp",
-    "Healthcare signals: healthcare, life sciences",
-    "Onsite outside SoCal",
-    "Senior level"
-   ]
-  },
-  {
-   "key": "greenhouse:databricks:8494143002",
-   "title": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
-   "company": "Databricks",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494143002",
-   "location": "Chicago, Illinois",
-   "source": "greenhouse",
-   "posted_at": "2026-08-18T17:55:14+00:00",
-   "first_seen_at": "2026-08-21T17:47:42.253585+00:00",
-   "score": 42,
-   "category": "Healthcare IT",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": true,
-   "salary": "",
-   "why": [
-    "Healthcare title: healthcare",
-    "Skills (5): azure, entra, ci/cd, aws, gcp",
-    "Healthcare signals: healthcare, life sciences",
-    "Onsite outside SoCal",
-    "Senior level"
-   ]
-  },
-  {
-   "key": "greenhouse:databricks:8494142002",
-   "title": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
-   "company": "Databricks",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494142002",
-   "location": "Boston, Massachusetts",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494146002",
+   "location": "Atlanta, Georgia",
    "source": "greenhouse",
    "posted_at": "2026-08-18T17:55:14+00:00",
    "first_seen_at": "2026-08-21T17:47:42.253585+00:00",
@@ -4165,6 +4119,29 @@
    ]
   },
   {
+   "key": "greenhouse:databricks:8494142002",
+   "title": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
+   "company": "Databricks",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494142002",
+   "location": "Boston, Massachusetts",
+   "source": "greenhouse",
+   "posted_at": "2026-08-18T17:55:14+00:00",
+   "first_seen_at": "2026-08-21T17:47:42.253585+00:00",
+   "score": 42,
+   "category": "Healthcare IT",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": true,
+   "salary": "",
+   "why": [
+    "Healthcare title: healthcare",
+    "Skills (5): azure, entra, ci/cd, aws, gcp",
+    "Healthcare signals: healthcare, life sciences",
+    "Onsite outside SoCal",
+    "Senior level"
+   ]
+  },
+  {
    "key": "greenhouse:databricks:8494145002",
    "title": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
    "company": "Databricks",
@@ -4188,11 +4165,34 @@
    ]
   },
   {
-   "key": "greenhouse:databricks:8494146002",
+   "key": "greenhouse:databricks:8494143002",
    "title": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
    "company": "Databricks",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494146002",
-   "location": "Atlanta, Georgia",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494143002",
+   "location": "Chicago, Illinois",
+   "source": "greenhouse",
+   "posted_at": "2026-08-18T17:55:14+00:00",
+   "first_seen_at": "2026-08-21T17:47:42.253585+00:00",
+   "score": 42,
+   "category": "Healthcare IT",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": true,
+   "salary": "",
+   "why": [
+    "Healthcare title: healthcare",
+    "Skills (5): azure, entra, ci/cd, aws, gcp",
+    "Healthcare signals: healthcare, life sciences",
+    "Onsite outside SoCal",
+    "Senior level"
+   ]
+  },
+  {
+   "key": "greenhouse:databricks:8494144002",
+   "title": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
+   "company": "Databricks",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494144002",
+   "location": "Dallas, Texas",
    "source": "greenhouse",
    "posted_at": "2026-08-18T17:55:14+00:00",
    "first_seen_at": "2026-08-21T17:47:42.253585+00:00",
@@ -4533,11 +4533,11 @@
    ]
   },
   {
-   "key": "greenhouse:datadog:8007598",
+   "key": "greenhouse:datadog:8007606",
    "title": "Staff Software Engineer - Security Agent",
    "company": "Datadog",
-   "url": "https://careers.datadoghq.com/detail/8007598/?gh_jid=8007598",
-   "location": "France, Remote; Germany, Remote; Ireland, Remote; Italy, Remote; Spain, Remote",
+   "url": "https://careers.datadoghq.com/detail/8007606/?gh_jid=8007606",
+   "location": "Portugal, Remote",
    "source": "greenhouse",
    "posted_at": "2026-08-27T20:40:41+00:00",
    "first_seen_at": "2026-08-19T04:12:53.757863+00:00",
@@ -4554,11 +4554,11 @@
    ]
   },
   {
-   "key": "greenhouse:datadog:8007606",
+   "key": "greenhouse:datadog:8007598",
    "title": "Staff Software Engineer - Security Agent",
    "company": "Datadog",
-   "url": "https://careers.datadoghq.com/detail/8007606/?gh_jid=8007606",
-   "location": "Portugal, Remote",
+   "url": "https://careers.datadoghq.com/detail/8007598/?gh_jid=8007598",
+   "location": "France, Remote; Germany, Remote; Ireland, Remote; Italy, Remote; Spain, Remote",
    "source": "greenhouse",
    "posted_at": "2026-08-27T20:40:41+00:00",
    "first_seen_at": "2026-08-19T04:12:53.757863+00:00",
@@ -4793,27 +4793,6 @@
     "California",
     "Senior level",
     "Salary $219,800 - $302,300"
-   ]
-  },
-  {
-   "key": "greenhouse:databricks:8026634002",
-   "title": "Staff Security Software Engineer, AI Security",
-   "company": "Databricks",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8026634002",
-   "location": "Remote - California",
-   "source": "greenhouse",
-   "posted_at": "2026-08-27T20:18:20+00:00",
-   "first_seen_at": "2026-08-21T17:47:42.253585+00:00",
-   "score": 40,
-   "category": "Cybersecurity",
-   "remote": "Remote",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Skills (3): ci/cd, automation, vulnerability",
-    "Remote (California)",
-    "Senior level"
    ]
   },
   {
@@ -5340,28 +5319,6 @@
     "California",
     "Senior level",
     "Salary $193,500"
-   ]
-  },
-  {
-   "key": "greenhouse:databricks:8180690002",
-   "title": "Senior Engineering Manager - Trust and Safety",
-   "company": "Databricks",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8180690002",
-   "location": "Mountain View, California",
-   "source": "greenhouse",
-   "posted_at": "2026-08-18T17:17:06+00:00",
-   "first_seen_at": "2026-08-21T17:47:42.253585+00:00",
-   "score": 38,
-   "category": "Other",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": false,
-   "salary": "$217,000 - $288,400",
-   "why": [
-    "Skills (2): entra, identity",
-    "California",
-    "Senior level",
-    "Salary $217,000 - $288,400"
    ]
   },
   {
@@ -6216,11 +6173,11 @@
    ]
   },
   {
-   "key": "greenhouse:databricks:6544364002",
+   "key": "greenhouse:databricks:5646855002",
    "title": "Staff Software Engineer - Distributed Data Systems",
    "company": "Databricks",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6544364002",
-   "location": "Mountain View, California",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=5646855002",
+   "location": "San Francisco, California",
    "source": "greenhouse",
    "posted_at": "2026-08-18T17:17:05+00:00",
    "first_seen_at": "2026-08-21T17:47:42.253585+00:00",
@@ -6238,11 +6195,11 @@
    ]
   },
   {
-   "key": "greenhouse:databricks:5646855002",
+   "key": "greenhouse:databricks:6544364002",
    "title": "Staff Software Engineer - Distributed Data Systems",
    "company": "Databricks",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=5646855002",
-   "location": "San Francisco, California",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6544364002",
+   "location": "Mountain View, California",
    "source": "greenhouse",
    "posted_at": "2026-08-18T17:17:05+00:00",
    "first_seen_at": "2026-08-21T17:47:42.253585+00:00",
@@ -6763,11 +6720,11 @@
    ]
   },
   {
-   "key": "greenhouse:databricks:8461163002",
+   "key": "greenhouse:databricks:8461251002",
    "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
    "company": "Databricks",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461163002",
-   "location": "San Francisco, California",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461251002",
+   "location": "Mountain View, California",
    "source": "greenhouse",
    "posted_at": "2026-08-18T17:54:10+00:00",
    "first_seen_at": "2026-08-21T17:47:42.253585+00:00",
@@ -6784,11 +6741,11 @@
    ]
   },
   {
-   "key": "greenhouse:databricks:8461251002",
+   "key": "greenhouse:databricks:8461163002",
    "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
    "company": "Databricks",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461251002",
-   "location": "Mountain View, California",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461163002",
+   "location": "San Francisco, California",
    "source": "greenhouse",
    "posted_at": "2026-08-18T17:54:10+00:00",
    "first_seen_at": "2026-08-21T17:47:42.253585+00:00",
@@ -7155,28 +7112,6 @@
    ]
   },
   {
-   "key": "0e79d56e07a90ba0",
-   "title": "Senior Software Engineer",
-   "company": "Faculty",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/faculty/senior-software-engineer-london-225012",
-   "location": "UK - London",
-   "source": "arbeitnow",
-   "posted_at": "2026-08-29T09:40:17+00:00",
-   "first_seen_at": "2026-08-29T14:30:41.470434+00:00",
-   "score": 33,
-   "category": "Other",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": true,
-   "salary": "",
-   "why": [
-    "Skills (6): azure, entra, kubernetes, docker, aws, gcp",
-    "Healthcare signals: healthcare, patient, medtech, life sciences",
-    "Onsite outside SoCal",
-    "Senior level"
-   ]
-  },
-  {
    "key": "greenhouse:datadog:7426752",
    "title": "Enterprise Sales Executive (SLED)",
    "company": "Datadog",
@@ -7521,13 +7456,13 @@
    ]
   },
   {
-   "key": "greenhouse:databricks:8423310002",
+   "key": "greenhouse:databricks:8657488002",
    "title": "Sr. Forward Deployed Engineer (FDE) - Public Sector ",
    "company": "Databricks",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8423310002",
-   "location": "Delaware; Maryland; Remote - Pennsylvania; Remote - Virginia; Remote - Washington D.C.; West Virginia",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8657488002",
+   "location": "Remote - Virginia; Remote - Washington D.C.",
    "source": "greenhouse",
-   "posted_at": "2026-08-25T16:46:50+00:00",
+   "posted_at": "2026-08-18T18:46:06+00:00",
    "first_seen_at": "2026-08-21T17:47:42.253585+00:00",
    "score": 32,
    "category": "Other",
@@ -7542,13 +7477,13 @@
    ]
   },
   {
-   "key": "greenhouse:databricks:8657488002",
+   "key": "greenhouse:databricks:8423310002",
    "title": "Sr. Forward Deployed Engineer (FDE) - Public Sector ",
    "company": "Databricks",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8657488002",
-   "location": "Remote - Virginia; Remote - Washington D.C.",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8423310002",
+   "location": "Delaware; Maryland; Remote - Pennsylvania; Remote - Virginia; Remote - Washington D.C.; West Virginia",
    "source": "greenhouse",
-   "posted_at": "2026-08-18T18:46:06+00:00",
+   "posted_at": "2026-08-25T16:46:50+00:00",
    "first_seen_at": "2026-08-21T17:47:42.253585+00:00",
    "score": 32,
    "category": "Other",
@@ -7803,11 +7738,11 @@
    ]
   },
   {
-   "key": "greenhouse:databricks:8720251002",
+   "key": "greenhouse:databricks:8720254002",
    "title": "Senior Solutions Architect (EDW Enterprise Data Warehouse Migrations)",
    "company": "Databricks",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8720251002",
-   "location": "Paris, France",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8720254002",
+   "location": "Milan, Italy",
    "source": "greenhouse",
    "posted_at": "2026-08-18T18:53:31+00:00",
    "first_seen_at": "2026-08-21T17:47:42.253585+00:00",
@@ -7847,11 +7782,33 @@
    ]
   },
   {
-   "key": "greenhouse:databricks:8720254002",
+   "key": "greenhouse:databricks:8720252002",
    "title": "Senior Solutions Architect (EDW Enterprise Data Warehouse Migrations)",
    "company": "Databricks",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8720254002",
-   "location": "Milan, Italy",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8720252002",
+   "location": "Amsterdam, Netherlands",
+   "source": "greenhouse",
+   "posted_at": "2026-08-18T18:53:31+00:00",
+   "first_seen_at": "2026-08-21T17:47:42.253585+00:00",
+   "score": 31,
+   "category": "Cloud",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: solutions architect",
+    "Skills (4): azure, escalation, aws, gcp",
+    "Onsite outside SoCal",
+    "Senior level"
+   ]
+  },
+  {
+   "key": "greenhouse:databricks:8720251002",
+   "title": "Senior Solutions Architect (EDW Enterprise Data Warehouse Migrations)",
+   "company": "Databricks",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8720251002",
+   "location": "Paris, France",
    "source": "greenhouse",
    "posted_at": "2026-08-18T18:53:31+00:00",
    "first_seen_at": "2026-08-21T17:47:42.253585+00:00",
@@ -7886,50 +7843,6 @@
    "why": [
     "Title match: solutions architect",
     "Skills (4): azure, escalation, aws, gcp",
-    "Onsite outside SoCal",
-    "Senior level"
-   ]
-  },
-  {
-   "key": "greenhouse:databricks:8720252002",
-   "title": "Senior Solutions Architect (EDW Enterprise Data Warehouse Migrations)",
-   "company": "Databricks",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8720252002",
-   "location": "Amsterdam, Netherlands",
-   "source": "greenhouse",
-   "posted_at": "2026-08-18T18:53:31+00:00",
-   "first_seen_at": "2026-08-21T17:47:42.253585+00:00",
-   "score": 31,
-   "category": "Cloud",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: solutions architect",
-    "Skills (4): azure, escalation, aws, gcp",
-    "Onsite outside SoCal",
-    "Senior level"
-   ]
-  },
-  {
-   "key": "greenhouse:databricks:8567976002",
-   "title": "Sr. Solutions Architect - Financial Services (Fintech / Data Providers) ",
-   "company": "Databricks",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8567976002",
-   "location": "Georgia; Massachusetts; New York; North Carolina; Washington, D.C.",
-   "source": "greenhouse",
-   "posted_at": "2026-08-18T18:13:57+00:00",
-   "first_seen_at": "2026-08-21T17:47:42.253585+00:00",
-   "score": 31,
-   "category": "Cloud",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: solutions architect",
-    "Skills (4): azure, aws, gcp, identity",
     "Onsite outside SoCal",
     "Senior level"
    ]
@@ -8526,10 +8439,10 @@
    ]
   },
   {
-   "key": "greenhouse:databricks:8552484002",
+   "key": "greenhouse:databricks:8532682002",
    "title": "Staff Software Engineer - AI Research Infrastructure",
    "company": "Databricks",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8552484002",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8532682002",
    "location": "New York City, New York; San Francisco, California",
    "source": "greenhouse",
    "posted_at": "2026-08-18T17:17:07+00:00",
@@ -8547,10 +8460,10 @@
    ]
   },
   {
-   "key": "greenhouse:databricks:8532682002",
+   "key": "greenhouse:databricks:8552484002",
    "title": "Staff Software Engineer - AI Research Infrastructure",
    "company": "Databricks",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8532682002",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8552484002",
    "location": "New York City, New York; San Francisco, California",
    "source": "greenhouse",
    "posted_at": "2026-08-18T17:17:07+00:00",
@@ -8674,28 +8587,6 @@
    ]
   },
   {
-   "key": "f86ce51b8989b1e3",
-   "title": "Principal Innovation Business Analyst",
-   "company": "Precisionmedicinegroup",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/precisionmedicinegroup/principal-innovation-business-analyst-london-356183",
-   "location": "London",
-   "source": "arbeitnow",
-   "posted_at": "2026-08-29T03:55:06+00:00",
-   "first_seen_at": "2026-08-29T09:07:34.869800+00:00",
-   "score": 30,
-   "category": "Other",
-   "remote": "Remote",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Skills (2): escalation, sso",
-    "Healthcare signals: clinical",
-    "Remote",
-    "Senior level"
-   ]
-  },
-  {
    "key": "greenhouse:databricks:8583037002",
    "title": "Sr. Field Technical Program Manager, FDE - DNB",
    "company": "Databricks",
@@ -8735,6 +8626,26 @@
     "Skills (2): entra, automation",
     "Healthcare signals: hospital",
     "Remote",
+    "Senior level"
+   ]
+  },
+  {
+   "key": "c6756ffc6171a194",
+   "title": "Sales Sector Lead - Public Sector",
+   "company": "Elastic",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/elastic/sales-sector-lead-public-sector-395211",
+   "location": "",
+   "source": "arbeitnow",
+   "posted_at": "2026-08-31T21:55:18+00:00",
+   "first_seen_at": "2026-08-31T23:53:00.331444+00:00",
+   "score": 30,
+   "category": "Other",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (5): entra, nist, observability, aws, identity",
     "Senior level"
    ]
   },
@@ -9400,6 +9311,27 @@
    ]
   },
   {
+   "key": "87b8459fa92fb29f",
+   "title": "Director, CDx Regulatory Consultant",
+   "company": "Precisionmedicinegroup",
+   "url": "https://www.arbeitnow.com/jobs/companies/precisionmedicinegroup/remote-director-cdx-regulatory-consultant-483451",
+   "location": "Remote",
+   "source": "arbeitnow",
+   "posted_at": "2026-08-31T20:55:29+00:00",
+   "first_seen_at": "2026-08-31T23:53:00.331444+00:00",
+   "score": 28,
+   "category": "Other",
+   "remote": "Remote",
+   "shift": "",
+   "healthcare": true,
+   "salary": "",
+   "why": [
+    "Skills (1): nist",
+    "Healthcare signals: clinical, patient, life sciences",
+    "Remote"
+   ]
+  },
+  {
    "key": "greenhouse:cloudflare:8081027",
    "title": "Network Security Engineer",
    "company": "Cloudflare",
@@ -9638,28 +9570,6 @@
     "Title match: solutions architect",
     "Skills (4): azure, aws, gcp, identity",
     "Healthcare signals: phi",
-    "Onsite outside SoCal"
-   ]
-  },
-  {
-   "key": "greenhouse:databricks:8625638002",
-   "title": "Solutions Architect - Real Money Gaming",
-   "company": "Databricks",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8625638002",
-   "location": "United States",
-   "source": "greenhouse",
-   "posted_at": "2026-08-29T00:02:24+00:00",
-   "first_seen_at": "2026-08-21T17:47:42.253585+00:00",
-   "score": 27,
-   "category": "Cloud",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: solutions architect",
-    "Skills (4): azure, aws, gcp, identity",
-    "Healthcare signals: healthcare",
     "Onsite outside SoCal"
    ]
   },
@@ -10341,6 +10251,68 @@
    "why": [
     "Skills (4): kubernetes, ci/cd, automation, observability",
     "Senior level"
+   ]
+  },
+  {
+   "key": "d7a6358a4d626acf",
+   "title": "Chief of Staff for Engineering",
+   "company": "Parity",
+   "url": "https://www.arbeitnow.com/jobs/companies/parity/remote-chief-of-staff-for-engineering-238284",
+   "location": "Remote",
+   "source": "arbeitnow",
+   "posted_at": "2026-08-31T20:40:18+00:00",
+   "first_seen_at": "2026-08-31T23:53:00.331444+00:00",
+   "score": 26,
+   "category": "Other",
+   "remote": "Remote",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (1): entra",
+    "Healthcare signals: phi",
+    "Remote",
+    "Senior level"
+   ]
+  },
+  {
+   "key": "ea164925221bd829",
+   "title": "Software Development Engineers in Test (Python)",
+   "company": "Xm",
+   "url": "https://www.arbeitnow.com/jobs/companies/xm/remote-software-development-engineers-in-test-python-130060",
+   "location": "Remote",
+   "source": "arbeitnow",
+   "posted_at": "2026-08-31T20:04:06+00:00",
+   "first_seen_at": "2026-08-31T23:53:00.331444+00:00",
+   "score": 26,
+   "category": "Other",
+   "remote": "Remote",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (5): docker, ci/cd, automation, monitoring, aws",
+    "Remote"
+   ]
+  },
+  {
+   "key": "205c105d12cc3bfe",
+   "title": "Public Sector Partner Manager",
+   "company": "Elastic",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/elastic/public-sector-partner-manager-452544",
+   "location": "",
+   "source": "arbeitnow",
+   "posted_at": "2026-08-31T21:55:17+00:00",
+   "first_seen_at": "2026-08-31T23:53:00.331444+00:00",
+   "score": 26,
+   "category": "Other",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (5): entra, observability, aws, identity, sso",
+    "Healthcare signals: healthcare"
    ]
   },
   {
