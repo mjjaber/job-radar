@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-05T00:59:50.370191+00:00",
- "signature": "a6a665e4d0a445ab2f15296e2d2edeca6f4b838c",
- "count": 513,
+ "generated_at": "2026-09-05T05:47:29.813005+00:00",
+ "signature": "d56631750669794b4fc976044731509554837986",
+ "count": 512,
  "jobs": [
   {
    "key": "greenhouse:zocdoc:8060755",
@@ -731,29 +731,6 @@
    ]
   },
   {
-   "key": "c1df56d751ff20db",
-   "title": "Senior Manager, Clinical Operations",
-   "company": "Precisionmedicinegroup",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/precisionmedicinegroup/remote-senior-manager-clinical-operations-363761",
-   "location": "Remote",
-   "source": "arbeitnow",
-   "posted_at": "2026-09-04T00:55:20+00:00",
-   "first_seen_at": "2026-09-04T05:57:18.632007+00:00",
-   "score": 71,
-   "category": "Healthcare IT",
-   "remote": "Remote",
-   "shift": "",
-   "healthcare": true,
-   "salary": "",
-   "why": [
-    "Healthcare title: clinical",
-    "Skills (3): monitoring, gcp, identity",
-    "Healthcare signals: healthcare, clinical, life sciences",
-    "Remote",
-    "Senior level"
-   ]
-  },
-  {
    "key": "greenhouse:datadog:7960450",
    "title": "Senior Manager, Product Solutions Architecture",
    "company": "Datadog",
@@ -1070,6 +1047,27 @@
     "Skills (3): azure, aws, gcp",
     "Healthcare signals: healthcare",
     "Southern California"
+   ]
+  },
+  {
+   "key": "41bf7f8568bd7c9d",
+   "title": "Cloud Security Engineer",
+   "company": "Ygo",
+   "url": "https://www.arbeitnow.com/jobs/companies/ygo/remote-cloud-security-engineer-220555",
+   "location": "Remote EU",
+   "source": "arbeitnow",
+   "posted_at": "2026-09-05T02:40:08+00:00",
+   "first_seen_at": "2026-09-05T05:47:29.813005+00:00",
+   "score": 64,
+   "category": "Cybersecurity",
+   "remote": "Remote",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: cloud security engineer",
+    "Skills (7): ci/cd, soc 2, observability, identity, sso, oidc",
+    "Remote"
    ]
   },
   {
@@ -2899,28 +2897,6 @@
    ]
   },
   {
-   "key": "9cbcfd98a83a85c2",
-   "title": "Senior Cloud Developer (m/w/d)",
-   "company": "virtual7 GmbH",
-   "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-cloud-developer-bonn-375513",
-   "location": "Homeoffice",
-   "source": "arbeitnow",
-   "posted_at": "2026-09-04T17:30:34+00:00",
-   "first_seen_at": "2026-09-04T19:38:04.344547+00:00",
-   "score": 46,
-   "category": "Other",
-   "remote": "Remote",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Skills (6): linux, kubernetes, docker, ci/cd, iac, automation",
-    "Healthcare signals: ehr",
-    "Remote",
-    "Senior level"
-   ]
-  },
-  {
    "key": "greenhouse:cloudflare:8071586",
    "title": "Senior Solutions Engineer - Madrid based",
    "company": "Cloudflare",
@@ -3545,27 +3521,6 @@
     "Skills (2): networking, observability",
     "Healthcare signals: healthcare",
     "Remote (US)",
-    "Senior level"
-   ]
-  },
-  {
-   "key": "d09bbdeda67f3e4e",
-   "title": "Senior Solutions Architect",
-   "company": "mongodb",
-   "url": "https://www.arbeitnow.com/jobs/companies/mongodb/senior-solutions-architect-301835",
-   "location": "",
-   "source": "arbeitnow",
-   "posted_at": "2026-09-04T11:55:15+00:00",
-   "first_seen_at": "2026-09-04T16:24:32.611743+00:00",
-   "score": 44,
-   "category": "Cloud",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: solutions architect",
-    "Skills (1): kubernetes",
     "Senior level"
    ]
   },
@@ -5724,6 +5679,48 @@
    ]
   },
   {
+   "key": "b78e6145c154ff89",
+   "title": "Infrastructure engineer (UK)",
+   "company": "Writer",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/writer/infrastructure-engineer-uk-london-60403",
+   "location": "London, UK",
+   "source": "arbeitnow",
+   "posted_at": "2026-09-05T03:40:07+00:00",
+   "first_seen_at": "2026-09-05T05:47:29.813005+00:00",
+   "score": 37,
+   "category": "Cloud",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: infrastructure engineer",
+    "Skills (8): azure, terraform, kubernetes, incident response, automation, observability",
+    "Onsite outside SoCal"
+   ]
+  },
+  {
+   "key": "3163f75eb9ce301b",
+   "title": "Security Engineer - Identity and Access Management (IAM)",
+   "company": "Allica Bank",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/allica-bank/security-engineer-identity-and-access-management-iam-milton-keynes-156931",
+   "location": "Milton Keynes Office",
+   "source": "arbeitnow",
+   "posted_at": "2026-09-05T03:40:06+00:00",
+   "first_seen_at": "2026-09-05T05:47:29.813005+00:00",
+   "score": 37,
+   "category": "Cybersecurity",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: security engineer",
+    "Skills (8): azure, entra, automation, identity, sso, saml",
+    "Onsite outside SoCal"
+   ]
+  },
+  {
    "key": "greenhouse:cloudflare:8020043",
    "title": "Senior Manager, Customer Engineering, India",
    "company": "Cloudflare",
@@ -6311,6 +6308,27 @@
    ]
   },
   {
+   "key": "2687b16cda3251f9",
+   "title": "Senior GTM System Builder",
+   "company": "mewssystems",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/mewssystems/senior-gtm-system-builder-115485",
+   "location": "",
+   "source": "arbeitnow",
+   "posted_at": "2026-09-05T03:55:03+00:00",
+   "first_seen_at": "2026-09-05T05:47:29.813005+00:00",
+   "score": 36,
+   "category": "Other",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (5): incident response, escalation, automation, observability, aws",
+    "Healthcare signals: hospital",
+    "Senior level"
+   ]
+  },
+  {
    "key": "greenhouse:databricks:8633227002",
    "title": "Solutions Architect",
    "company": "Databricks",
@@ -6461,28 +6479,6 @@
     "Skills (5): azure, escalation, aws, gcp, identity",
     "Onsite outside SoCal",
     "Senior level"
-   ]
-  },
-  {
-   "key": "e4a514ae1def7ffb",
-   "title": "Cloud Operations Engineer (m/w/d)",
-   "company": "IONOS SE",
-   "url": "https://www.arbeitnow.com/jobs/companies/ionos-se/cloud-operations-engineer-berlin-378109",
-   "location": "Berlin",
-   "source": "arbeitnow",
-   "posted_at": "2026-09-04T18:17:29+00:00",
-   "first_seen_at": "2026-09-04T16:24:32.611743+00:00",
-   "score": 35,
-   "category": "Cloud Operations/Support",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: cloud operations",
-    "Skills (6): terraform, vpn, linux, kubernetes, troubleshooting, monitoring",
-    "Healthcare signals: ehr",
-    "Onsite outside SoCal"
    ]
   },
   {
@@ -7092,26 +7088,6 @@
    ]
   },
   {
-   "key": "8adf7db19b068dbc",
-   "title": "Solutions Architect",
-   "company": "mongodb",
-   "url": "https://www.arbeitnow.com/jobs/companies/mongodb/solutions-architect-101416",
-   "location": "",
-   "source": "arbeitnow",
-   "posted_at": "2026-09-04T11:55:15+00:00",
-   "first_seen_at": "2026-09-04T16:24:32.611743+00:00",
-   "score": 34,
-   "category": "Cloud",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: solutions architect",
-    "Skills (1): kubernetes"
-   ]
-  },
-  {
    "key": "greenhouse:cloudflare:8116208",
    "title": "Principal Systems Engineer, DevTools",
    "company": "Cloudflare",
@@ -7241,29 +7217,6 @@
     "Title match: solutions engineer",
     "Skills (3): escalation, nist, aws",
     "Healthcare signals: phi",
-    "Onsite outside SoCal",
-    "Senior level"
-   ]
-  },
-  {
-   "key": "c90b64447403bcff",
-   "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
-   "company": "virtual7 GmbH",
-   "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-73157",
-   "location": "Homeoffice",
-   "source": "arbeitnow",
-   "posted_at": "2026-09-04T17:30:34+00:00",
-   "first_seen_at": "2026-09-04T19:38:04.344547+00:00",
-   "score": 33,
-   "category": "Cloud",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: cloud engineer",
-    "Skills (3): kubernetes, ci/cd, nist",
-    "Healthcare signals: ehr",
     "Onsite outside SoCal",
     "Senior level"
    ]
@@ -8244,28 +8197,6 @@
    ]
   },
   {
-   "key": "f61bb8f817e172a9",
-   "title": "Platform Engineer (m/w/d)",
-   "company": "CPU Consulting & Software GmbH",
-   "url": "https://www.arbeitnow.com/jobs/companies/cpu-consulting-software-gmbh/platform-engineer-karlsruhe-109358",
-   "location": "Karlsruhe",
-   "source": "arbeitnow",
-   "posted_at": "2026-09-04T12:30:33+00:00",
-   "first_seen_at": "2026-09-04T16:24:32.611743+00:00",
-   "score": 31,
-   "category": "Cloud",
-   "remote": "Hybrid",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: platform engineer",
-    "Skills (5): entra, terraform, kubernetes, ci/cd, sso",
-    "Healthcare signals: ehr",
-    "Onsite outside SoCal"
-   ]
-  },
-  {
    "key": "edcce630d5ce191e",
    "title": "Application Security Engineer",
    "company": "Prima",
@@ -9238,6 +9169,29 @@
    ]
   },
   {
+   "key": "a005259ea72e210e",
+   "title": "Senior AI Systems Engineer \u2013 Robotics/Swarming (all genders)",
+   "company": "Stark",
+   "url": "https://www.arbeitnow.com/jobs/companies/stark/senior-ai-systems-engineer-robotics-swarming-all-genders-munich-229092",
+   "location": "Munich",
+   "source": "arbeitnow",
+   "posted_at": "2026-09-05T02:09:08+00:00",
+   "first_seen_at": "2026-09-05T05:47:29.813005+00:00",
+   "score": 29,
+   "category": "Cloud",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: systems engineer",
+    "Skills (2): entra, networking",
+    "Healthcare signals: epic",
+    "Onsite outside SoCal",
+    "Senior level"
+   ]
+  },
+  {
    "key": "greenhouse:datadog:7791296",
    "title": "Senior Sales Engineer - Majors (France)",
    "company": "Datadog",
@@ -10075,6 +10029,28 @@
     "Title match: solutions architect",
     "Skills (4): azure, aws, gcp, identity",
     "Healthcare signals: healthcare",
+    "Onsite outside SoCal"
+   ]
+  },
+  {
+   "key": "753545e9cfada685",
+   "title": "Security engineer, detection and response (UK)",
+   "company": "Writer",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/writer/security-engineer-detection-and-response-uk-london-268604",
+   "location": "London, UK",
+   "source": "arbeitnow",
+   "posted_at": "2026-09-05T03:40:07+00:00",
+   "first_seen_at": "2026-09-05T05:47:29.813005+00:00",
+   "score": 27,
+   "category": "Cybersecurity",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: security engineer",
+    "Skills (4): incident response, automation, monitoring, siem",
+    "Healthcare signals: phi",
     "Onsite outside SoCal"
    ]
   },
