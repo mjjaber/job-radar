@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-07T20:36:02.493704+00:00",
- "signature": "246753416327575380b3f712234ffd8845b884c0",
- "count": 519,
+ "generated_at": "2026-09-07T23:31:56.889492+00:00",
+ "signature": "569d4a1928031c410b9b7bb9ae357715ce99fc36",
+ "count": 525,
  "jobs": [
   {
    "key": "greenhouse:zocdoc:8060755",
@@ -440,27 +440,6 @@
     "Healthcare signals: phi",
     "Remote (California)",
     "Senior level"
-   ]
-  },
-  {
-   "key": "c9f92b6edea89b68",
-   "title": "Site Reliability Engineers (SRE)",
-   "company": "Xm",
-   "url": "https://www.arbeitnow.fr/jobs/companies/xm/remote-site-reliability-engineers-sre-314013",
-   "location": "Remote",
-   "source": "arbeitnow",
-   "posted_at": "2026-09-06T07:24:17+00:00",
-   "first_seen_at": "2026-09-06T09:28:21.562768+00:00",
-   "score": 76,
-   "category": "Cloud",
-   "remote": "Remote",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: site reliability",
-    "Skills (11): terraform, networking, linux, kubernetes, ci/cd, iac",
-    "Remote"
    ]
   },
   {
@@ -1181,6 +1160,29 @@
    ]
   },
   {
+   "key": "2a7da46e132e3ba1",
+   "title": "Senior Security Engineer, Detection and Response",
+   "company": "HackerOne",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/hackerone/senior-security-engineer-detection-and-response-london-264137",
+   "location": "London",
+   "source": "arbeitnow",
+   "posted_at": "2026-09-07T21:40:07+00:00",
+   "first_seen_at": "2026-09-07T23:31:56.889492+00:00",
+   "score": 61,
+   "category": "Cybersecurity",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: security engineer",
+    "Skills (10): kubernetes, docker, sentinel, incident response, nist, automation",
+    "Healthcare signals: phi",
+    "Onsite outside SoCal",
+    "Senior level"
+   ]
+  },
+  {
    "key": "greenhouse:datadog:8003181",
    "title": "Datadog for Startups - Forward Deployed Engineering Lead",
    "company": "Datadog",
@@ -1402,6 +1404,28 @@
     "Skills (4): ci/cd, automation, observability, aws",
     "Healthcare signals: healthcare, patient",
     "Remote (US)",
+    "Senior level"
+   ]
+  },
+  {
+   "key": "259dce611a73cc04",
+   "title": "Senior DevOps Engineer (m/f/d)",
+   "company": "Auxmoney Gmbh",
+   "url": "https://www.arbeitnow.com/jobs/companies/auxmoney-gmbh/remote-senior-devops-engineer-352144",
+   "location": "Remote / D\u00fcsseldorf",
+   "source": "arbeitnow",
+   "posted_at": "2026-09-07T23:09:06+00:00",
+   "first_seen_at": "2026-09-07T23:31:56.889492+00:00",
+   "score": 58,
+   "category": "Cloud",
+   "remote": "Remote",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: devops engineer",
+    "Skills (3): automation, observability, aws",
+    "Remote",
     "Senior level"
    ]
   },
@@ -3544,6 +3568,29 @@
    ]
   },
   {
+   "key": "d0c3562c1eb05883",
+   "title": "Commercial Lead - Clinical Trials",
+   "company": "Heidi",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/heidi/commercial-lead-clinical-trials-london-485462",
+   "location": "London",
+   "source": "arbeitnow",
+   "posted_at": "2026-09-07T21:40:05+00:00",
+   "first_seen_at": "2026-09-07T23:31:56.889492+00:00",
+   "score": 44,
+   "category": "Healthcare IT",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": true,
+   "salary": "",
+   "why": [
+    "Healthcare title: clinical",
+    "Skills (1): nist",
+    "Healthcare signals: healthcare, ehr, emr, clinical",
+    "Onsite outside SoCal",
+    "Senior level"
+   ]
+  },
+  {
    "key": "greenhouse:datadog:8094188",
    "title": "Senior Platform Security Engineer",
    "company": "Datadog",
@@ -4660,6 +4707,48 @@
     "Title match: solutions engineer",
     "Skills (1): automation",
     "Remote"
+   ]
+  },
+  {
+   "key": "4736ae1d6e1f28d9",
+   "title": "(Senior) Software Engineer (M/F/D) - Tools & Automation",
+   "company": "Vmray Gmbh",
+   "url": "https://www.arbeitnow.com/jobs/companies/vmray-gmbh/remote-senior-software-engineer-tools-automation-231855",
+   "location": "Germany, Bochum or Remote (Europe)",
+   "source": "arbeitnow",
+   "posted_at": "2026-09-07T23:09:56+00:00",
+   "first_seen_at": "2026-09-07T23:31:56.889492+00:00",
+   "score": 40,
+   "category": "Other",
+   "remote": "Remote",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (6): kubernetes, ci/cd, troubleshooting, nist, automation, aws",
+    "Remote",
+    "Senior level"
+   ]
+  },
+  {
+   "key": "765f95cb236137a1",
+   "title": "AI Enablement Lead [gn] Data Intelligence",
+   "company": "Actian",
+   "url": "https://www.arbeitnow.fr/jobs/companies/actian/remote-ai-enablement-lead-gn-data-intelligence-183432",
+   "location": "Europe - Remote",
+   "source": "arbeitnow",
+   "posted_at": "2026-09-07T22:04:05+00:00",
+   "first_seen_at": "2026-09-07T23:31:56.889492+00:00",
+   "score": 40,
+   "category": "Other",
+   "remote": "Remote",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (6): entra, kubernetes, docker, ci/cd, monitoring, identity",
+    "Remote",
+    "Senior level"
    ]
   },
   {
@@ -8867,6 +8956,26 @@
    ]
   },
   {
+   "key": "f10b99d78b775357",
+   "title": "Software Engineer - Data (All Genders)",
+   "company": "PREMATCH Sports GmbH",
+   "url": "https://www.arbeitnow.com/jobs/companies/prematch-sports-gmbh/software-engineer-data-all-genders-koln-118079",
+   "location": "K\u00f6ln",
+   "source": "arbeitnow",
+   "posted_at": "2026-09-07T23:09:41+00:00",
+   "first_seen_at": "2026-09-07T23:31:56.889492+00:00",
+   "score": 30,
+   "category": "Other",
+   "remote": "Remote",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (6): terraform, kubernetes, iac, automation, monitoring, aws",
+    "Remote"
+   ]
+  },
+  {
    "key": "greenhouse:datadog:8014851",
    "title": "Manager I, Technical Support Engineering",
    "company": "Datadog",
@@ -9567,6 +9676,27 @@
    "salary": "",
    "why": [
     "Remote (California)",
+    "Senior level"
+   ]
+  },
+  {
+   "key": "b4b7fd932ee53756",
+   "title": "(Senior) Machine Learning Engineer \u2013 Pricing (m/f/d)",
+   "company": "Auxmoney Gmbh",
+   "url": "https://www.arbeitnow.com/jobs/companies/auxmoney-gmbh/remote-senior-machine-learning-engineer-pricing-476900",
+   "location": "Remote / D\u00fcsseldorf",
+   "source": "arbeitnow",
+   "posted_at": "2026-09-07T23:09:06+00:00",
+   "first_seen_at": "2026-09-07T23:31:56.889492+00:00",
+   "score": 28,
+   "category": "Other",
+   "remote": "Remote",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (3): docker, ci/cd, monitoring",
+    "Remote",
     "Senior level"
    ]
   },
@@ -10621,26 +10751,6 @@
    ]
   },
   {
-   "key": "ea164925221bd829",
-   "title": "Software Development Engineers in Test (Python)",
-   "company": "Xm",
-   "url": "https://www.arbeitnow.fr/jobs/companies/xm/remote-software-development-engineers-in-test-python-226133",
-   "location": "Remote",
-   "source": "arbeitnow",
-   "posted_at": "2026-09-06T07:24:17+00:00",
-   "first_seen_at": "2026-09-06T09:28:21.562768+00:00",
-   "score": 26,
-   "category": "Other",
-   "remote": "Remote",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Skills (5): docker, ci/cd, automation, monitoring, aws",
-    "Remote"
-   ]
-  },
-  {
    "key": "263733c9384218c6",
    "title": "Creative Producer (Radiotech)",
    "company": "Gismart",
@@ -10680,6 +10790,28 @@
    "why": [
     "Skills (1): entra",
     "Healthcare signals: phi",
+    "Remote",
+    "Senior level"
+   ]
+  },
+  {
+   "key": "293d8b628d2a5884",
+   "title": "Senior Rollout Manager (f/m/x) \u2013 DACH",
+   "company": "IONITY GmbH",
+   "url": "https://www.arbeitnow.com/jobs/companies/ionity-gmbh/remote-senior-rollout-manager-dach-360641",
+   "location": "Remote Work Germany",
+   "source": "arbeitnow",
+   "posted_at": "2026-09-07T23:09:08+00:00",
+   "first_seen_at": "2026-09-07T23:31:56.889492+00:00",
+   "score": 26,
+   "category": "Other",
+   "remote": "Remote",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (1): entra",
+    "Healthcare signals: ehr",
     "Remote",
     "Senior level"
    ]
