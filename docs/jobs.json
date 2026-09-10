@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-10T19:44:25.409637+00:00",
- "signature": "2e59cddd70c9a6f2b4ba0411c004528bf834fd53",
- "count": 536,
+ "generated_at": "2026-09-10T22:37:21.444374+00:00",
+ "signature": "abb90d7c3fa658db316f6820ba8ea03b645dad71",
+ "count": 535,
  "jobs": [
   {
    "key": "greenhouse:zocdoc:8060755",
@@ -425,7 +425,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569640002",
    "location": "Nevada; Remote - California; Remote - Colorado; Remote - Oregon; Remote - Washington",
    "source": "greenhouse",
-   "posted_at": "2026-09-02T04:35:28+00:00",
+   "posted_at": "2026-09-10T21:15:31+00:00",
    "first_seen_at": "2026-08-21T17:47:42.253585+00:00",
    "score": 76,
    "category": "Cloud",
@@ -1387,7 +1387,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569637002",
    "location": "Remote - Washington; Seattle, Washington",
    "source": "greenhouse",
-   "posted_at": "2026-09-08T18:15:24+00:00",
+   "posted_at": "2026-09-10T21:15:27+00:00",
    "first_seen_at": "2026-09-08T18:43:28.384586+00:00",
    "score": 58,
    "category": "Healthcare IT",
@@ -1674,28 +1674,6 @@
    ]
   },
   {
-   "key": "d370586f1d6ca105",
-   "title": "Senior Developer Experience Security Engineer",
-   "company": "Motorway",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/motorway/senior-developer-experience-security-engineer-london-175591",
-   "location": "London",
-   "source": "arbeitnow",
-   "posted_at": "2026-09-09T18:40:04+00:00",
-   "first_seen_at": "2026-09-09T19:47:46.456563+00:00",
-   "score": 55,
-   "category": "Cybersecurity",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: security engineer",
-    "Skills (10): ci/cd, incident response, nist, automation, monitoring, observability",
-    "Onsite outside SoCal",
-    "Senior level"
-   ]
-  },
-  {
    "key": "greenhouse:cloudflare:8024889",
    "title": "Principal Partner Solutions Engineer, SAARC (Based in Bangalore)",
    "company": "Cloudflare",
@@ -1761,11 +1739,11 @@
    ]
   },
   {
-   "key": "greenhouse:datadog:8141240",
+   "key": "greenhouse:datadog:8141243",
    "title": "Security Sales Engineer",
    "company": "Datadog",
-   "url": "https://careers.datadoghq.com/detail/8141240/?gh_jid=8141240",
-   "location": "Florida, USA, Remote; Georgia, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote",
+   "url": "https://careers.datadoghq.com/detail/8141243/?gh_jid=8141243",
+   "location": "California, USA, Remote; Colorado, USA, Remote; Washington, USA, Remote",
    "source": "greenhouse",
    "posted_at": "2026-09-10T14:53:42+00:00",
    "first_seen_at": "2026-08-19T08:56:34.050171+00:00",
@@ -1782,11 +1760,11 @@
    ]
   },
   {
-   "key": "greenhouse:datadog:8141243",
+   "key": "greenhouse:datadog:8141240",
    "title": "Security Sales Engineer",
    "company": "Datadog",
-   "url": "https://careers.datadoghq.com/detail/8141243/?gh_jid=8141243",
-   "location": "California, USA, Remote; Colorado, USA, Remote; Washington, USA, Remote",
+   "url": "https://careers.datadoghq.com/detail/8141240/?gh_jid=8141240",
+   "location": "Florida, USA, Remote; Georgia, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote",
    "source": "greenhouse",
    "posted_at": "2026-09-10T14:53:42+00:00",
    "first_seen_at": "2026-08-19T08:56:34.050171+00:00",
@@ -2524,6 +2502,28 @@
    ]
   },
   {
+   "key": "greenhouse:datadog:7466155",
+   "title": "Enterprise Sales Executive",
+   "company": "Datadog",
+   "url": "https://careers.datadoghq.com/detail/7466155/?gh_jid=7466155",
+   "location": "Florida, USA, Remote",
+   "source": "greenhouse",
+   "posted_at": "2026-09-10T14:53:42+00:00",
+   "first_seen_at": "2026-08-19T04:12:53.757863+00:00",
+   "score": 48,
+   "category": "Other",
+   "remote": "Remote",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (3): networking, observability, identity",
+    "Healthcare signals: healthcare",
+    "Remote (US)",
+    "Senior level"
+   ]
+  },
+  {
    "key": "greenhouse:datadog:7465857",
    "title": "Enterprise Sales Executive",
    "company": "Datadog",
@@ -2551,28 +2551,6 @@
    "company": "Datadog",
    "url": "https://careers.datadoghq.com/detail/7405822/?gh_jid=7405822",
    "location": "Georgia, USA, Remote",
-   "source": "greenhouse",
-   "posted_at": "2026-09-10T14:53:42+00:00",
-   "first_seen_at": "2026-08-19T04:12:53.757863+00:00",
-   "score": 48,
-   "category": "Other",
-   "remote": "Remote",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Skills (3): networking, observability, identity",
-    "Healthcare signals: healthcare",
-    "Remote (US)",
-    "Senior level"
-   ]
-  },
-  {
-   "key": "greenhouse:datadog:7466155",
-   "title": "Enterprise Sales Executive",
-   "company": "Datadog",
-   "url": "https://careers.datadoghq.com/detail/7466155/?gh_jid=7466155",
-   "location": "Florida, USA, Remote",
    "source": "greenhouse",
    "posted_at": "2026-09-10T14:53:42+00:00",
    "first_seen_at": "2026-08-19T04:12:53.757863+00:00",
@@ -2729,7 +2707,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569633002",
    "location": "Colorado; Denver, Colorado; Remote - Colorado",
    "source": "greenhouse",
-   "posted_at": "2026-09-02T04:35:22+00:00",
+   "posted_at": "2026-09-10T21:15:23+00:00",
    "first_seen_at": "2026-08-21T17:47:42.253585+00:00",
    "score": 48,
    "category": "Cloud",
@@ -3167,7 +3145,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8407186002",
    "location": "Dallas, Texas; Missouri; Remote - Missouri; Remote - Texas; St. Louis, Missouri; Texas; United States",
    "source": "greenhouse",
-   "posted_at": "2026-09-02T04:15:53+00:00",
+   "posted_at": "2026-09-10T21:14:32+00:00",
    "first_seen_at": "2026-08-25T21:45:52.543744+00:00",
    "score": 45,
    "category": "Cloud",
@@ -4489,11 +4467,11 @@
    ]
   },
   {
-   "key": "greenhouse:datadog:8007598",
+   "key": "greenhouse:datadog:8007606",
    "title": "Staff Software Engineer - Security Agent",
    "company": "Datadog",
-   "url": "https://careers.datadoghq.com/detail/8007598/?gh_jid=8007598",
-   "location": "France, Remote; Germany, Remote; Ireland, Remote; Italy, Remote; Spain, Remote",
+   "url": "https://careers.datadoghq.com/detail/8007606/?gh_jid=8007606",
+   "location": "Portugal, Remote",
    "source": "greenhouse",
    "posted_at": "2026-09-10T14:53:42+00:00",
    "first_seen_at": "2026-08-19T04:12:53.757863+00:00",
@@ -4510,11 +4488,11 @@
    ]
   },
   {
-   "key": "greenhouse:datadog:8007606",
+   "key": "greenhouse:datadog:8007598",
    "title": "Staff Software Engineer - Security Agent",
    "company": "Datadog",
-   "url": "https://careers.datadoghq.com/detail/8007606/?gh_jid=8007606",
-   "location": "Portugal, Remote",
+   "url": "https://careers.datadoghq.com/detail/8007598/?gh_jid=8007598",
+   "location": "France, Remote; Germany, Remote; Ireland, Remote; Italy, Remote; Spain, Remote",
    "source": "greenhouse",
    "posted_at": "2026-09-10T14:53:42+00:00",
    "first_seen_at": "2026-08-19T04:12:53.757863+00:00",
@@ -6419,11 +6397,11 @@
    ]
   },
   {
-   "key": "greenhouse:datadog:8188028",
+   "key": "greenhouse:datadog:8188027",
    "title": "Senior AI Engineer \u2013 Notebooks",
    "company": "Datadog",
-   "url": "https://careers.datadoghq.com/detail/8188028/?gh_jid=8188028",
-   "location": "France, Remote; Germany, Remote; Spain, Remote",
+   "url": "https://careers.datadoghq.com/detail/8188027/?gh_jid=8188027",
+   "location": "Portugal, Remote",
    "source": "greenhouse",
    "posted_at": "2026-09-10T14:53:42+00:00",
    "first_seen_at": "2026-09-09T11:28:13.004061+00:00",
@@ -6440,11 +6418,11 @@
    ]
   },
   {
-   "key": "greenhouse:datadog:8188027",
+   "key": "greenhouse:datadog:8188028",
    "title": "Senior AI Engineer \u2013 Notebooks",
    "company": "Datadog",
-   "url": "https://careers.datadoghq.com/detail/8188027/?gh_jid=8188027",
-   "location": "Portugal, Remote",
+   "url": "https://careers.datadoghq.com/detail/8188028/?gh_jid=8188028",
+   "location": "France, Remote; Germany, Remote; Spain, Remote",
    "source": "greenhouse",
    "posted_at": "2026-09-10T14:53:42+00:00",
    "first_seen_at": "2026-09-09T11:28:13.004061+00:00",
@@ -6653,28 +6631,6 @@
     "Skills (6): terraform, kubernetes, docker, automation, monitoring, observability",
     "Healthcare signals: health care",
     "Onsite outside SoCal"
-   ]
-  },
-  {
-   "key": "bbe39ce89387403e",
-   "title": "Senior Developer Experience Platform Engineer",
-   "company": "Motorway",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/motorway/senior-developer-experience-platform-engineer-london-415344",
-   "location": "London",
-   "source": "arbeitnow",
-   "posted_at": "2026-09-09T18:40:04+00:00",
-   "first_seen_at": "2026-09-09T19:47:46.456563+00:00",
-   "score": 35,
-   "category": "Cloud",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: platform engineer",
-    "Skills (5): automation, monitoring, observability, aws, sso",
-    "Onsite outside SoCal",
-    "Senior level"
    ]
   },
   {
@@ -7457,29 +7413,6 @@
     "Title match: security engineer",
     "Skills (7): azure, nist, monitoring, aws, gcp, identity",
     "Onsite outside SoCal"
-   ]
-  },
-  {
-   "key": "5b46481c3d177b53",
-   "title": "Senior IT Systems Engineer Windows (m/w/d)",
-   "company": "noris network AG",
-   "url": "https://www.arbeitnow.com/jobs/companies/noris-network-ag/senior-it-systems-engineer-windows-nuremberg-233950",
-   "location": "Nuremberg",
-   "source": "arbeitnow",
-   "posted_at": "2026-09-10T10:00:30+00:00",
-   "first_seen_at": "2026-09-10T11:24:47.132911+00:00",
-   "score": 33,
-   "category": "Cloud",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: systems engineer",
-    "Skills (3): active directory, powershell, nist",
-    "Healthcare signals: ehr",
-    "Onsite outside SoCal",
-    "Senior level"
    ]
   },
   {
@@ -8270,7 +8203,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8568013002",
    "location": "Georgia; Massachusetts; New York; North Carolina",
    "source": "greenhouse",
-   "posted_at": "2026-09-02T04:29:53+00:00",
+   "posted_at": "2026-09-10T21:15:12+00:00",
    "first_seen_at": "2026-08-21T17:47:42.253585+00:00",
    "score": 31,
    "category": "Cloud",
@@ -8292,7 +8225,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8453645002",
    "location": "Delaware; Maryland; Virginia; Washington, D.C.",
    "source": "greenhouse",
-   "posted_at": "2026-09-02T04:21:20+00:00",
+   "posted_at": "2026-09-10T21:14:38+00:00",
    "first_seen_at": "2026-08-21T17:47:42.253585+00:00",
    "score": 31,
    "category": "Cloud",
@@ -8502,6 +8435,50 @@
     "Skills (4): ci/cd, nist, automation, vulnerability",
     "Onsite outside SoCal",
     "Senior level"
+   ]
+  },
+  {
+   "key": "f1fed8c77f623965",
+   "title": "Cloud Platform Engineer (m/w/d)",
+   "company": "IP Dynamics GmbH",
+   "url": "https://www.arbeitnow.com/jobs/companies/ip-dynamics-gmbh/cloud-platform-engineer-stuttgart-137935",
+   "location": "Stuttgart",
+   "source": "arbeitnow",
+   "posted_at": "2026-09-10T20:09:50+00:00",
+   "first_seen_at": "2026-09-10T22:37:21.444374+00:00",
+   "score": 31,
+   "category": "Cloud",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: platform engineer",
+    "Skills (5): terraform, networking, kubernetes, ci/cd, monitoring",
+    "Healthcare signals: ehr",
+    "Onsite outside SoCal"
+   ]
+  },
+  {
+   "key": "a1c46a08055399a1",
+   "title": "Cloud Platform Engineer (m/w/d)",
+   "company": "IP Dynamics GmbH",
+   "url": "https://www.arbeitnow.com/jobs/companies/ip-dynamics-gmbh/cloud-platform-engineer-hannover-418419",
+   "location": "Hannover",
+   "source": "arbeitnow",
+   "posted_at": "2026-09-10T20:09:50+00:00",
+   "first_seen_at": "2026-09-10T22:37:21.444374+00:00",
+   "score": 31,
+   "category": "Cloud",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: platform engineer",
+    "Skills (5): terraform, networking, kubernetes, ci/cd, monitoring",
+    "Healthcare signals: ehr",
+    "Onsite outside SoCal"
    ]
   },
   {
@@ -9265,11 +9242,11 @@
    ]
   },
   {
-   "key": "greenhouse:datadog:7343626",
+   "key": "greenhouse:datadog:8014851",
    "title": "Manager I, Technical Support Engineering",
    "company": "Datadog",
-   "url": "https://careers.datadoghq.com/detail/7343626/?gh_jid=7343626",
-   "location": "Tokyo, Japan",
+   "url": "https://careers.datadoghq.com/detail/8014851/?gh_jid=8014851",
+   "location": "Seoul, South Korea",
    "source": "greenhouse",
    "posted_at": "2026-09-10T14:53:42+00:00",
    "first_seen_at": "2026-08-19T04:12:53.757863+00:00",
@@ -9286,11 +9263,11 @@
    ]
   },
   {
-   "key": "greenhouse:datadog:8014851",
+   "key": "greenhouse:datadog:7343626",
    "title": "Manager I, Technical Support Engineering",
    "company": "Datadog",
-   "url": "https://careers.datadoghq.com/detail/8014851/?gh_jid=8014851",
-   "location": "Seoul, South Korea",
+   "url": "https://careers.datadoghq.com/detail/7343626/?gh_jid=7343626",
+   "location": "Tokyo, Japan",
    "source": "greenhouse",
    "posted_at": "2026-09-10T14:53:42+00:00",
    "first_seen_at": "2026-08-19T04:12:53.757863+00:00",
@@ -10817,7 +10794,7 @@
    "url": "https://www.talkspace.com/careers/job?gh_jid=6150547004",
    "location": "New York, NY (Remote)",
    "source": "greenhouse",
-   "posted_at": "2026-08-25T16:01:58+00:00",
+   "posted_at": "2026-09-10T20:22:54+00:00",
    "first_seen_at": "2026-08-21T20:42:48.235139+00:00",
    "score": 26,
    "category": "Other",
