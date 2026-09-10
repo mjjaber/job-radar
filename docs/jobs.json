@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-10T16:27:09.967037+00:00",
- "signature": "8921d2d79d8028bc46ef5569863d4bd5171f9f42",
- "count": 528,
+ "generated_at": "2026-09-10T19:44:25.409637+00:00",
+ "signature": "2e59cddd70c9a6f2b4ba0411c004528bf834fd53",
+ "count": 536,
  "jobs": [
   {
    "key": "greenhouse:zocdoc:8060755",
@@ -616,12 +616,12 @@
   },
   {
    "key": "greenhouse:databricks:7882009002",
-   "title": "Staff Security Software Engineer, AI Security Engineering ",
+   "title": "Staff Security Software Engineer, Agentic Security Engineering ",
    "company": "Databricks",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7882009002",
    "location": "Remote - California",
    "source": "greenhouse",
-   "posted_at": "2026-09-02T04:05:50+00:00",
+   "posted_at": "2026-09-10T17:25:07+00:00",
    "first_seen_at": "2026-08-21T17:47:42.253585+00:00",
    "score": 72,
    "category": "Cybersecurity",
@@ -774,6 +774,28 @@
     "Skills (6): azure, linux, kubernetes, ci/cd, automation, identity",
     "Remote",
     "Senior level"
+   ]
+  },
+  {
+   "key": "96aac433378452b0",
+   "title": "Healthcare Virtual Assistant Athena EMR Experience",
+   "company": "Snapscale Philippines",
+   "url": "https://remoteOK.com/remote-jobs/remote-healthcare-virtual-assistant-athena-emr-experience-snapscale-philippines-1135688",
+   "location": "Davao, ",
+   "source": "remoteok",
+   "posted_at": "2026-07-29T10:25:22+00:00",
+   "first_seen_at": "2026-09-10T19:44:25.409637+00:00",
+   "score": 69,
+   "category": "Healthcare IT",
+   "remote": "Remote",
+   "shift": "",
+   "healthcare": true,
+   "salary": "",
+   "why": [
+    "Healthcare title: healthcare",
+    "Skills (2): nist, monitoring",
+    "Healthcare signals: healthcare, emr, clinical, patient",
+    "Remote"
    ]
   },
   {
@@ -1739,11 +1761,11 @@
    ]
   },
   {
-   "key": "greenhouse:datadog:8141243",
+   "key": "greenhouse:datadog:8141240",
    "title": "Security Sales Engineer",
    "company": "Datadog",
-   "url": "https://careers.datadoghq.com/detail/8141243/?gh_jid=8141243",
-   "location": "California, USA, Remote; Colorado, USA, Remote; Washington, USA, Remote",
+   "url": "https://careers.datadoghq.com/detail/8141240/?gh_jid=8141240",
+   "location": "Florida, USA, Remote; Georgia, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote",
    "source": "greenhouse",
    "posted_at": "2026-09-10T14:53:42+00:00",
    "first_seen_at": "2026-08-19T08:56:34.050171+00:00",
@@ -1760,11 +1782,11 @@
    ]
   },
   {
-   "key": "greenhouse:datadog:8141240",
+   "key": "greenhouse:datadog:8141243",
    "title": "Security Sales Engineer",
    "company": "Datadog",
-   "url": "https://careers.datadoghq.com/detail/8141240/?gh_jid=8141240",
-   "location": "Florida, USA, Remote; Georgia, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote",
+   "url": "https://careers.datadoghq.com/detail/8141243/?gh_jid=8141243",
+   "location": "California, USA, Remote; Colorado, USA, Remote; Washington, USA, Remote",
    "source": "greenhouse",
    "posted_at": "2026-09-10T14:53:42+00:00",
    "first_seen_at": "2026-08-19T08:56:34.050171+00:00",
@@ -1865,6 +1887,50 @@
     "Skills (6): linux, ci/cd, nist, automation, aws, sso",
     "Healthcare signals: patient, life sciences",
     "California",
+    "Senior level"
+   ]
+  },
+  {
+   "key": "f4a61a5fa4202d1a",
+   "title": "Care Navigator Level 1",
+   "company": "Ready",
+   "url": "https://remoteOK.com/remote-jobs/remote-care-navigator-level-1-ready-1135674",
+   "location": "Seattle, Seattle, Washington, United States",
+   "source": "remoteok",
+   "posted_at": "2026-07-29T17:04:58+00:00",
+   "first_seen_at": "2026-09-10T19:44:25.409637+00:00",
+   "score": 54,
+   "category": "Other",
+   "remote": "Remote",
+   "shift": "",
+   "healthcare": true,
+   "salary": "",
+   "why": [
+    "Skills (1): hipaa",
+    "Healthcare signals: healthcare, hipaa, ehr, epic",
+    "Remote (US)"
+   ]
+  },
+  {
+   "key": "0cc61b404ea5d931",
+   "title": "Senior Security Engineer (m/f/d)",
+   "company": "isaraerospace",
+   "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/senior-security-engineer-parsdorf-bavaria-76392",
+   "location": "Parsdorf, Bavaria",
+   "source": "arbeitnow",
+   "posted_at": "2026-09-10T17:55:27+00:00",
+   "first_seen_at": "2026-09-10T19:44:25.409637+00:00",
+   "score": 53,
+   "category": "Cybersecurity",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: security engineer",
+    "Skills (8): powershell, networking, firewall, nist, automation, monitoring",
+    "Healthcare signals: phi",
+    "Onsite outside SoCal",
     "Senior level"
    ]
   },
@@ -2370,28 +2436,6 @@
    ]
   },
   {
-   "key": "7662a1153b0285b9",
-   "title": "Lead Solutions Architect",
-   "company": "databricks",
-   "url": "https://www.arbeitnow.com/jobs/companies/databricks/lead-solutions-architect-munich-297257",
-   "location": "Munich",
-   "source": "arbeitnow",
-   "posted_at": "2026-09-10T08:55:10+00:00",
-   "first_seen_at": "2026-09-10T11:24:47.132911+00:00",
-   "score": 50,
-   "category": "Cloud",
-   "remote": "Remote",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: solutions architect",
-    "Skills (1): identity",
-    "Remote",
-    "Senior level"
-   ]
-  },
-  {
    "key": "lever:veeva systems:577ac997-33c8-4b86-8fd7-13d2b02e15a7",
    "title": "Senior Integration Manager",
    "company": "Veeva Systems",
@@ -2432,6 +2476,29 @@
     "Title match: infrastructure engineer",
     "Skills (7): terraform, networking, linux, incident response, troubleshooting, automation",
     "Healthcare signals: health care",
+    "Onsite outside SoCal",
+    "Senior level"
+   ]
+  },
+  {
+   "key": "54d543f435fefb05",
+   "title": "Senior Cloud Engineer Azure (m/w/d)",
+   "company": "HyPlus Technology GmbH",
+   "url": "https://www.arbeitnow.com/jobs/companies/hyplus-technology-gmbh/senior-cloud-engineer-azure-ratingen-228816",
+   "location": "Ratingen, Nordrhein-Westfalen, Germany",
+   "source": "arbeitnow",
+   "posted_at": "2026-09-10T17:30:19+00:00",
+   "first_seen_at": "2026-09-10T19:44:25.409637+00:00",
+   "score": 49,
+   "category": "Cloud",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: senior cloud engineer",
+    "Skills (7): azure, networking, kubernetes, ci/cd, monitoring, aws",
+    "Healthcare signals: ehr",
     "Onsite outside SoCal",
     "Senior level"
    ]
@@ -2787,6 +2854,29 @@
    ]
   },
   {
+   "key": "greenhouse:datadog:8173840",
+   "title": "Senior Security Engineer, Vulnerability Management",
+   "company": "Datadog",
+   "url": "https://careers.datadoghq.com/detail/8173840/?gh_jid=8173840",
+   "location": "Boston, Massachusetts, USA; New York, New York, USA",
+   "source": "greenhouse",
+   "posted_at": "2026-09-10T17:14:34+00:00",
+   "first_seen_at": "2026-09-02T22:40:45.930905+00:00",
+   "score": 47,
+   "category": "Cybersecurity",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: security engineer",
+    "Skills (5): networking, fedramp, hipaa, automation, vulnerability",
+    "Healthcare signals: healthcare, hipaa",
+    "Onsite outside SoCal",
+    "Senior level"
+   ]
+  },
+  {
    "key": "ff6f09c03783eb55",
    "title": "Senior Backend + Infrastructure Engineer (Platform)",
    "company": "Soda Data Nv",
@@ -3095,29 +3185,6 @@
    ]
   },
   {
-   "key": "greenhouse:datadog:8173840",
-   "title": "Senior Security Engineer, Vulnerability Management",
-   "company": "Datadog",
-   "url": "https://careers.datadoghq.com/detail/8173840/?gh_jid=8173840",
-   "location": "Boston, Massachusetts, USA; New York, New York, USA",
-   "source": "greenhouse",
-   "posted_at": "2026-09-10T14:53:42+00:00",
-   "first_seen_at": "2026-09-02T22:40:45.930905+00:00",
-   "score": 45,
-   "category": "Cybersecurity",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: security engineer",
-    "Skills (6): networking, fedramp, hipaa, automation, observability, vulnerability",
-    "Healthcare signals: hipaa",
-    "Onsite outside SoCal",
-    "Senior level"
-   ]
-  },
-  {
    "key": "greenhouse:databricks:8642617002",
    "title": "Infrastructure & Platform Specialist Solutions Architect (SSA) ",
    "company": "Databricks",
@@ -3178,6 +3245,29 @@
     "Title match: infrastructure engineer",
     "Skills (14): terraform, networking, vpn, firewall, linux, kubernetes",
     "Onsite outside SoCal"
+   ]
+  },
+  {
+   "key": "c36ed77e9ad5ff90",
+   "title": "(Senior) Azure Platform Engineer (mIwId)",
+   "company": "LeySelect GmbH",
+   "url": "https://www.arbeitnow.com/jobs/companies/leyselect-gmbh/senior-azure-platform-engineer-miwid-essen-344544",
+   "location": "Essen",
+   "source": "arbeitnow",
+   "posted_at": "2026-09-10T15:30:54+00:00",
+   "first_seen_at": "2026-09-10T19:44:25.409637+00:00",
+   "score": 45,
+   "category": "Cloud",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: platform engineer",
+    "Skills (6): azure, entra, terraform, ci/cd, bicep, sso",
+    "Healthcare signals: ehr",
+    "Onsite outside SoCal",
+    "Senior level"
    ]
   },
   {
@@ -3550,10 +3640,10 @@
    "key": "6fe6388191220cdd",
    "title": "SRE Manager",
    "company": "Parity",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/parity/remote-sre-manager-9140",
+   "url": "https://www.arbeitnow.fr/jobs/companies/parity/remote-sre-manager-92368",
    "location": "Remote",
    "source": "arbeitnow",
-   "posted_at": "2026-09-09T21:40:07+00:00",
+   "posted_at": "2026-09-09T19:40:15+00:00",
    "first_seen_at": "2026-09-09T22:35:02.671783+00:00",
    "score": 44,
    "category": "Cloud",
@@ -3789,13 +3879,35 @@
    ]
   },
   {
+   "key": "a24dffa85c0ccc7e",
+   "title": "Senior Offensive Security Engineer",
+   "company": "Atariinc",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/atariinc/senior-offensive-security-engineer-newcastle-upon-tyne-43443",
+   "location": "Newcastle upon Tyne",
+   "source": "arbeitnow",
+   "posted_at": "2026-09-10T16:15:15+00:00",
+   "first_seen_at": "2026-09-10T19:44:25.409637+00:00",
+   "score": 43,
+   "category": "Cybersecurity",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: security engineer",
+    "Skills (7): active directory, powershell, networking, incident response, nist, automation",
+    "Onsite outside SoCal",
+    "Senior level"
+   ]
+  },
+  {
    "key": "greenhouse:datadog:8139662",
    "title": "Developer Advocate - Service Management",
    "company": "Datadog",
    "url": "https://careers.datadoghq.com/detail/8139662/?gh_jid=8139662",
    "location": "California, USA, Remote; New York, USA, Remote",
    "source": "greenhouse",
-   "posted_at": "2026-09-10T14:53:42+00:00",
+   "posted_at": "2026-09-10T18:15:12+00:00",
    "first_seen_at": "2026-08-19T04:12:53.757863+00:00",
    "score": 42,
    "category": "Other",
@@ -4377,11 +4489,11 @@
    ]
   },
   {
-   "key": "greenhouse:datadog:8007606",
+   "key": "greenhouse:datadog:8007598",
    "title": "Staff Software Engineer - Security Agent",
    "company": "Datadog",
-   "url": "https://careers.datadoghq.com/detail/8007606/?gh_jid=8007606",
-   "location": "Portugal, Remote",
+   "url": "https://careers.datadoghq.com/detail/8007598/?gh_jid=8007598",
+   "location": "France, Remote; Germany, Remote; Ireland, Remote; Italy, Remote; Spain, Remote",
    "source": "greenhouse",
    "posted_at": "2026-09-10T14:53:42+00:00",
    "first_seen_at": "2026-08-19T04:12:53.757863+00:00",
@@ -4398,11 +4510,11 @@
    ]
   },
   {
-   "key": "greenhouse:datadog:8007598",
+   "key": "greenhouse:datadog:8007606",
    "title": "Staff Software Engineer - Security Agent",
    "company": "Datadog",
-   "url": "https://careers.datadoghq.com/detail/8007598/?gh_jid=8007598",
-   "location": "France, Remote; Germany, Remote; Ireland, Remote; Italy, Remote; Spain, Remote",
+   "url": "https://careers.datadoghq.com/detail/8007606/?gh_jid=8007606",
+   "location": "Portugal, Remote",
    "source": "greenhouse",
    "posted_at": "2026-09-10T14:53:42+00:00",
    "first_seen_at": "2026-08-19T04:12:53.757863+00:00",
@@ -4721,6 +4833,26 @@
     "Skills (7): entra, active directory, firewall, windows server, troubleshooting, nist",
     "Healthcare signals: ehr",
     "Remote"
+   ]
+  },
+  {
+   "key": "91703c96f50fc091",
+   "title": "Legal Receptionist Fully",
+   "company": "Adams &amp; Martin Group",
+   "url": "https://remoteOK.com/remote-jobs/remote-legal-receptionist-fully-adams-amp-martin-group-1135609",
+   "location": "Cupertino, Cupertino, California, United States",
+   "source": "remoteok",
+   "posted_at": "2026-07-28T22:17:20+00:00",
+   "first_seen_at": "2026-09-10T19:44:25.409637+00:00",
+   "score": 40,
+   "category": "Other",
+   "remote": "Remote",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (5): entra, nist, aws, identity, sso",
+    "Remote (US)"
    ]
   },
   {
@@ -5397,6 +5529,28 @@
     "Skills (3): nist, aws, sso",
     "Healthcare signals: healthcare",
     "Remote (US)"
+   ]
+  },
+  {
+   "key": "4f2ac0cdd51e1de9",
+   "title": "Senior Software Engineer (m/w/d) | Fullstack f\u00fcr KI-Produkte",
+   "company": "Avenit Ag",
+   "url": "https://www.arbeitnow.com/jobs/companies/avenit-ag/remote-senior-software-engineer-fullstack-fur-ki-produkte-137665",
+   "location": "Remote in Deutschland",
+   "source": "arbeitnow",
+   "posted_at": "2026-09-10T17:09:16+00:00",
+   "first_seen_at": "2026-09-10T19:44:25.409637+00:00",
+   "score": 38,
+   "category": "Other",
+   "remote": "Remote",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (4): docker, monitoring, observability, aws",
+    "Healthcare signals: ehr",
+    "Remote",
+    "Senior level"
    ]
   },
   {
@@ -6103,6 +6257,52 @@
     "Skills (3): incident response, monitoring, observability",
     "Healthcare signals: healthcare",
     "California",
+    "Senior level"
+   ]
+  },
+  {
+   "key": "lever:veeva systems:916f0625-30a5-4f9a-b125-d8dc07cc87bc",
+   "title": "Senior Consultant - Clinical Data Programming",
+   "company": "Veeva Systems",
+   "url": "https://jobs.lever.co/veeva/916f0625-30a5-4f9a-b125-d8dc07cc87bc",
+   "location": "North Carolina - Raleigh",
+   "source": "lever",
+   "posted_at": "1746651400502",
+   "first_seen_at": "2026-08-26T23:38:15.593817+00:00",
+   "score": 36,
+   "category": "Healthcare IT",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": true,
+   "salary": "",
+   "why": [
+    "Healthcare title: clinical",
+    "Skills (2): entra, nist",
+    "Healthcare signals: clinical, patient, life sciences",
+    "Onsite outside SoCal",
+    "Senior level"
+   ]
+  },
+  {
+   "key": "lever:veeva systems:d0ad7473-fb3c-417f-8bb7-7aeffec974dc",
+   "title": "Senior Consultant - Clinical Data Programming",
+   "company": "Veeva Systems",
+   "url": "https://jobs.lever.co/veeva/d0ad7473-fb3c-417f-8bb7-7aeffec974dc",
+   "location": "Massachusetts - Boston",
+   "source": "lever",
+   "posted_at": "1718638082448",
+   "first_seen_at": "2026-08-26T23:38:15.593817+00:00",
+   "score": 36,
+   "category": "Healthcare IT",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": true,
+   "salary": "",
+   "why": [
+    "Healthcare title: clinical",
+    "Skills (2): entra, nist",
+    "Healthcare signals: clinical, patient, life sciences",
+    "Onsite outside SoCal",
     "Senior level"
    ]
   },
@@ -7105,6 +7305,50 @@
    ]
   },
   {
+   "key": "d90b594c51c0b4a8",
+   "title": "Human Resources Specialist",
+   "company": "Harvey Nash",
+   "url": "https://remoteOK.com/remote-jobs/remote-human-resources-specialist-harvey-nash-1135675",
+   "location": "California, California, United States",
+   "source": "remoteok",
+   "posted_at": "2026-07-30T00:40:50+00:00",
+   "first_seen_at": "2026-09-10T19:44:25.409637+00:00",
+   "score": 34,
+   "category": "Other",
+   "remote": "Remote",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (2): escalation, sso",
+    "Healthcare signals: healthcare",
+    "Remote (US)"
+   ]
+  },
+  {
+   "key": "a33b515419e301f2",
+   "title": "Healthcare Virtual Assistant Registered Nurse",
+   "company": "Snapscale",
+   "url": "https://remoteOK.com/remote-jobs/remote-healthcare-virtual-assistant-registered-nurse-snapscale-1135684",
+   "location": "Davao, Davao, Davao Region, Philippines",
+   "source": "remoteok",
+   "posted_at": "2026-07-28T17:47:28+00:00",
+   "first_seen_at": "2026-09-10T19:44:25.409637+00:00",
+   "score": 34,
+   "category": "Healthcare IT",
+   "remote": "Remote",
+   "shift": "",
+   "healthcare": true,
+   "salary": "",
+   "why": [
+    "Healthcare title: healthcare",
+    "Skills (2): nist, hipaa",
+    "Healthcare signals: healthcare, hipaa, phi, ehr",
+    "Remote",
+    "Downranked: registered nurse"
+   ]
+  },
+  {
    "key": "greenhouse:cloudflare:8116208",
    "title": "Principal Systems Engineer, DevTools",
    "company": "Cloudflare",
@@ -7216,29 +7460,6 @@
    ]
   },
   {
-   "key": "ashby:openai:f273d9ee-d64a-44b0-875b-10b0cbdde310",
-   "title": "Manager, Solutions Engineering - Digital Natives",
-   "company": "OpenAI",
-   "url": "https://jobs.ashbyhq.com/openai/f273d9ee-d64a-44b0-875b-10b0cbdde310",
-   "location": "Dublin, Ireland",
-   "source": "ashby",
-   "posted_at": "2026-07-09T17:16:43.524000+00:00",
-   "first_seen_at": "2026-09-01T21:48:55.904508+00:00",
-   "score": 33,
-   "category": "Cloud",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: solutions engineer",
-    "Skills (3): escalation, nist, aws",
-    "Healthcare signals: phi",
-    "Onsite outside SoCal",
-    "Senior level"
-   ]
-  },
-  {
    "key": "5b46481c3d177b53",
    "title": "Senior IT Systems Engineer Windows (m/w/d)",
    "company": "noris network AG",
@@ -7257,6 +7478,29 @@
     "Title match: systems engineer",
     "Skills (3): active directory, powershell, nist",
     "Healthcare signals: ehr",
+    "Onsite outside SoCal",
+    "Senior level"
+   ]
+  },
+  {
+   "key": "20ad45341c4545af",
+   "title": "Senior Solutions Engineer,Auth0",
+   "company": "okta",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/okta/senior-solutions-engineerauth0-london-454160",
+   "location": "London",
+   "source": "arbeitnow",
+   "posted_at": "2026-09-10T16:15:11+00:00",
+   "first_seen_at": "2026-09-10T19:44:25.409637+00:00",
+   "score": 33,
+   "category": "Cloud",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: solutions engineer",
+    "Skills (3): identity, saml, oidc",
+    "Healthcare signals: healthcare",
     "Onsite outside SoCal",
     "Senior level"
    ]
@@ -7367,26 +7611,6 @@
     "Healthcare signals: healthcare",
     "California",
     "Senior level"
-   ]
-  },
-  {
-   "key": "greenhouse:zocdoc:8074804",
-   "title": "Account Director, Large Provider Groups",
-   "company": "Zocdoc",
-   "url": "https://job-boards.greenhouse.io/zocdoc/jobs/8074804",
-   "location": "USA Remote",
-   "source": "greenhouse",
-   "posted_at": "2026-08-27T13:46:20+00:00",
-   "first_seen_at": "2026-08-19T04:14:00.571020+00:00",
-   "score": 32,
-   "category": "Other",
-   "remote": "Remote",
-   "shift": "",
-   "healthcare": true,
-   "salary": "",
-   "why": [
-    "Healthcare signals: healthcare, patient",
-    "Remote (US)"
    ]
   },
   {
@@ -7645,52 +7869,6 @@
    "why": [
     "Skills (4): azure, ci/cd, aws, gcp",
     "Remote",
-    "Senior level"
-   ]
-  },
-  {
-   "key": "lever:veeva systems:916f0625-30a5-4f9a-b125-d8dc07cc87bc",
-   "title": "Senior Consultant - Clinical Data Programming",
-   "company": "Veeva Systems",
-   "url": "https://jobs.lever.co/veeva/916f0625-30a5-4f9a-b125-d8dc07cc87bc",
-   "location": "North Carolina - Raleigh",
-   "source": "lever",
-   "posted_at": "1746651400502",
-   "first_seen_at": "2026-08-26T23:38:15.593817+00:00",
-   "score": 32,
-   "category": "Healthcare IT",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": true,
-   "salary": "",
-   "why": [
-    "Healthcare title: clinical",
-    "Skills (1): entra",
-    "Healthcare signals: clinical, patient, life sciences",
-    "Onsite outside SoCal",
-    "Senior level"
-   ]
-  },
-  {
-   "key": "lever:veeva systems:d0ad7473-fb3c-417f-8bb7-7aeffec974dc",
-   "title": "Senior Consultant - Clinical Data Programming",
-   "company": "Veeva Systems",
-   "url": "https://jobs.lever.co/veeva/d0ad7473-fb3c-417f-8bb7-7aeffec974dc",
-   "location": "Massachusetts - Boston",
-   "source": "lever",
-   "posted_at": "1718638082448",
-   "first_seen_at": "2026-08-26T23:38:15.593817+00:00",
-   "score": 32,
-   "category": "Healthcare IT",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": true,
-   "salary": "",
-   "why": [
-    "Healthcare title: clinical",
-    "Skills (1): entra",
-    "Healthcare signals: clinical, patient, life sciences",
-    "Onsite outside SoCal",
     "Senior level"
    ]
   },
@@ -9062,6 +9240,27 @@
     "Skills (2): firewall, ci/cd",
     "Healthcare signals: ehr",
     "Remote",
+    "Senior level"
+   ]
+  },
+  {
+   "key": "greenhouse:databricks:8570003002",
+   "title": "Sr. Counsel, Product",
+   "company": "Databricks",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8570003002",
+   "location": "Bellevue, Washington; Mountain View, California; New York City, New York; San Francisco, California; Seattle, Washington; Washington, D.C.",
+   "source": "greenhouse",
+   "posted_at": "2026-09-10T16:41:25+00:00",
+   "first_seen_at": "2026-09-10T19:44:25.409637+00:00",
+   "score": 30,
+   "category": "Other",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (3): incident response, fedramp, aws",
+    "California",
     "Senior level"
    ]
   },
@@ -11449,27 +11648,6 @@
     "Remote (US)",
     "Senior level",
     "Downranked: account executive"
-   ]
-  },
-  {
-   "key": "b87fb76f2a391ade",
-   "title": "IT Systems Engineer",
-   "company": "Olix",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/olix/it-systems-engineer-london-170070",
-   "location": "London, UK",
-   "source": "arbeitnow",
-   "posted_at": "2026-09-09T15:40:14+00:00",
-   "first_seen_at": "2026-09-09T16:41:25.185734+00:00",
-   "score": 25,
-   "category": "Cloud",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: systems engineer",
-    "Skills (5): escalation, nist, automation, identity, sso",
-    "Onsite outside SoCal"
    ]
   },
   {
