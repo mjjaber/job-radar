@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-16T22:58:37.288459+00:00",
- "signature": "e37a19b5caf0500daad067bf09cac5d41f9baf00",
- "count": 553,
+ "generated_at": "2026-09-17T01:28:09.827953+00:00",
+ "signature": "2efca0ec6a609e6cf587da22d96eb1f95d38a807",
+ "count": 552,
  "jobs": [
   {
    "key": "greenhouse:zocdoc:8060755",
@@ -1413,6 +1413,28 @@
    ]
   },
   {
+   "key": "259dce611a73cc04",
+   "title": "Senior DevOps Engineer (m/f/d)",
+   "company": "Auxmoney Gmbh",
+   "url": "https://www.arbeitnow.com/jobs/companies/auxmoney-gmbh/remote-senior-devops-engineer-289648",
+   "location": "Remote / D\u00fcsseldorf",
+   "source": "arbeitnow",
+   "posted_at": "2026-09-16T23:09:57+00:00",
+   "first_seen_at": "2026-09-17T01:28:09.827953+00:00",
+   "score": 58,
+   "category": "Cloud",
+   "remote": "Remote",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: devops engineer",
+    "Skills (3): automation, observability, aws",
+    "Remote",
+    "Senior level"
+   ]
+  },
+  {
    "key": "greenhouse:talkspace:4663393004",
    "title": "General Application for Clinical and Corporate",
    "company": "Talkspace",
@@ -2751,28 +2773,6 @@
    "why": [
     "Title match: solutions architect",
     "California",
-    "Senior level"
-   ]
-  },
-  {
-   "key": "bbc27a3b83a2817d",
-   "title": "Principal Data Engineer",
-   "company": "Vomela",
-   "url": "https://remoteOK.com/remote-jobs/remote-principal-data-engineer-vomela-1136860",
-   "location": "Remote",
-   "source": "remoteok",
-   "posted_at": "2026-08-17T16:00:06+00:00",
-   "first_seen_at": "2026-09-11T11:26:26.450958+00:00",
-   "score": 48,
-   "category": "Other",
-   "remote": "Remote",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Skills (5): azure, ci/cd, hipaa, observability, identity",
-    "Healthcare signals: health care, hipaa",
-    "Remote",
     "Senior level"
    ]
   },
@@ -6165,7 +6165,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8661359002",
    "location": "Mountain View, California",
    "source": "greenhouse",
-   "posted_at": "2026-09-02T04:28:14+00:00",
+   "posted_at": "2026-09-17T00:58:05+00:00",
    "first_seen_at": "2026-08-21T17:47:42.253585+00:00",
    "score": 36,
    "category": "Other",
@@ -6555,27 +6555,6 @@
    "salary": "",
    "why": [
     "Skills (5): azure, escalation, aws, gcp, identity",
-    "Remote",
-    "Senior level"
-   ]
-  },
-  {
-   "key": "d4751d10c4c2fee2",
-   "title": "Senior Software Engineer, Data & Platform Services",
-   "company": "liveperson",
-   "url": "https://www.arbeitnow.com/jobs/companies/liveperson/senior-software-engineer-data-platform-services-berlin-167181",
-   "location": "Berlin",
-   "source": "arbeitnow",
-   "posted_at": "2026-09-16T11:55:13+00:00",
-   "first_seen_at": "2026-09-16T17:02:05.753976+00:00",
-   "score": 36,
-   "category": "Other",
-   "remote": "Remote",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Skills (5): kubernetes, incident response, monitoring, observability, gcp",
     "Remote",
     "Senior level"
    ]
@@ -7422,6 +7401,29 @@
     "Skills (4): azure, linux, aws, gcp",
     "California",
     "Senior level"
+   ]
+  },
+  {
+   "key": "a33b515419e301f2",
+   "title": "Healthcare Virtual Assistant Registered Nurse",
+   "company": "Snapscale",
+   "url": "https://remoteOK.com/remote-jobs/remote-healthcare-virtual-assistant-registered-nurse-snapscale-1135684",
+   "location": "Davao, Davao, Davao Region, Philippines",
+   "source": "remoteok",
+   "posted_at": "2026-07-28T17:47:28+00:00",
+   "first_seen_at": "2026-09-17T01:28:09.827953+00:00",
+   "score": 34,
+   "category": "Healthcare IT",
+   "remote": "Remote",
+   "shift": "",
+   "healthcare": true,
+   "salary": "",
+   "why": [
+    "Healthcare title: healthcare",
+    "Skills (2): nist, hipaa",
+    "Healthcare signals: healthcare, hipaa, phi, ehr",
+    "Remote",
+    "Downranked: registered nurse"
    ]
   },
   {
@@ -10517,28 +10519,6 @@
     "Title match: solutions architect",
     "Skills (4): azure, aws, gcp, identity",
     "Healthcare signals: healthcare",
-    "Onsite outside SoCal"
-   ]
-  },
-  {
-   "key": "28a9e25fa806bb89",
-   "title": "DevOps Engineer (m/w/d)",
-   "company": "citema systems GmbH",
-   "url": "https://www.arbeitnow.com/jobs/companies/citema-systems-gmbh/devops-engineer-kiel-372234",
-   "location": "Kiel",
-   "source": "arbeitnow",
-   "posted_at": "2026-09-16T12:00:25+00:00",
-   "first_seen_at": "2026-09-16T17:02:05.753976+00:00",
-   "score": 27,
-   "category": "Cloud",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: devops engineer",
-    "Skills (4): linux, ci/cd, nist, sso",
-    "Healthcare signals: ehr",
     "Onsite outside SoCal"
    ]
   },
