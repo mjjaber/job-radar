@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-19T11:04:32.440066+00:00",
- "signature": "d8a536c3aa49ab1f86d0e9507203a27ef2e77cb7",
- "count": 545,
+ "generated_at": "2026-09-19T14:27:26.644780+00:00",
+ "signature": "db3e3f26268742ea34c3ea7fd633257b389a2dda",
+ "count": 550,
  "jobs": [
   {
    "key": "greenhouse:zocdoc:8060755",
@@ -627,27 +627,6 @@
    "source": "greenhouse",
    "posted_at": "2026-09-18T18:57:30+00:00",
    "first_seen_at": "2026-09-15T18:14:10.832893+00:00",
-   "score": 72,
-   "category": "Cloud",
-   "remote": "Remote",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: solutions architect",
-    "Skills (9): azure, terraform, kubernetes, docker, troubleshooting, monitoring",
-    "Remote"
-   ]
-  },
-  {
-   "key": "259005196ad257cb",
-   "title": "Partner Solutions Architect (EMEA)",
-   "company": "Datadog",
-   "url": "https://www.arbeitnow.com/jobs/companies/datadog/remote-partner-solutions-architect-emea-389722",
-   "location": "Remote",
-   "source": "arbeitnow",
-   "posted_at": "2026-09-18T20:55:12+00:00",
-   "first_seen_at": "2026-09-18T22:36:38.907872+00:00",
    "score": 72,
    "category": "Cloud",
    "remote": "Remote",
@@ -2097,6 +2076,50 @@
    ]
   },
   {
+   "key": "440f67846eae4b01",
+   "title": "Azure Infrastructure Engineer (m/w/d) in K\u00f6ln",
+   "company": "GR\u00dcNE'S LEIHH\u00c4USER GmbH & Co. KG",
+   "url": "https://www.arbeitnow.com/jobs/companies/grunes-leihhauser-gmbh-co-kg/azure-infrastructure-engineer-in-koln-buro-koln-181483",
+   "location": "B\u00fcro K\u00f6ln",
+   "source": "arbeitnow",
+   "posted_at": "2026-09-19T11:09:57+00:00",
+   "first_seen_at": "2026-09-19T14:27:26.644780+00:00",
+   "score": 51,
+   "category": "Cloud",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: infrastructure engineer",
+    "Skills (11): azure, entra, active directory, terraform, powershell, m365",
+    "Healthcare signals: ehr",
+    "Onsite outside SoCal"
+   ]
+  },
+  {
+   "key": "9c439a7a2d58b7e7",
+   "title": "Azure Infrastructure Engineer (m/w/d) in Frankfurt",
+   "company": "GR\u00dcNE'S LEIHH\u00c4USER GmbH & Co. KG",
+   "url": "https://www.arbeitnow.com/jobs/companies/grunes-leihhauser-gmbh-co-kg/azure-infrastructure-engineer-in-frankfurt-buro-frankfurt-83901",
+   "location": "B\u00fcro Frankfurt",
+   "source": "arbeitnow",
+   "posted_at": "2026-09-19T11:09:57+00:00",
+   "first_seen_at": "2026-09-19T14:27:26.644780+00:00",
+   "score": 51,
+   "category": "Cloud",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: infrastructure engineer",
+    "Skills (11): azure, entra, active directory, terraform, powershell, m365",
+    "Healthcare signals: ehr",
+    "Onsite outside SoCal"
+   ]
+  },
+  {
    "key": "lever:veeva systems:b74cac8c-a5d2-4835-81fd-fab53fda4a9c",
    "title": "Senior Product Manager - Patient CRM",
    "company": "Veeva Systems",
@@ -2793,6 +2816,27 @@
    "why": [
     "Skills (8): entra, networking, firewall, linux, escalation, troubleshooting",
     "Remote",
+    "Senior level"
+   ]
+  },
+  {
+   "key": "245f7f907c168248",
+   "title": "Senior Trust Security Analyst",
+   "company": "nice",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/nice/senior-trust-security-analyst-306211",
+   "location": "",
+   "source": "arbeitnow",
+   "posted_at": "2026-09-19T12:55:06+00:00",
+   "first_seen_at": "2026-09-19T14:27:26.644780+00:00",
+   "score": 48,
+   "category": "Cybersecurity",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (8): azure, incident response, fedramp, hipaa, soc 2, aws",
+    "Healthcare signals: hipaa",
     "Senior level"
    ]
   },
@@ -7340,26 +7384,6 @@
    ]
   },
   {
-   "key": "320420f8a73e9cc4",
-   "title": "Intelligent Automation Engineering Manager",
-   "company": "Delta Capita",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/delta-capita/remote-intelligent-automation-engineering-manager-london-402164",
-   "location": "Remote job",
-   "source": "arbeitnow",
-   "posted_at": "2026-09-18T21:30:27+00:00",
-   "first_seen_at": "2026-09-19T01:12:55.158941+00:00",
-   "score": 34,
-   "category": "Other",
-   "remote": "Remote",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Skills (7): azure, networking, kubernetes, ci/cd, automation, observability",
-    "Remote"
-   ]
-  },
-  {
    "key": "greenhouse:cloudflare:8116208",
    "title": "Principal Systems Engineer, DevTools",
    "company": "Cloudflare",
@@ -8046,6 +8070,28 @@
     "Skills (5): entra, kubernetes, docker, ci/cd, identity",
     "Healthcare signals: phi",
     "Remote"
+   ]
+  },
+  {
+   "key": "aa460935ef42f6c7",
+   "title": "Senior Shopify Developer",
+   "company": "Sanctuary Computer",
+   "url": "https://remoteOK.com/remote-jobs/remote-senior-shopify-developer-sanctuary-computer-1137405",
+   "location": "Remote",
+   "source": "remoteok",
+   "posted_at": "2026-09-18T13:29:53+00:00",
+   "first_seen_at": "2026-09-19T14:27:26.644780+00:00",
+   "score": 32,
+   "category": "Other",
+   "remote": "Remote",
+   "shift": "",
+   "healthcare": false,
+   "salary": "$80,000 - $250,000",
+   "why": [
+    "Skills (1): entra",
+    "Remote",
+    "Senior level",
+    "Salary $80,000 - $250,000"
    ]
   },
   {
@@ -9292,6 +9338,28 @@
    ]
   },
   {
+   "key": "0044ecfd0e0b5816",
+   "title": "Senior System Engineer (m/w/d)",
+   "company": "virtual7 GmbH",
+   "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-system-engineer-bonn-440479",
+   "location": "Homeoffice",
+   "source": "arbeitnow",
+   "posted_at": "2026-09-19T11:30:30+00:00",
+   "first_seen_at": "2026-09-19T14:27:26.644780+00:00",
+   "score": 30,
+   "category": "Other",
+   "remote": "Remote",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (2): firewall, ci/cd",
+    "Healthcare signals: ehr",
+    "Remote",
+    "Senior level"
+   ]
+  },
+  {
    "key": "greenhouse:datadog:8014851",
    "title": "Manager I, Technical Support Engineering",
    "company": "Datadog",
@@ -9969,6 +10037,27 @@
    "salary": "",
    "why": [
     "Skills (3): escalation, monitoring, observability",
+    "Remote",
+    "Senior level"
+   ]
+  },
+  {
+   "key": "3d0a3cfcb118deed",
+   "title": "Principal GSI Partner Manager - Accenture (EMEA)",
+   "company": "Datadog",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/datadog/remote-principal-gsi-partner-manager-accenture-emea-476767",
+   "location": "Remote",
+   "source": "arbeitnow",
+   "posted_at": "2026-09-19T12:55:15+00:00",
+   "first_seen_at": "2026-09-19T14:27:26.644780+00:00",
+   "score": 28,
+   "category": "Other",
+   "remote": "Remote",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (3): monitoring, observability, identity",
     "Remote",
     "Senior level"
    ]
@@ -11139,6 +11228,50 @@
    ]
   },
   {
+   "key": "ae550184d211d0a3",
+   "title": "Senior .NET Full-stack Developer",
+   "company": "Lemon.io",
+   "url": "https://remotive.com/remote-jobs/software-development/senior-net-full-stack-developer-2091130",
+   "location": "Northern America, LATAM, Europe, APAC",
+   "source": "remotive",
+   "posted_at": "2026-09-17T13:22:05+00:00",
+   "first_seen_at": "2026-09-19T14:27:26.644780+00:00",
+   "score": 26,
+   "category": "Other",
+   "remote": "Remote",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (1): automation",
+    "Healthcare signals: phi",
+    "Remote",
+    "Senior level"
+   ]
+  },
+  {
+   "key": "91291092f1222383",
+   "title": "Senior Business Development & Strategy Manager (m/w/d)",
+   "company": "Studyflix Gmbh",
+   "url": "https://www.arbeitnow.com/jobs/companies/studyflix-gmbh/senior-business-development-strategy-manager-augsburg-25553",
+   "location": "Augsburg",
+   "source": "arbeitnow",
+   "posted_at": "2026-09-19T11:09:48+00:00",
+   "first_seen_at": "2026-09-19T14:27:26.644780+00:00",
+   "score": 26,
+   "category": "Other",
+   "remote": "Remote",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (1): entra",
+    "Healthcare signals: ehr",
+    "Remote",
+    "Senior level"
+   ]
+  },
+  {
    "key": "greenhouse:cloudflare:7641930",
    "title": "Senior Atlassian System Admin",
    "company": "Cloudflare",
@@ -11848,27 +11981,6 @@
    "why": [
     "Title match: systems engineer",
     "Skills (5): entra, zero trust, incident response, observability, identity",
-    "Onsite outside SoCal"
-   ]
-  },
-  {
-   "key": "a2f28140f75e26bd",
-   "title": "AI Solutions Engineer (m/w/d)",
-   "company": "Tmh",
-   "url": "https://www.arbeitnow.com/jobs/companies/tmh/ai-solutions-engineer-munchen-324708",
-   "location": "M\u00fcnchen",
-   "source": "arbeitnow",
-   "posted_at": "2026-09-18T23:09:26+00:00",
-   "first_seen_at": "2026-09-19T01:12:55.158941+00:00",
-   "score": 25,
-   "category": "Cloud",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: solutions engineer",
-    "Skills (5): nist, automation, monitoring, observability, aws",
     "Onsite outside SoCal"
    ]
   },
