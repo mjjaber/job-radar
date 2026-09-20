@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-19T23:09:41.887082+00:00",
- "signature": "934fe63577ee01c979de57f97010f30546659b0e",
- "count": 552,
+ "generated_at": "2026-09-20T01:12:40.996206+00:00",
+ "signature": "8f7a83892acf5cae46f5cf14bb0c0cd5d5c18040",
+ "count": 556,
  "jobs": [
   {
    "key": "greenhouse:zocdoc:8060755",
@@ -964,6 +964,27 @@
    ]
   },
   {
+   "key": "ee435e93fd96b94a",
+   "title": "IT Systems Engineer",
+   "company": "remotewoman",
+   "url": "https://www.arbeitnow.fr/jobs/companies/remotewoman/remote-it-systems-engineer-361671",
+   "location": "Remote \u2022 Canada, Spain, Germany, UK",
+   "source": "arbeitnow",
+   "posted_at": "2026-09-19T22:55:16+00:00",
+   "first_seen_at": "2026-09-20T01:12:40.996206+00:00",
+   "score": 64,
+   "category": "Cloud",
+   "remote": "Remote",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: systems engineer",
+    "Skills (7): linux, nist, soc 2, automation, observability, identity",
+    "Remote"
+   ]
+  },
+  {
    "key": "greenhouse:datadog:7627531",
    "title": "Senior Product Solutions Architect - AI Agent",
    "company": "Datadog",
@@ -1476,6 +1497,28 @@
     "Healthcare title: clinical",
     "Healthcare signals: healthcare, clinical",
     "Remote (US)"
+   ]
+  },
+  {
+   "key": "967021cffd908c52",
+   "title": "Sr. Medical Scientific Liaison - France",
+   "company": "Acadia Job Listings",
+   "url": "https://www.arbeitnow.fr/jobs/companies/acadia-job-listings/sr-medical-scientific-liaison-france-483286",
+   "location": "",
+   "source": "arbeitnow",
+   "posted_at": "2026-09-19T22:55:10+00:00",
+   "first_seen_at": "2026-09-20T01:12:40.996206+00:00",
+   "score": 57,
+   "category": "Healthcare IT",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": true,
+   "salary": "",
+   "why": [
+    "Healthcare title: medical",
+    "Skills (1): monitoring",
+    "Healthcare signals: healthcare, clinical, patient",
+    "Senior level"
    ]
   },
   {
@@ -3128,6 +3171,46 @@
    "salary": "$266K \u2013 $445K \u2022 Offers Equity",
    "why": [
     "Skills (10): azure, networking, kubernetes, ci/cd, nist, automation",
+    "Remote"
+   ]
+  },
+  {
+   "key": "c3b077e0e7065bd3",
+   "title": "Technical Account Manager - France",
+   "company": "dataiku",
+   "url": "https://www.arbeitnow.fr/jobs/companies/dataiku/remote-technical-account-manager-france-280044",
+   "location": "Paris; Remote",
+   "source": "arbeitnow",
+   "posted_at": "2026-09-19T22:55:03+00:00",
+   "first_seen_at": "2026-09-20T01:12:40.996206+00:00",
+   "score": 46,
+   "category": "Other",
+   "remote": "Remote",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (13): azure, entra, active directory, networking, linux, kubernetes",
+    "Remote"
+   ]
+  },
+  {
+   "key": "d387cfcefb009965",
+   "title": "Operations Support Engineer",
+   "company": "European Dynamics",
+   "url": "https://www.arbeitnow.fr/jobs/companies/european-dynamics/operations-support-engineer-strasbourg-6979",
+   "location": "Strasbourg, France",
+   "source": "arbeitnow",
+   "posted_at": "2026-09-19T22:20:12+00:00",
+   "first_seen_at": "2026-09-20T01:12:40.996206+00:00",
+   "score": 46,
+   "category": "Cloud Operations/Support",
+   "remote": "Remote",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (10): linux, ci/cd, nist, automation, monitoring, observability",
     "Remote"
    ]
   },
@@ -4972,26 +5055,6 @@
     "Title match: solutions architect",
     "Skills (1): aws",
     "Remote"
-   ]
-  },
-  {
-   "key": "91703c96f50fc091",
-   "title": "Legal Receptionist Fully",
-   "company": "Adams &amp; Martin Group",
-   "url": "https://remoteOK.com/remote-jobs/remote-legal-receptionist-fully-adams-amp-martin-group-1135609",
-   "location": "Cupertino, Cupertino, California, United States",
-   "source": "remoteok",
-   "posted_at": "2026-07-28T22:17:20+00:00",
-   "first_seen_at": "2026-09-11T11:26:26.450958+00:00",
-   "score": 40,
-   "category": "Other",
-   "remote": "Remote",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Skills (5): entra, nist, aws, identity, sso",
-    "Remote (US)"
    ]
   },
   {
@@ -8142,6 +8205,27 @@
    ]
   },
   {
+   "key": "bd87a335cb14c139",
+   "title": "Customer Success Manager Mexico",
+   "company": "JumpCloud",
+   "url": "https://remoteOK.com/remote-jobs/remote-customer-success-manager-mexico-jumpcloud-1137406",
+   "location": "Mexico City, Mexico - Remote",
+   "source": "remoteok",
+   "posted_at": "2026-09-19T00:00:06+00:00",
+   "first_seen_at": "2026-09-20T01:12:40.996206+00:00",
+   "score": 32,
+   "category": "Other",
+   "remote": "Remote",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (5): zero trust, escalation, nist, identity, sso",
+    "Healthcare signals: phi",
+    "Remote"
+   ]
+  },
+  {
    "key": "greenhouse:cloudflare:8050813",
    "title": "Systems Engineer, Data Intelligence & Analytics Team",
    "company": "Cloudflare",
@@ -8578,6 +8662,50 @@
     "Skills (4): azure, aws, gcp, identity",
     "Onsite outside SoCal",
     "Senior level"
+   ]
+  },
+  {
+   "key": "f1fed8c77f623965",
+   "title": "Cloud Platform Engineer (m/w/d)",
+   "company": "IP Dynamics GmbH",
+   "url": "https://www.arbeitnow.com/jobs/companies/ip-dynamics-gmbh/cloud-platform-engineer-stuttgart-466959",
+   "location": "Stuttgart",
+   "source": "arbeitnow",
+   "posted_at": "2026-09-19T23:09:51+00:00",
+   "first_seen_at": "2026-09-20T01:12:40.996206+00:00",
+   "score": 31,
+   "category": "Cloud",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: platform engineer",
+    "Skills (5): terraform, networking, kubernetes, ci/cd, monitoring",
+    "Healthcare signals: ehr",
+    "Onsite outside SoCal"
+   ]
+  },
+  {
+   "key": "a1c46a08055399a1",
+   "title": "Cloud Platform Engineer (m/w/d)",
+   "company": "IP Dynamics GmbH",
+   "url": "https://www.arbeitnow.com/jobs/companies/ip-dynamics-gmbh/cloud-platform-engineer-hannover-61133",
+   "location": "Hannover",
+   "source": "arbeitnow",
+   "posted_at": "2026-09-19T23:09:51+00:00",
+   "first_seen_at": "2026-09-20T01:12:40.996206+00:00",
+   "score": 31,
+   "category": "Cloud",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: platform engineer",
+    "Skills (5): terraform, networking, kubernetes, ci/cd, monitoring",
+    "Healthcare signals: ehr",
+    "Onsite outside SoCal"
    ]
   },
   {
@@ -9321,28 +9449,6 @@
    ]
   },
   {
-   "key": "ad25b19c51bcd9c4",
-   "title": "Senior Consultant SAP S/4HANA Sourcing & Procurement (w/m/d)",
-   "company": "Workidentity",
-   "url": "https://www.arbeitnow.fr/jobs/companies/workidentity/remote-senior-consultant-sap-s-4hana-sourcing-procurement-330276",
-   "location": "Remote",
-   "source": "arbeitnow",
-   "posted_at": "2026-09-19T07:09:24+00:00",
-   "first_seen_at": "2026-09-19T11:04:32.440066+00:00",
-   "score": 30,
-   "category": "Other",
-   "remote": "Remote",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Skills (2): entra, networking",
-    "Healthcare signals: ehr",
-    "Remote",
-    "Senior level"
-   ]
-  },
-  {
    "key": "0044ecfd0e0b5816",
    "title": "Senior System Engineer (m/w/d)",
    "company": "virtual7 GmbH",
@@ -9383,6 +9489,26 @@
     "Skills (1): automation",
     "Healthcare signals: healthcare",
     "Remote (US)"
+   ]
+  },
+  {
+   "key": "471e6e2a24fae31d",
+   "title": "AI Compiler Engineer",
+   "company": "Enchargeai36",
+   "url": "https://www.arbeitnow.com/jobs/companies/enchargeai36/remote-ai-compiler-engineer-152964",
+   "location": "Remote-US, Canada",
+   "source": "arbeitnow",
+   "posted_at": "2026-09-19T23:55:16+00:00",
+   "first_seen_at": "2026-09-20T01:12:40.996206+00:00",
+   "score": 30,
+   "category": "Other",
+   "remote": "Remote",
+   "shift": "",
+   "healthcare": false,
+   "salary": "$190,000 - $265,000",
+   "why": [
+    "Remote (California)",
+    "Salary $190,000 - $265,000"
    ]
   },
   {
@@ -11228,50 +11354,6 @@
    "why": [
     "Skills (1): observability",
     "Healthcare signals: phi, hospital",
-    "Senior level"
-   ]
-  },
-  {
-   "key": "ed30184b6462344f",
-   "title": "Senior Design Manager",
-   "company": "Pennylane SAS",
-   "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/senior-design-manager-paris-223027",
-   "location": "All France (remote)",
-   "source": "arbeitnow",
-   "posted_at": "2026-09-19T07:40:07+00:00",
-   "first_seen_at": "2026-09-19T11:04:32.440066+00:00",
-   "score": 26,
-   "category": "Other",
-   "remote": "Remote",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Skills (1): entra",
-    "Healthcare signals: healthcare",
-    "Remote",
-    "Senior level"
-   ]
-  },
-  {
-   "key": "5f1608bbdcd39cdd",
-   "title": "(Senior) SAP Integrationsberater:in (m/w/d)",
-   "company": "Workidentity",
-   "url": "https://www.arbeitnow.fr/jobs/companies/workidentity/remote-senior-sap-integrationsberaterin-19256",
-   "location": "Remote",
-   "source": "arbeitnow",
-   "posted_at": "2026-09-19T07:09:24+00:00",
-   "first_seen_at": "2026-09-19T11:04:32.440066+00:00",
-   "score": 26,
-   "category": "Other",
-   "remote": "Remote",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Skills (1): entra",
-    "Healthcare signals: ehr",
-    "Remote",
     "Senior level"
    ]
   },
