@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-26T22:54:55.086352+00:00",
- "signature": "62f894c30edaa9241558004fb271c316e61609cc",
- "count": 562,
+ "generated_at": "2026-09-27T01:30:23.326565+00:00",
+ "signature": "b491e77fdf81a422822167dd52d90358a42a73ec",
+ "count": 564,
  "jobs": [
   {
    "key": "greenhouse:zocdoc:8060755",
@@ -1109,29 +1109,6 @@
     "Title match: solutions engineer",
     "Skills (10): azure, terraform, linux, kubernetes, docker, iac",
     "Healthcare signals: phi",
-    "Onsite outside SoCal",
-    "Senior level"
-   ]
-  },
-  {
-   "key": "a3aedf5848b4b2d7",
-   "title": "Senior Cloud Infrastructure Engineer",
-   "company": "Voodoo",
-   "url": "https://www.arbeitnow.fr/jobs/companies/voodoo/senior-cloud-infrastructure-engineer-paris-33428",
-   "location": "Paris",
-   "source": "arbeitnow",
-   "posted_at": "2026-09-24T01:40:15+00:00",
-   "first_seen_at": "2026-09-24T04:56:36.134534+00:00",
-   "score": 61,
-   "category": "Cloud",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: cloud infrastructure engineer",
-    "Skills (11): entra, terraform, networking, linux, kubernetes, ci/cd",
-    "Healthcare signals: healthcare",
     "Onsite outside SoCal",
     "Senior level"
    ]
@@ -5781,6 +5758,27 @@
     "Healthcare signals: ehr",
     "Onsite outside SoCal",
     "Senior level"
+   ]
+  },
+  {
+   "key": "95be323d701c7217",
+   "title": "Sales Solutions Engineer - EMEA",
+   "company": "Sonarsource",
+   "url": "https://www.arbeitnow.ch/jobs/companies/sonarsource/sales-solutions-engineer-emea-geneva-413885",
+   "location": "Geneva",
+   "source": "arbeitnow",
+   "posted_at": "2026-09-26T23:24:15+00:00",
+   "first_seen_at": "2026-09-27T01:30:23.326565+00:00",
+   "score": 37,
+   "category": "Cloud",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: solutions engineer",
+    "Skills (8): azure, entra, linux, kubernetes, docker, troubleshooting",
+    "Onsite outside SoCal"
    ]
   },
   {
@@ -11465,6 +11463,26 @@
    ]
   },
   {
+   "key": "8ca39ef92beb29d0",
+   "title": "(Senior) GenAI Engineer",
+   "company": "capco",
+   "url": "https://www.arbeitnow.com/jobs/companies/capco/senior-genai-engineer-10097",
+   "location": "",
+   "source": "arbeitnow",
+   "posted_at": "2026-09-26T23:55:09+00:00",
+   "first_seen_at": "2026-09-27T01:30:23.326565+00:00",
+   "score": 26,
+   "category": "Other",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (4): azure, terraform, docker, sso",
+    "Senior level"
+   ]
+  },
+  {
    "key": "greenhouse:cloudflare:7641930",
    "title": "Senior Atlassian System Admin",
    "company": "Cloudflare",
@@ -12261,6 +12279,27 @@
     "Remote (US)",
     "Senior level",
     "Downranked: account executive"
+   ]
+  },
+  {
+   "key": "097a029ac6a0e50d",
+   "title": "Application Security Engineer",
+   "company": "Sonarsource",
+   "url": "https://www.arbeitnow.ch/jobs/companies/sonarsource/application-security-engineer-geneva-242973",
+   "location": "Geneva",
+   "source": "arbeitnow",
+   "posted_at": "2026-09-26T23:24:15+00:00",
+   "first_seen_at": "2026-09-27T01:30:23.326565+00:00",
+   "score": 25,
+   "category": "Cybersecurity",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: security engineer",
+    "Skills (5): azure, automation, aws, gcp, identity",
+    "Onsite outside SoCal"
    ]
   }
  ]
