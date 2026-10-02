@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-01T23:54:57.893466+00:00",
- "signature": "42baa9209ea5222eaf2de939e40d9d8f9e70771f",
- "count": 553,
+ "generated_at": "2026-10-02T05:43:28.848126+00:00",
+ "signature": "ac9020c7ca4e305a890174bc51ee3f7b0aa639f3",
+ "count": 547,
  "jobs": [
   {
    "key": "greenhouse:zocdoc:8060755",
@@ -885,6 +885,29 @@
     "Skills (4): azure, aws, gcp, identity",
     "Remote",
     "Salary $180,000 - $247,500"
+   ]
+  },
+  {
+   "key": "0076d23c229a42e2",
+   "title": "Senior Data Platform Engineer (m/w/d) | Snowflake",
+   "company": "JobRad Loop",
+   "url": "https://www.arbeitnow.com/jobs/companies/jobrad-loop/senior-data-platform-engineer-snowflake-munchen-61646",
+   "location": "M\u00fcnchen",
+   "source": "arbeitnow",
+   "posted_at": "2026-10-02T02:09:05+00:00",
+   "first_seen_at": "2026-10-02T05:43:28.848126+00:00",
+   "score": 64,
+   "category": "Cloud",
+   "remote": "Remote",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: platform engineer",
+    "Skills (3): azure, ci/cd, aws",
+    "Healthcare signals: ehr",
+    "Remote",
+    "Senior level"
    ]
   },
   {
@@ -2065,6 +2088,28 @@
    ]
   },
   {
+   "key": "213276dc15436abd",
+   "title": "(Senior) Distributed Systems Engineer - m/f/d",
+   "company": "Langdock",
+   "url": "https://www.arbeitnow.com/jobs/companies/langdock/senior-distributed-systems-engineer-berlin-33798",
+   "location": "Berlin",
+   "source": "arbeitnow",
+   "posted_at": "2026-10-02T02:40:11+00:00",
+   "first_seen_at": "2026-10-02T05:43:28.848126+00:00",
+   "score": 51,
+   "category": "Cloud",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: systems engineer",
+    "Skills (9): azure, terraform, networking, linux, kubernetes, automation",
+    "Onsite outside SoCal",
+    "Senior level"
+   ]
+  },
+  {
    "key": "lever:veeva systems:b74cac8c-a5d2-4835-81fd-fab53fda4a9c",
    "title": "Senior Product Manager - Patient CRM",
    "company": "Veeva Systems",
@@ -2697,27 +2742,6 @@
    ]
   },
   {
-   "key": "802be21825f29d0c",
-   "title": "Maintainer (m/dw/d)",
-   "company": "Velptec",
-   "url": "https://www.arbeitnow.com/jobs/companies/velptec/remote-maintainer-m-dw-d-441145",
-   "location": "Remote (Deutschland)",
-   "source": "arbeitnow",
-   "posted_at": "2026-10-01T17:09:34+00:00",
-   "first_seen_at": "2026-10-01T19:34:20.416275+00:00",
-   "score": 48,
-   "category": "Other",
-   "remote": "Remote",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Skills (9): azure, terraform, linux, docker, ci/cd, monitoring",
-    "Healthcare signals: ehr",
-    "Remote"
-   ]
-  },
-  {
    "key": "greenhouse:cloudflare:8104955",
    "title": "Senior Systems Engineer, Identity & Access Management",
    "company": "Cloudflare",
@@ -2956,6 +2980,28 @@
    "why": [
     "Title match: devops engineer",
     "Skills (8): terraform, networking, kubernetes, docker, ci/cd, incident response",
+    "Onsite outside SoCal",
+    "Senior level"
+   ]
+  },
+  {
+   "key": "2f55135bb33377f6",
+   "title": "(Senior) Platform Engineer - m/f/d",
+   "company": "Langdock",
+   "url": "https://www.arbeitnow.com/jobs/companies/langdock/senior-platform-engineer-berlin-481653",
+   "location": "Berlin",
+   "source": "arbeitnow",
+   "posted_at": "2026-10-02T02:40:11+00:00",
+   "first_seen_at": "2026-10-02T05:43:28.848126+00:00",
+   "score": 47,
+   "category": "Cloud",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: platform engineer",
+    "Skills (8): azure, terraform, kubernetes, nist, automation, observability",
     "Onsite outside SoCal",
     "Senior level"
    ]
@@ -3350,27 +3396,6 @@
    "why": [
     "Title match: solutions architect",
     "Skills (15): azure, entra, terraform, networking, iac, bicep",
-    "Onsite outside SoCal"
-   ]
-  },
-  {
-   "key": "820d53b77674e395",
-   "title": "IT Security Engineer (m/f/d)",
-   "company": "Quantum-Systems GmbH",
-   "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/it-security-engineer-gilching-102151",
-   "location": "Gilching, Bayern, Germany",
-   "source": "arbeitnow",
-   "posted_at": "2026-10-01T14:30:42+00:00",
-   "first_seen_at": "2026-10-01T19:34:20.416275+00:00",
-   "score": 45,
-   "category": "Cybersecurity",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: security engineer",
-    "Skills (14): azure, entra, intune, microsoft 365, networking, vpn",
     "Onsite outside SoCal"
    ]
   },
@@ -3781,69 +3806,6 @@
    ]
   },
   {
-   "key": "af9cb842359a3055",
-   "title": "Senior GenAI Solution Engineer (all genders)",
-   "company": "Eraneos",
-   "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-senior-genai-solution-engineer-all-genders-491644",
-   "location": "Hamburg, M\u00fcnchen, D\u00fcsseldorf, remote",
-   "source": "arbeitnow",
-   "posted_at": "2026-10-01T11:09:31+00:00",
-   "first_seen_at": "2026-10-01T13:23:06.743805+00:00",
-   "score": 44,
-   "category": "Other",
-   "remote": "Remote",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Skills (7): azure, entra, docker, ci/cd, monitoring, aws",
-    "Remote",
-    "Senior level"
-   ]
-  },
-  {
-   "key": "b90da9d5ce188fd9",
-   "title": "Senior Solutions Engineer (EMEA Region)",
-   "company": "Ss8",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/ss8/senior-solutions-engineer-emea-region-211264",
-   "location": "",
-   "source": "arbeitnow",
-   "posted_at": "2026-10-01T09:55:08+00:00",
-   "first_seen_at": "2026-10-01T13:23:06.743805+00:00",
-   "score": 44,
-   "category": "Cloud",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: solutions engineer",
-    "Skills (1): networking",
-    "Senior level"
-   ]
-  },
-  {
-   "key": "b7ce2746c86151aa",
-   "title": "Senior Solutions Engineer (APAC Region)",
-   "company": "Ss8",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/ss8/senior-solutions-engineer-apac-region-297288",
-   "location": "",
-   "source": "arbeitnow",
-   "posted_at": "2026-10-01T09:55:08+00:00",
-   "first_seen_at": "2026-10-01T13:23:06.743805+00:00",
-   "score": 44,
-   "category": "Cloud",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: solutions engineer",
-    "Skills (1): networking",
-    "Senior level"
-   ]
-  },
-  {
    "key": "2acf78208ccc4a62",
    "title": "Senior Machine Learning Engineer - Sim2Real & Machine Modeling",
    "company": "Gravis Robotics",
@@ -3954,28 +3916,6 @@
     "Onsite outside SoCal",
     "Senior level",
     "Salary $150,000 - $185,000"
-   ]
-  },
-  {
-   "key": "bb904a235b7b463b",
-   "title": "Senior Platform Engineer (m/w/d) AWS",
-   "company": "hubside - Die Recruitingwerkstatt",
-   "url": "https://www.arbeitnow.com/jobs/companies/hubside-die-recruitingwerkstatt/senior-platform-engineer-aws-munich-466665",
-   "location": "Munich",
-   "source": "arbeitnow",
-   "posted_at": "2026-10-01T14:30:34+00:00",
-   "first_seen_at": "2026-10-01T19:34:20.416275+00:00",
-   "score": 43,
-   "category": "Cloud",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: platform engineer",
-    "Skills (7): entra, terraform, networking, kubernetes, ci/cd, observability",
-    "Onsite outside SoCal",
-    "Senior level"
    ]
   },
   {
@@ -4799,27 +4739,6 @@
     "Skills (6): networking, linux, ci/cd, automation, identity, vulnerability",
     "Remote",
     "Senior level"
-   ]
-  },
-  {
-   "key": "2abd78ecb4723827",
-   "title": "Working Student Integrations Management (m/w/d)",
-   "company": "Recare Deutschland GmbH",
-   "url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-working-student-integrations-management-berlin-295729",
-   "location": "Remote job",
-   "source": "arbeitnow",
-   "posted_at": "2026-10-01T14:30:39+00:00",
-   "first_seen_at": "2026-10-01T19:34:20.416275+00:00",
-   "score": 40,
-   "category": "Other",
-   "remote": "Remote",
-   "shift": "",
-   "healthcare": true,
-   "salary": "",
-   "why": [
-    "Skills (1): troubleshooting",
-    "Healthcare signals: healthcare, fhir, hl7, ehr",
-    "Remote"
    ]
   },
   {
@@ -5786,52 +5705,6 @@
     "Title match: solutions architect",
     "Skills (4): azure, aws, gcp, identity",
     "Healthcare signals: healthcare",
-    "Onsite outside SoCal",
-    "Senior level"
-   ]
-  },
-  {
-   "key": "5f975f91e5bdc491",
-   "title": "Senior Solutions Architect - Data & AI Engineer (f/m/d, 4-Days-Week), German Speaking",
-   "company": "Auvaria",
-   "url": "https://www.arbeitnow.com/jobs/companies/auvaria/senior-solutions-architect-data-ai-engineer-4-days-week-german-speaking-munchen-21573",
-   "location": "M\u00fcnchen",
-   "source": "arbeitnow",
-   "posted_at": "2026-10-01T11:09:26+00:00",
-   "first_seen_at": "2026-10-01T13:23:06.743805+00:00",
-   "score": 37,
-   "category": "Cloud",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: solutions architect",
-    "Skills (4): terraform, iac, monitoring, aws",
-    "Healthcare signals: ehr",
-    "Onsite outside SoCal",
-    "Senior level"
-   ]
-  },
-  {
-   "key": "9b818d411a234189",
-   "title": "Lead DevOps Engineer (m/w/d)",
-   "company": "hubside - Die Recruitingwerkstatt",
-   "url": "https://www.arbeitnow.com/jobs/companies/hubside-die-recruitingwerkstatt/lead-devops-engineer-munich-325347",
-   "location": "Munich",
-   "source": "arbeitnow",
-   "posted_at": "2026-10-01T14:30:35+00:00",
-   "first_seen_at": "2026-10-01T19:34:20.416275+00:00",
-   "score": 37,
-   "category": "Cloud",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: devops engineer",
-    "Skills (4): terraform, kubernetes, ci/cd, aws",
-    "Healthcare signals: ehr",
     "Onsite outside SoCal",
     "Senior level"
    ]
@@ -7435,6 +7308,28 @@
    ]
   },
   {
+   "key": "a817b87bcb050b2f",
+   "title": "Solutions Engineer Level 1 - London",
+   "company": "TransPerfect",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/solutions-engineer-level-1-london-130295",
+   "location": "London, Greater London, United Kingdom",
+   "source": "arbeitnow",
+   "posted_at": "2026-10-02T00:30:09+00:00",
+   "first_seen_at": "2026-10-02T05:43:28.848126+00:00",
+   "score": 33,
+   "category": "Cloud",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: solutions engineer",
+    "Skills (4): escalation, troubleshooting, automation, aws",
+    "Healthcare signals: clinical, life sciences",
+    "Onsite outside SoCal"
+   ]
+  },
+  {
    "key": "greenhouse:datadog:7426752",
    "title": "Enterprise Sales Executive (SLED)",
    "company": "Datadog",
@@ -8013,28 +7908,6 @@
     "Remote",
     "Senior level",
     "Salary $130,300 - $179,200"
-   ]
-  },
-  {
-   "key": "af7727986a9070c0",
-   "title": "Lead Data Products Engineer",
-   "company": "Baringa",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/baringa/remote-lead-data-products-engineer-330491",
-   "location": "London; Remote",
-   "source": "arbeitnow",
-   "posted_at": "2026-10-01T12:55:02+00:00",
-   "first_seen_at": "2026-10-01T19:34:20.416275+00:00",
-   "score": 32,
-   "category": "Other",
-   "remote": "Remote",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Skills (1): observability",
-    "Healthcare signals: phi, life sciences",
-    "Remote",
-    "Senior level"
    ]
   },
   {
@@ -8653,6 +8526,28 @@
    ]
   },
   {
+   "key": "b2e3e3f1957905b5",
+   "title": "Senior ICT System Engineer (m/w/d)",
+   "company": "Mpirix AG",
+   "url": "https://www.arbeitnow.ch/jobs/companies/mpirix-ag/senior-ict-system-engineer-zurich-145435",
+   "location": "Z\u00fcrich",
+   "source": "arbeitnow",
+   "posted_at": "2026-10-02T02:09:55+00:00",
+   "first_seen_at": "2026-10-02T05:43:28.848126+00:00",
+   "score": 31,
+   "category": "Other",
+   "remote": "Hybrid",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (19): azure, entra, terraform, powershell, networking, vpn",
+    "Healthcare signals: ehr",
+    "Onsite outside SoCal",
+    "Senior level"
+   ]
+  },
+  {
    "key": "greenhouse:talkspace:5739521004",
    "title": "Senior AI Engineer",
    "company": "Talkspace",
@@ -9079,7 +8974,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8583037002",
    "location": "San Francisco, California",
    "source": "greenhouse",
-   "posted_at": "2026-09-25T00:27:19+00:00",
+   "posted_at": "2026-10-02T01:32:28+00:00",
    "first_seen_at": "2026-08-31T20:08:35.446597+00:00",
    "score": 30,
    "category": "Other",
@@ -9259,27 +9154,6 @@
    "salary": "",
    "why": [
     "Skills (6): networking, vpn, ci/cd, automation, monitoring, observability",
-    "Remote"
-   ]
-  },
-  {
-   "key": "f8cfbdf3ea078ecb",
-   "title": "Forward Deployed Engineer (all genders)",
-   "company": "Eraneos",
-   "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-forward-deployed-engineer-all-genders-86941",
-   "location": "Hamburg, M\u00fcnchen, D\u00fcsseldorf, remote",
-   "source": "arbeitnow",
-   "posted_at": "2026-10-01T11:09:31+00:00",
-   "first_seen_at": "2026-10-01T13:23:06.743805+00:00",
-   "score": 30,
-   "category": "Other",
-   "remote": "Remote",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Skills (3): entra, ci/cd, identity",
-    "Healthcare signals: healthcare, life sciences",
     "Remote"
    ]
   },
@@ -9984,6 +9858,46 @@
     "Skills (3): networking, automation, identity",
     "Remote",
     "Senior level"
+   ]
+  },
+  {
+   "key": "454ac0a0a37386f8",
+   "title": "Engineering Manager - Grafana Application Security | EMEA | (Remote, UK)",
+   "company": "grafanalabs",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/grafanalabs/engineering-manager-grafana-application-security-emea-remote-uk-78393",
+   "location": "",
+   "source": "arbeitnow",
+   "posted_at": "2026-10-02T03:55:14+00:00",
+   "first_seen_at": "2026-10-02T05:43:28.848126+00:00",
+   "score": 28,
+   "category": "Cybersecurity",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (7): azure, kubernetes, automation, observability, aws, gcp"
+   ]
+  },
+  {
+   "key": "a95ef4bed9aa8559",
+   "title": "Backend Engineer - Acquisition Technology",
+   "company": "iwoca",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/iwoca/backend-engineer-acquisition-technology-london-56174",
+   "location": "London",
+   "source": "arbeitnow",
+   "posted_at": "2026-10-02T03:40:05+00:00",
+   "first_seen_at": "2026-10-02T05:43:28.848126+00:00",
+   "score": 28,
+   "category": "Other",
+   "remote": "Remote",
+   "shift": "overnight",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (1): monitoring",
+    "Shift match: overnight",
+    "Remote"
    ]
   },
   {
@@ -11285,10 +11199,10 @@
    "key": "6398560b65b806c7",
    "title": "Senior Product Marketing Manager - EMEA",
    "company": "Camunda",
-   "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-product-marketing-manager-emea-237709",
+   "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-product-marketing-manager-emea-184249",
    "location": "Remote",
    "source": "arbeitnow",
-   "posted_at": "2026-09-30T23:40:07+00:00",
+   "posted_at": "2026-10-01T23:40:09+00:00",
    "first_seen_at": "2026-10-01T06:01:01.953918+00:00",
    "score": 26,
    "category": "Other",
@@ -11365,50 +11279,6 @@
    "why": [
     "Skills (2): observability, sso",
     "California",
-    "Senior level"
-   ]
-  },
-  {
-   "key": "1f039e95f931292b",
-   "title": "Senior Game Designer - Systems & Economy - Fully Remote",
-   "company": "SOFTGAMES",
-   "url": "https://www.arbeitnow.com/jobs/companies/softgames/senior-game-designer-systems-economy-fully-remote-berlin-242693",
-   "location": "Remote job",
-   "source": "arbeitnow",
-   "posted_at": "2026-10-01T17:30:31+00:00",
-   "first_seen_at": "2026-10-01T19:34:20.416275+00:00",
-   "score": 26,
-   "category": "Other",
-   "remote": "Remote",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Skills (1): identity",
-    "Healthcare signals: epic",
-    "Remote",
-    "Senior level"
-   ]
-  },
-  {
-   "key": "362ab406dd6b56bf",
-   "title": "Senior Manager- Asset Management and Operations",
-   "company": "Baringa",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/baringa/remote-senior-manager-asset-management-and-operations-35823",
-   "location": "London; Remote",
-   "source": "arbeitnow",
-   "posted_at": "2026-10-01T12:55:02+00:00",
-   "first_seen_at": "2026-10-01T19:34:20.416275+00:00",
-   "score": 26,
-   "category": "Cloud Operations/Support",
-   "remote": "Remote",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Skills (1): monitoring",
-    "Healthcare signals: life sciences",
-    "Remote",
     "Senior level"
    ]
   },
