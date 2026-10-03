@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-03T13:25:55.617150+00:00",
- "signature": "f01bd2df5f90d3fe9c73e9951617a7e1044dec83",
- "count": 548,
+ "generated_at": "2026-10-03T17:58:51.606396+00:00",
+ "signature": "ce39b0d0467097d0a5d5a359e588b2e04aa69a54",
+ "count": 547,
  "jobs": [
   {
    "key": "greenhouse:zocdoc:8060755",
@@ -978,29 +978,6 @@
    ]
   },
   {
-   "key": "ae68c3449ecc9cf9",
-   "title": "Senior Platform Engineer (United Kingdom)",
-   "company": "Second Front Systems",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/second-front-systems/senior-platform-engineer-united-kingdom-united-kingdom-london-and-surrounding-areas-285039",
-   "location": "United Kingdom, London and Surrounding Areas",
-   "source": "arbeitnow",
-   "posted_at": "2026-10-02T21:40:10+00:00",
-   "first_seen_at": "2026-10-02T22:59:59.212316+00:00",
-   "score": 61,
-   "category": "Cloud",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: platform engineer",
-    "Skills (11): azure, kubernetes, docker, ci/cd, defender, nist",
-    "Healthcare signals: healthcare",
-    "Onsite outside SoCal",
-    "Senior level"
-   ]
-  },
-  {
    "key": "47cd598be8d1eec8",
    "title": "Lead Security Engineer",
    "company": "Encord",
@@ -1158,29 +1135,6 @@
    ]
   },
   {
-   "key": "141fbb787004ee94",
-   "title": "Senior Fullstack Engineer \u2014 Mobile Healthcare Platform",
-   "company": "Snke",
-   "url": "https://www.arbeitnow.com/jobs/companies/snke/senior-fullstack-engineer-mobile-healthcare-platform-munchen-194937",
-   "location": "M\u00fcnchen",
-   "source": "arbeitnow",
-   "posted_at": "2026-10-03T02:09:18+00:00",
-   "first_seen_at": "2026-10-03T08:11:02.113525+00:00",
-   "score": 60,
-   "category": "Healthcare IT",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": true,
-   "salary": "",
-   "why": [
-    "Healthcare title: healthcare",
-    "Skills (5): entra, networking, ci/cd, observability, aws",
-    "Healthcare signals: healthcare, fhir, hl7, clinical",
-    "Onsite outside SoCal",
-    "Senior level"
-   ]
-  },
-  {
    "key": "greenhouse:cloudflare:8124227",
    "title": "Security Engineer (IAM)",
    "company": "Cloudflare",
@@ -1274,7 +1228,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8607059002",
    "location": "Charlotte, North Carolina; Raleigh, North Carolina; Remote - North Carolina",
    "source": "greenhouse",
-   "posted_at": "2026-10-03T05:03:49+00:00",
+   "posted_at": "2026-10-03T15:13:07+00:00",
    "first_seen_at": "2026-08-21T18:58:42.053462+00:00",
    "score": 58,
    "category": "Healthcare IT",
@@ -1405,6 +1359,28 @@
     "California",
     "Senior level",
     "Salary $166,000 - $225,000"
+   ]
+  },
+  {
+   "key": "0f84300ca486ec69",
+   "title": "Senior Cloud Security Engineer - AI Resilience & Security Enhancements (Fixed-term contract)",
+   "company": "Form3",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/form3/senior-cloud-security-engineer-ai-resilience-security-enhancements-fixed-term-contract-206644",
+   "location": "",
+   "source": "arbeitnow",
+   "posted_at": "2026-10-03T15:55:02+00:00",
+   "first_seen_at": "2026-10-03T17:58:51.606396+00:00",
+   "score": 58,
+   "category": "Cybersecurity",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: cloud security engineer",
+    "Skills (3): ci/cd, identity, vulnerability",
+    "Healthcare signals: phi",
+    "Senior level"
    ]
   },
   {
@@ -2419,26 +2395,46 @@
    ]
   },
   {
-   "key": "dea142cee4d4f0bb",
-   "title": "Lead Mechatronics and Systems Engineer - Preclinical Research",
-   "company": "Netholabs",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/netholabs/lead-mechatronics-and-systems-engineer-preclinical-research-london-121118",
-   "location": "London",
+   "key": "71cc66a6d0868f07",
+   "title": "Provider Credentialing and Practice Lead",
+   "company": "Neko Health",
+   "url": "https://www.arbeitnow.com/jobs/companies/neko-health/remote-provider-credentialing-and-practice-lead-465997",
+   "location": "Remote",
    "source": "arbeitnow",
-   "posted_at": "2026-10-02T21:40:09+00:00",
-   "first_seen_at": "2026-10-02T22:59:59.212316+00:00",
+   "posted_at": "2026-10-03T14:40:10+00:00",
+   "first_seen_at": "2026-10-03T17:58:51.606396+00:00",
    "score": 50,
-   "category": "Healthcare IT",
-   "remote": "Onsite",
+   "category": "Other",
+   "remote": "Remote",
    "shift": "",
-   "healthcare": true,
+   "healthcare": false,
    "salary": "",
    "why": [
-    "Title match: systems engineer",
-    "Healthcare title: clinical",
-    "Skills (1): troubleshooting",
-    "Healthcare signals: clinical",
-    "Onsite outside SoCal",
+    "Skills (2): nist, automation",
+    "Healthcare signals: clinical, payer",
+    "Remote (US)",
+    "Senior level"
+   ]
+  },
+  {
+   "key": "ff3618c33f7e702e",
+   "title": "Senior Backend Engineer - Data Core (remote, Europe)",
+   "company": "Modash",
+   "url": "https://www.arbeitnow.com/jobs/companies/modash/senior-backend-engineer-data-core-remote-europe-berlin-240626",
+   "location": "Berlin, Germany",
+   "source": "arbeitnow",
+   "posted_at": "2026-10-03T14:20:10+00:00",
+   "first_seen_at": "2026-10-03T17:58:51.606396+00:00",
+   "score": 50,
+   "category": "Other",
+   "remote": "Remote",
+   "shift": "overnight",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (4): vpn, monitoring, observability, aws",
+    "Shift match: overnight",
+    "Remote",
     "Senior level"
    ]
   },
@@ -2484,28 +2480,6 @@
     "Skills (7): terraform, networking, linux, incident response, troubleshooting, automation",
     "Healthcare signals: health care",
     "Onsite outside SoCal",
-    "Senior level"
-   ]
-  },
-  {
-   "key": "16eb39480ffc88ec",
-   "title": "Senior Account Associate - Medical",
-   "company": "Realchemistry",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/realchemistry/senior-account-associate-medical-329275",
-   "location": "",
-   "source": "arbeitnow",
-   "posted_at": "2026-10-02T21:55:15+00:00",
-   "first_seen_at": "2026-10-02T22:59:59.212316+00:00",
-   "score": 49,
-   "category": "Healthcare IT",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": true,
-   "salary": "",
-   "why": [
-    "Healthcare title: medical",
-    "Skills (2): nist, sso",
-    "Healthcare signals: healthcare",
     "Senior level"
    ]
   },
@@ -3810,6 +3784,27 @@
    ]
   },
   {
+   "key": "dcaa234ff5f87e2c",
+   "title": "Senior Solutions Engineer",
+   "company": "Twilio",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/twilio/senior-solutions-engineer-317888",
+   "location": "",
+   "source": "arbeitnow",
+   "posted_at": "2026-10-03T12:55:17+00:00",
+   "first_seen_at": "2026-10-03T17:58:51.606396+00:00",
+   "score": 44,
+   "category": "Cloud",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: solutions engineer",
+    "Skills (1): azure",
+    "Senior level"
+   ]
+  },
+  {
    "key": "greenhouse:databricks:8397493002",
    "title": "Sr. Solutions Architect - Public Sector (SLED) ",
    "company": "Databricks",
@@ -3898,28 +3893,6 @@
     "Onsite outside SoCal",
     "Senior level",
     "Salary $150,000 - $185,000"
-   ]
-  },
-  {
-   "key": "6b0ffb2fcd3e8485",
-   "title": "Security Engineer",
-   "company": "Augustus",
-   "url": "https://www.arbeitnow.com/jobs/companies/augustus/security-engineer-berlin-379416",
-   "location": "Berlin",
-   "source": "arbeitnow",
-   "posted_at": "2026-10-03T05:40:03+00:00",
-   "first_seen_at": "2026-10-03T08:11:02.113525+00:00",
-   "score": 43,
-   "category": "Cybersecurity",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: security engineer",
-    "Skills (8): networking, ci/cd, iac, incident response, automation, monitoring",
-    "Healthcare signals: phi",
-    "Onsite outside SoCal"
    ]
   },
   {
@@ -5694,6 +5667,26 @@
    ]
   },
   {
+   "key": "682590229c996b61",
+   "title": "Graduate Mechanical/Biomedical Engineer (2027 start)",
+   "company": "Cambridgeconsultantslimited",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/cambridgeconsultantslimited/graduate-mechanical-biomedical-engineer-2027-start-9798",
+   "location": "",
+   "source": "arbeitnow",
+   "posted_at": "2026-10-03T15:55:12+00:00",
+   "first_seen_at": "2026-10-03T17:58:51.606396+00:00",
+   "score": 37,
+   "category": "Healthcare IT",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": true,
+   "salary": "",
+   "why": [
+    "Healthcare title: medical",
+    "Healthcare signals: healthcare, digital health"
+   ]
+  },
+  {
    "key": "greenhouse:cloudflare:8020043",
    "title": "Senior Manager, Customer Engineering, India",
    "company": "Cloudflare",
@@ -6595,6 +6588,27 @@
     "Skills (5): entra, zero trust, incident response, observability, identity",
     "Onsite outside SoCal",
     "Senior level"
+   ]
+  },
+  {
+   "key": "9fe8d08be7fb30d5",
+   "title": "Graduate Design Engineer - Healthcare (2027 start)",
+   "company": "Cambridgeconsultantslimited",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/cambridgeconsultantslimited/graduate-design-engineer-healthcare-2027-start-340915",
+   "location": "",
+   "source": "arbeitnow",
+   "posted_at": "2026-10-03T15:55:12+00:00",
+   "first_seen_at": "2026-10-03T17:58:51.606396+00:00",
+   "score": 35,
+   "category": "Healthcare IT",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": true,
+   "salary": "",
+   "why": [
+    "Healthcare title: healthcare",
+    "Skills (1): entra",
+    "Healthcare signals: healthcare"
    ]
   },
   {
@@ -8509,50 +8523,6 @@
    ]
   },
   {
-   "key": "f1fed8c77f623965",
-   "title": "Cloud Platform Engineer (m/w/d)",
-   "company": "IP Dynamics GmbH",
-   "url": "https://www.arbeitnow.com/jobs/companies/ip-dynamics-gmbh/cloud-platform-engineer-stuttgart-89450",
-   "location": "Stuttgart",
-   "source": "arbeitnow",
-   "posted_at": "2026-10-03T08:09:12+00:00",
-   "first_seen_at": "2026-10-03T13:25:55.617150+00:00",
-   "score": 31,
-   "category": "Cloud",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: platform engineer",
-    "Skills (5): terraform, networking, kubernetes, ci/cd, monitoring",
-    "Healthcare signals: ehr",
-    "Onsite outside SoCal"
-   ]
-  },
-  {
-   "key": "a1c46a08055399a1",
-   "title": "Cloud Platform Engineer (m/w/d)",
-   "company": "IP Dynamics GmbH",
-   "url": "https://www.arbeitnow.com/jobs/companies/ip-dynamics-gmbh/cloud-platform-engineer-hannover-38850",
-   "location": "Hannover",
-   "source": "arbeitnow",
-   "posted_at": "2026-10-03T08:09:12+00:00",
-   "first_seen_at": "2026-10-03T13:25:55.617150+00:00",
-   "score": 31,
-   "category": "Cloud",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: platform engineer",
-    "Skills (5): terraform, networking, kubernetes, ci/cd, monitoring",
-    "Healthcare signals: ehr",
-    "Onsite outside SoCal"
-   ]
-  },
-  {
    "key": "greenhouse:talkspace:5739521004",
    "title": "Senior AI Engineer",
    "company": "Talkspace",
@@ -9904,27 +9874,6 @@
    "salary": "",
    "why": [
     "Skills (3): networking, automation, identity",
-    "Remote",
-    "Senior level"
-   ]
-  },
-  {
-   "key": "44ee51336336c420",
-   "title": "Health claims lead (f/m/x)",
-   "company": "Feather",
-   "url": "https://www.arbeitnow.com/jobs/companies/feather/remote-health-claims-lead-195114",
-   "location": "EU Remote | Berlin",
-   "source": "arbeitnow",
-   "posted_at": "2026-10-03T02:09:07+00:00",
-   "first_seen_at": "2026-10-03T08:11:02.113525+00:00",
-   "score": 28,
-   "category": "Other",
-   "remote": "Remote",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Skills (3): nist, automation, monitoring",
     "Remote",
     "Senior level"
    ]
@@ -11958,6 +11907,27 @@
    "why": [
     "Skills (7): azure, terraform, kubernetes, docker, ci/cd, monitoring",
     "Healthcare signals: healthcare, patient",
+    "Onsite outside SoCal",
+    "Senior level"
+   ]
+  },
+  {
+   "key": "828aa344f9c1d23d",
+   "title": "Senior Infrastructure & Network Engineer - Germany",
+   "company": "Sungrow Europe - Welcome traveler!",
+   "url": "https://www.arbeitnow.com/jobs/companies/sungrow-europe-welcome-traveler/senior-infrastructure-network-engineer-germany-germany-munich-326058",
+   "location": "Germany - Munich",
+   "source": "arbeitnow",
+   "posted_at": "2026-10-03T14:09:38+00:00",
+   "first_seen_at": "2026-10-03T17:58:51.606396+00:00",
+   "score": 25,
+   "category": "Other",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (11): azure, powershell, vpn, firewall, incident response, troubleshooting",
     "Onsite outside SoCal",
     "Senior level"
    ]
