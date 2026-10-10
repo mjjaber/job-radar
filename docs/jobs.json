@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-10T18:39:28.095075+00:00",
- "signature": "d0158e471239018b4042baf68ca91c99558501f7",
- "count": 571,
+ "generated_at": "2026-10-10T22:36:05.921556+00:00",
+ "signature": "5972c026b1109ac349881d0e82a4d7514bbefc95",
+ "count": 569,
  "jobs": [
   {
    "key": "greenhouse:zocdoc:8060755",
@@ -260,28 +260,6 @@
     "Title match: security engineer",
     "Skills (7): azure, incident response, automation, aws, gcp, identity",
     "Remote (California)",
-    "Senior level"
-   ]
-  },
-  {
-   "key": "22561e48c770787d",
-   "title": "Senior Cloud & Infrastructure Engineer - Project Delivery & Implementation (m/f/d)",
-   "company": "Cuculus Gmbh",
-   "url": "https://www.arbeitnow.com/jobs/companies/cuculus-gmbh/senior-cloud-infrastructure-engineer-project-delivery-implementation-leipzig-315294",
-   "location": "Leipzig",
-   "source": "arbeitnow",
-   "posted_at": "2026-10-10T02:09:29+00:00",
-   "first_seen_at": "2026-10-10T07:12:12.111118+00:00",
-   "score": 86,
-   "category": "Cloud",
-   "remote": "Remote",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: infrastructure engineer",
-    "Skills (15): azure, terraform, networking, firewall, linux, kubernetes",
-    "Remote",
     "Senior level"
    ]
   },
@@ -1783,50 +1761,6 @@
    ]
   },
   {
-   "key": "cbc717268a8f7530",
-   "title": "Senior IT Infrastructure & Cloud Engineer (m/f/d)",
-   "company": "Cuculus Gmbh",
-   "url": "https://www.arbeitnow.com/jobs/companies/cuculus-gmbh/senior-it-infrastructure-cloud-engineer-leipzig-21808",
-   "location": "Leipzig",
-   "source": "arbeitnow",
-   "posted_at": "2026-10-10T02:09:29+00:00",
-   "first_seen_at": "2026-10-10T07:12:12.111118+00:00",
-   "score": 55,
-   "category": "Cloud",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: cloud engineer",
-    "Skills (19): azure, entra, terraform, powershell, microsoft 365, networking",
-    "Onsite outside SoCal",
-    "Senior level"
-   ]
-  },
-  {
-   "key": "f948e939b6e538a5",
-   "title": "Senior Cloud Infrastructure Engineer",
-   "company": "Applied",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/applied/senior-cloud-infrastructure-engineer-london-151442",
-   "location": "London",
-   "source": "arbeitnow",
-   "posted_at": "2026-10-10T03:40:02+00:00",
-   "first_seen_at": "2026-10-10T07:12:12.111118+00:00",
-   "score": 55,
-   "category": "Cloud",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: cloud infrastructure engineer",
-    "Skills (11): azure, terraform, networking, linux, kubernetes, docker",
-    "Onsite outside SoCal",
-    "Senior level"
-   ]
-  },
-  {
    "key": "greenhouse:cloudflare:8024889",
    "title": "Principal Partner Solutions Engineer, SAARC (Based in Bangalore)",
    "company": "Cloudflare",
@@ -2129,28 +2063,6 @@
     "Title match: technical support engineer",
     "Skills (13): azure, active directory, networking, vpn, firewall, zero trust",
     "Healthcare signals: phi",
-    "Onsite outside SoCal"
-   ]
-  },
-  {
-   "key": "7c0791a0eed1b9a6",
-   "title": "Azure Engineer",
-   "company": "isolutions",
-   "url": "https://www.arbeitnow.ch/jobs/companies/isolutions/azure-engineer-zurich-209873",
-   "location": "Z\u00fcrich",
-   "source": "arbeitnow",
-   "posted_at": "2026-10-06T20:09:48+00:00",
-   "first_seen_at": "2026-10-07T01:35:22.409985+00:00",
-   "score": 51,
-   "category": "Cloud",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: azure engineer",
-    "Skills (11): azure, azure virtual desktop, avd, entra, terraform, powershell",
-    "Healthcare signals: ehr",
     "Onsite outside SoCal"
    ]
   },
@@ -3033,14 +2945,14 @@
    ]
   },
   {
-   "key": "ee2f1f27cc41ebe1",
-   "title": "DevOps Engineer",
-   "company": "isolutions",
-   "url": "https://www.arbeitnow.ch/jobs/companies/isolutions/devops-engineer-zurich-14950",
-   "location": "Z\u00fcrich",
+   "key": "27f74e37c3b6112a",
+   "title": "Senior Site Reliability Engineer - Observability (x/f/m)",
+   "company": "Doctolib",
+   "url": "https://www.arbeitnow.com/jobs/companies/doctolib/senior-site-reliability-engineer-observability-berlin-berlin-240274",
+   "location": "Berlin, Berlin",
    "source": "arbeitnow",
-   "posted_at": "2026-10-06T20:09:48+00:00",
-   "first_seen_at": "2026-10-07T01:35:22.409985+00:00",
+   "posted_at": "2026-10-10T17:55:18+00:00",
+   "first_seen_at": "2026-10-10T22:36:05.921556+00:00",
    "score": 47,
    "category": "Cloud",
    "remote": "Onsite",
@@ -3048,10 +2960,11 @@
    "healthcare": false,
    "salary": "",
    "why": [
-    "Title match: devops engineer",
-    "Skills (9): azure, entra, terraform, powershell, intune, microsoft 365",
-    "Healthcare signals: ehr",
-    "Onsite outside SoCal"
+    "Title match: site reliability",
+    "Skills (5): azure, kubernetes, docker, observability, aws",
+    "Healthcare signals: healthcare, patient",
+    "Onsite outside SoCal",
+    "Senior level"
    ]
   },
   {
@@ -3206,6 +3119,29 @@
     "Healthcare signals: healthcare, patient",
     "Remote (US)",
     "Senior level"
+   ]
+  },
+  {
+   "key": "22668ea739a39f8d",
+   "title": "Senior Web Compatibility Engineer",
+   "company": "Duck Duck Go",
+   "url": "https://www.arbeitnow.ch/jobs/companies/duck-duck-go/remote-senior-web-compatibility-engineer-379161",
+   "location": "Remote",
+   "source": "arbeitnow",
+   "posted_at": "2026-10-04T02:40:09+00:00",
+   "first_seen_at": "2026-10-10T22:36:05.921556+00:00",
+   "score": 46,
+   "category": "Other",
+   "remote": "Remote",
+   "shift": "",
+   "healthcare": false,
+   "salary": "$178,500",
+   "why": [
+    "Skills (3): incident response, aws, identity",
+    "Healthcare signals: phi",
+    "Remote",
+    "Senior level",
+    "Salary $178,500"
    ]
   },
   {
@@ -5847,52 +5783,6 @@
    ]
   },
   {
-   "key": "5f975f91e5bdc491",
-   "title": "Senior Solutions Architect - Data & AI Engineer (f/m/d, 4-Days-Week), German Speaking",
-   "company": "Auvaria",
-   "url": "https://www.arbeitnow.com/jobs/companies/auvaria/senior-solutions-architect-data-ai-engineer-4-days-week-german-speaking-munchen-142757",
-   "location": "M\u00fcnchen",
-   "source": "arbeitnow",
-   "posted_at": "2026-10-10T02:09:22+00:00",
-   "first_seen_at": "2026-10-10T07:12:12.111118+00:00",
-   "score": 37,
-   "category": "Cloud",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: solutions architect",
-    "Skills (4): terraform, iac, monitoring, aws",
-    "Healthcare signals: ehr",
-    "Onsite outside SoCal",
-    "Senior level"
-   ]
-  },
-  {
-   "key": "52bdcb698d96108c",
-   "title": "Senior Solutions Architect - Data & AI Engineer (f/m/d, 4-Days-Week), German Speaking",
-   "company": "Auvaria",
-   "url": "https://www.arbeitnow.com/jobs/companies/auvaria/senior-solutions-architect-data-ai-engineer-4-days-week-german-speaking-hamburg-339280",
-   "location": "Hamburg",
-   "source": "arbeitnow",
-   "posted_at": "2026-10-10T02:09:22+00:00",
-   "first_seen_at": "2026-10-10T07:12:12.111118+00:00",
-   "score": 37,
-   "category": "Cloud",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: solutions architect",
-    "Skills (4): terraform, iac, monitoring, aws",
-    "Healthcare signals: ehr",
-    "Onsite outside SoCal",
-    "Senior level"
-   ]
-  },
-  {
    "key": "greenhouse:cloudflare:8020043",
    "title": "Senior Manager, Customer Engineering, India",
    "company": "Cloudflare",
@@ -6533,6 +6423,28 @@
     "Skills (6): incident response, nist, hipaa, automation, monitoring, aws",
     "Healthcare signals: hipaa",
     "Remote"
+   ]
+  },
+  {
+   "key": "150be7b36c7e3357",
+   "title": "Senior Privacy Engineer",
+   "company": "Duck Duck Go",
+   "url": "https://www.arbeitnow.ch/jobs/companies/duck-duck-go/remote-senior-privacy-engineer-111342",
+   "location": "Remote",
+   "source": "arbeitnow",
+   "posted_at": "2026-10-04T02:40:09+00:00",
+   "first_seen_at": "2026-10-10T22:36:05.921556+00:00",
+   "score": 36,
+   "category": "Other",
+   "remote": "Remote",
+   "shift": "",
+   "healthcare": false,
+   "salary": "$178,500",
+   "why": [
+    "Skills (2): aws, identity",
+    "Remote",
+    "Senior level",
+    "Salary $178,500"
    ]
   },
   {
@@ -8817,6 +8729,50 @@
    ]
   },
   {
+   "key": "20a3c92c5a355e4c",
+   "title": "GRC Pre-Sales Consultant / Solutions Engineer \u2013 EMEA",
+   "company": "Vanta",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/vanta/grc-pre-sales-consultant-solutions-engineer-emea-london-196186",
+   "location": "London, UK",
+   "source": "arbeitnow",
+   "posted_at": "2026-10-10T18:40:04+00:00",
+   "first_seen_at": "2026-10-10T22:36:05.921556+00:00",
+   "score": 31,
+   "category": "Cloud",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: solutions engineer",
+    "Skills (5): azure, linux, hipaa, soc 2, aws",
+    "Healthcare signals: hipaa",
+    "Onsite outside SoCal"
+   ]
+  },
+  {
+   "key": "f281554523b2aaab",
+   "title": "Solutions Engineer (Upmarket, Pre-Sales) - EMEA",
+   "company": "Vanta",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/vanta/solutions-engineer-upmarket-pre-sales-emea-london-345226",
+   "location": "London, UK",
+   "source": "arbeitnow",
+   "posted_at": "2026-10-10T18:40:04+00:00",
+   "first_seen_at": "2026-10-10T22:36:05.921556+00:00",
+   "score": 31,
+   "category": "Cloud",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: solutions engineer",
+    "Skills (5): azure, linux, hipaa, soc 2, aws",
+    "Healthcare signals: hipaa",
+    "Onsite outside SoCal"
+   ]
+  },
+  {
    "key": "greenhouse:talkspace:5739521004",
    "title": "Senior AI Engineer",
    "company": "Talkspace",
@@ -9452,27 +9408,6 @@
    "salary": "",
    "why": [
     "Skills (3): entra, escalation, monitoring",
-    "Healthcare signals: healthcare, patient",
-    "Remote"
-   ]
-  },
-  {
-   "key": "e72fac70b7043613",
-   "title": "Events Manager - EMEA",
-   "company": "Dandy",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/dandy/remote-events-manager-emea-238774",
-   "location": "United Kingdom - Remote",
-   "source": "arbeitnow",
-   "posted_at": "2026-10-10T00:40:07+00:00",
-   "first_seen_at": "2026-10-10T07:12:12.111118+00:00",
-   "score": 30,
-   "category": "Other",
-   "remote": "Remote",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Skills (3): entra, identity, sso",
     "Healthcare signals: healthcare, patient",
     "Remote"
    ]
@@ -10244,6 +10179,27 @@
     "Skills (1): identity",
     "Healthcare signals: healthcare, clinical, patient",
     "Remote"
+   ]
+  },
+  {
+   "key": "2ffffba5345ae77c",
+   "title": "Senior QA Engineer (All genders)",
+   "company": "Distribusion Technologies",
+   "url": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-senior-qa-engineer-all-genders-berlin-68172",
+   "location": "Remote job",
+   "source": "arbeitnow",
+   "posted_at": "2026-10-10T20:30:22+00:00",
+   "first_seen_at": "2026-10-10T22:36:05.921556+00:00",
+   "score": 28,
+   "category": "Other",
+   "remote": "Remote",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (3): ci/cd, automation, gcp",
+    "Remote",
+    "Senior level"
    ]
   },
   {
