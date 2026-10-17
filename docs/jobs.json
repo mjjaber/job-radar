@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-17T17:14:50.047906+00:00",
- "signature": "ee252fd3371a61424c87618b805fe264b4e09ffd",
- "count": 563,
+ "generated_at": "2026-10-17T19:28:41.027897+00:00",
+ "signature": "63f2bb6a80d8f5ae7d246500a2107b6441d86225",
+ "count": 562,
  "jobs": [
   {
    "key": "greenhouse:zocdoc:8060755",
@@ -1092,6 +1092,29 @@
     "Title match: solutions engineer",
     "Skills (10): azure, terraform, linux, kubernetes, docker, iac",
     "Healthcare signals: phi",
+    "Onsite outside SoCal",
+    "Senior level"
+   ]
+  },
+  {
+   "key": "33a98ae1726afd79",
+   "title": "Senior Cloud Security Engineer (m/w/d) \u2013 Azure & AWS",
+   "company": "AJAT GmbH",
+   "url": "https://www.arbeitnow.com/jobs/companies/ajat-gmbh/senior-cloud-security-engineer-azure-aws-cologne-481832",
+   "location": "Cologne",
+   "source": "arbeitnow",
+   "posted_at": "2026-10-17T16:30:42+00:00",
+   "first_seen_at": "2026-10-17T19:28:41.027897+00:00",
+   "score": 61,
+   "category": "Cybersecurity",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: cloud security engineer",
+    "Skills (10): azure, entra, terraform, powershell, intune, bicep",
+    "Healthcare signals: ehr",
     "Onsite outside SoCal",
     "Senior level"
    ]
@@ -5479,27 +5502,6 @@
    ]
   },
   {
-   "key": "8fd20342d60a24ba",
-   "title": "Head of Security",
-   "company": "Tremendous",
-   "url": "https://remoteOK.com/remote-jobs/remote-head-of-security-tremendous-1136210",
-   "location": "New York, New York, New York, United States",
-   "source": "remoteok",
-   "posted_at": "2026-08-05T01:57:42+00:00",
-   "first_seen_at": "2026-09-11T11:26:26.450958+00:00",
-   "score": 38,
-   "category": "Cybersecurity",
-   "remote": "Remote",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Skills (3): incident response, monitoring, identity",
-    "Healthcare signals: phi",
-    "Remote (US)"
-   ]
-  },
-  {
    "key": "greenhouse:datadog:8196718",
    "title": "Senior Director, Product Marketing",
    "company": "Datadog",
@@ -7232,26 +7234,6 @@
     "Skills (1): aws",
     "Healthcare signals: healthcare, patient",
     "California",
-    "Senior level"
-   ]
-  },
-  {
-   "key": "09d87836ec0e42a7",
-   "title": "Senior Software Engineer, Containers",
-   "company": "chainguard",
-   "url": "https://www.arbeitnow.com/jobs/companies/chainguard/senior-software-engineer-containers-125605",
-   "location": "",
-   "source": "arbeitnow",
-   "posted_at": "2026-10-16T14:55:24+00:00",
-   "first_seen_at": "2026-10-16T17:27:28.076272+00:00",
-   "score": 34,
-   "category": "Other",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Skills (6): linux, kubernetes, docker, observability, aws, gcp",
     "Senior level"
    ]
   },
