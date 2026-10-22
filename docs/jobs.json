@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-22T20:10:20.491075+00:00",
- "signature": "966d4ac622e22adeb26ace19557f9f6cbbd68409",
- "count": 552,
+ "generated_at": "2026-10-22T23:25:50.112079+00:00",
+ "signature": "747da1fb8b79f4b99dba330dea37c9ac71569657",
+ "count": 553,
  "jobs": [
   {
    "key": "greenhouse:zocdoc:8060755",
@@ -1115,24 +1115,24 @@
    ]
   },
   {
-   "key": "eb1dd548cf447884",
-   "title": "Lead Cloud Engineer",
-   "company": "Xdesign",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/xdesign/lead-cloud-engineer-497128",
-   "location": "",
+   "key": "7ccba790307f0edd",
+   "title": "Infrastructure Engineer",
+   "company": "Emplyfy",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/emplyfy/infrastructure-engineer-addlestone-337550",
+   "location": "Addlestone, Richmond upon Thames, United Kingdom",
    "source": "arbeitnow",
-   "posted_at": "2026-10-22T14:55:29+00:00",
-   "first_seen_at": "2026-10-22T20:10:20.491075+00:00",
+   "posted_at": "2026-10-22T20:31:40+00:00",
+   "first_seen_at": "2026-10-22T23:25:50.112079+00:00",
    "score": 64,
    "category": "Cloud",
-   "remote": "Onsite",
+   "remote": "Remote",
    "shift": "",
    "healthcare": false,
    "salary": "",
    "why": [
-    "Title match: cloud engineer",
-    "Skills (6): entra, kubernetes, docker, ci/cd, iac, aws",
-    "Senior level"
+    "Title match: infrastructure engineer",
+    "Skills (7): azure, intune, microsoft 365, firewall, windows server, troubleshooting",
+    "Remote"
    ]
   },
   {
@@ -1312,6 +1312,27 @@
     "Healthcare signals: healthcare",
     "Remote (US)",
     "Senior level"
+   ]
+  },
+  {
+   "key": "09be90783352c744",
+   "title": "IT Support & Infrastructure Engineer",
+   "company": "Emplyfy",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/emplyfy/it-support-infrastructure-engineer-addlestone-482542",
+   "location": "Addlestone, Richmond upon Thames, United Kingdom",
+   "source": "arbeitnow",
+   "posted_at": "2026-10-22T20:31:40+00:00",
+   "first_seen_at": "2026-10-22T23:25:50.112079+00:00",
+   "score": 60,
+   "category": "Cloud Operations/Support",
+   "remote": "Remote",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: infrastructure engineer",
+    "Skills (6): azure, intune, microsoft 365, firewall, windows server, nist",
+    "Remote"
    ]
   },
   {
@@ -1551,29 +1572,6 @@
     "Title match: security engineer",
     "Skills (9): azure, terraform, kubernetes, docker, incident response, automation",
     "Healthcare signals: healthcare",
-    "Onsite outside SoCal",
-    "Senior level"
-   ]
-  },
-  {
-   "key": "9a8dfcea11709b71",
-   "title": "Lead Platform Engineer",
-   "company": "Quantum",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/quantum/lead-platform-engineer-london-416204",
-   "location": "London",
-   "source": "arbeitnow",
-   "posted_at": "2026-10-22T14:40:17+00:00",
-   "first_seen_at": "2026-10-22T20:10:20.491075+00:00",
-   "score": 57,
-   "category": "Cloud",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: platform engineer",
-    "Skills (9): terraform, networking, kubernetes, docker, ci/cd, incident response",
-    "Healthcare signals: health care",
     "Onsite outside SoCal",
     "Senior level"
    ]
@@ -2703,6 +2701,29 @@
    ]
   },
   {
+   "key": "6e23cbec69bfede9",
+   "title": "Senior DevSecOps Engineer (m/w/d)",
+   "company": "virtual7 GmbH",
+   "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/senior-devsecops-engineer-nurnberg-mittelfranken-33696",
+   "location": "N\u00fcrnberg, Mittelfranken, Bayern, Deutschland",
+   "source": "arbeitnow",
+   "posted_at": "2026-10-22T20:31:37+00:00",
+   "first_seen_at": "2026-10-22T23:25:50.112079+00:00",
+   "score": 49,
+   "category": "Cybersecurity",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: devsecops",
+    "Skills (7): terraform, linux, kubernetes, docker, ci/cd, monitoring",
+    "Healthcare signals: ehr",
+    "Onsite outside SoCal",
+    "Senior level"
+   ]
+  },
+  {
    "key": "greenhouse:datadog:8136510",
    "title": "Director, Enterprise Sales Engineering - US Central",
    "company": "Datadog",
@@ -3462,27 +3483,6 @@
    ]
   },
   {
-   "key": "f674e916aafac7e7",
-   "title": "Security Engineer",
-   "company": "Proxima Fusion GmbH",
-   "url": "https://www.arbeitnow.com/jobs/companies/proxima-fusion-gmbh/security-engineer-munich-486071",
-   "location": "Munich",
-   "source": "arbeitnow",
-   "posted_at": "2026-10-22T08:40:24+00:00",
-   "first_seen_at": "2026-10-22T10:15:26.480331+00:00",
-   "score": 45,
-   "category": "Cybersecurity",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: security engineer",
-    "Skills (14): terraform, powershell, kubernetes, ci/cd, zero trust, incident response",
-    "Onsite outside SoCal"
-   ]
-  },
-  {
    "key": "greenhouse:datadog:7421284",
    "title": "Enterprise Sales Executive (FED)",
    "company": "Datadog",
@@ -3822,27 +3822,6 @@
     "Skills (2): networking, observability",
     "Healthcare signals: healthcare",
     "Remote (US)",
-    "Senior level"
-   ]
-  },
-  {
-   "key": "0b30a89320cdc34a",
-   "title": "Principal Engineer (Software Engineering/Devops)",
-   "company": "Grip",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/grip/remote-principal-engineer-software-engineering-devops-62745",
-   "location": "Remote job",
-   "source": "arbeitnow",
-   "posted_at": "2026-10-22T11:51:47+00:00",
-   "first_seen_at": "2026-10-22T15:22:03.886948+00:00",
-   "score": 44,
-   "category": "Other",
-   "remote": "Remote",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Skills (7): terraform, networking, ci/cd, monitoring, observability, aws",
-    "Remote",
     "Senior level"
    ]
   },
@@ -4635,29 +4614,6 @@
    ]
   },
   {
-   "key": "76755f3d09e04ad1",
-   "title": "(Senior) Data Engineer \u2013 Healthcare",
-   "company": "PAICON",
-   "url": "https://www.arbeitnow.com/jobs/companies/paicon/senior-data-engineer-healthcare-heidelberg-485630",
-   "location": "Heidelberg",
-   "source": "arbeitnow",
-   "posted_at": "2026-10-22T15:31:23+00:00",
-   "first_seen_at": "2026-10-22T20:10:20.491075+00:00",
-   "score": 42,
-   "category": "Healthcare IT",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": true,
-   "salary": "",
-   "why": [
-    "Healthcare title: healthcare",
-    "Skills (2): linux, ci/cd",
-    "Healthcare signals: healthcare, fhir, hl7, clinical",
-    "Onsite outside SoCal",
-    "Senior level"
-   ]
-  },
-  {
    "key": "ashby:openai:f956b77c-3cc5-4fdd-9463-2a6e5047e57c",
    "title": "Security Engineer, Detection and Response",
    "company": "OpenAI",
@@ -4782,27 +4738,6 @@
     "Skills (1): monitoring",
     "Healthcare signals: clinical",
     "Remote"
-   ]
-  },
-  {
-   "key": "e90cfe22f87d8b07",
-   "title": "ML Platform Engineer",
-   "company": "Bleu Robotics",
-   "url": "https://www.arbeitnow.fr/jobs/companies/bleu-robotics/ml-platform-engineer-paris-113846",
-   "location": "Paris",
-   "source": "arbeitnow",
-   "posted_at": "2026-10-22T11:40:33+00:00",
-   "first_seen_at": "2026-10-22T15:22:03.886948+00:00",
-   "score": 41,
-   "category": "Cloud",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: platform engineer",
-    "Skills (9): azure, terraform, linux, kubernetes, docker, ci/cd",
-    "Onsite outside SoCal"
    ]
   },
   {
@@ -6275,28 +6210,6 @@
    ]
   },
   {
-   "key": "lever:veeva systems:c334102e-0e15-4d50-8e8d-b8cd643086ad",
-   "title": "Solution Consultant - Commercial Basics",
-   "company": "Veeva Systems",
-   "url": "https://jobs.lever.co/veeva/c334102e-0e15-4d50-8e8d-b8cd643086ad",
-   "location": "California - Pleasanton",
-   "source": "lever",
-   "posted_at": "1788458152624",
-   "first_seen_at": "2026-09-03T22:37:00.353515+00:00",
-   "score": 36,
-   "category": "Other",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": true,
-   "salary": "$80,000 - $160,000",
-   "why": [
-    "Skills (1): nist",
-    "Healthcare signals: patient, life sciences",
-    "California",
-    "Salary $80,000 - $160,000"
-   ]
-  },
-  {
    "key": "greenhouse:zocdoc:8170587",
    "title": "Senior Specialist, Provider Data Operations (US Healthcare Insurance)",
    "company": "Zocdoc",
@@ -7492,6 +7405,29 @@
    ]
   },
   {
+   "key": "c90b64447403bcff",
+   "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
+   "company": "virtual7 GmbH",
+   "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-89280",
+   "location": "Homeoffice",
+   "source": "arbeitnow",
+   "posted_at": "2026-10-22T20:31:37+00:00",
+   "first_seen_at": "2026-10-22T23:25:50.112079+00:00",
+   "score": 33,
+   "category": "Cloud",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: cloud engineer",
+    "Skills (3): kubernetes, ci/cd, nist",
+    "Healthcare signals: ehr",
+    "Onsite outside SoCal",
+    "Senior level"
+   ]
+  },
+  {
    "key": "greenhouse:datadog:7426752",
    "title": "Enterprise Sales Executive (SLED)",
    "company": "Datadog",
@@ -8074,6 +8010,28 @@
     "Skills (4): ci/cd, escalation, observability, aws",
     "Healthcare signals: emr",
     "Senior level"
+   ]
+  },
+  {
+   "key": "8224e5b4abcf9861",
+   "title": "Data Engineer \u2013 Healthcare",
+   "company": "PAICON",
+   "url": "https://www.arbeitnow.com/jobs/companies/paicon/senior-data-engineer-healthcare-heidelberg-485630",
+   "location": "Heidelberg",
+   "source": "arbeitnow",
+   "posted_at": "2026-10-22T19:47:33+00:00",
+   "first_seen_at": "2026-10-22T23:25:50.112079+00:00",
+   "score": 32,
+   "category": "Healthcare IT",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": true,
+   "salary": "",
+   "why": [
+    "Healthcare title: healthcare",
+    "Skills (2): linux, ci/cd",
+    "Healthcare signals: healthcare, fhir, hl7, clinical",
+    "Onsite outside SoCal"
    ]
   },
   {
@@ -9796,6 +9754,25 @@
    ]
   },
   {
+   "key": "8942bfaf1339acba",
+   "title": "Solution Implementation Consultant (French Speaking)",
+   "company": "Coreview",
+   "url": "https://www.arbeitnow.fr/jobs/companies/coreview/solution-implementation-consultant-french-speaking-344263",
+   "location": "",
+   "source": "arbeitnow",
+   "posted_at": "2026-10-22T14:55:34+00:00",
+   "first_seen_at": "2026-10-22T20:10:20.491075+00:00",
+   "score": 28,
+   "category": "Other",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (7): entra, powershell, m365, microsoft 365, nist, automation"
+   ]
+  },
+  {
    "key": "fdae46a0205efd9c",
    "title": "Technical Lead - Backend (Java / Spring Boot)",
    "company": "Xdesign",
@@ -9814,25 +9791,6 @@
     "Skills (3): kubernetes, ci/cd, aws",
     "Remote",
     "Senior level"
-   ]
-  },
-  {
-   "key": "8942bfaf1339acba",
-   "title": "Solution Implementation Consultant (French Speaking)",
-   "company": "Coreview",
-   "url": "https://www.arbeitnow.fr/jobs/companies/coreview/solution-implementation-consultant-french-speaking-344263",
-   "location": "",
-   "source": "arbeitnow",
-   "posted_at": "2026-10-22T14:55:34+00:00",
-   "first_seen_at": "2026-10-22T20:10:20.491075+00:00",
-   "score": 28,
-   "category": "Other",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Skills (7): entra, powershell, m365, microsoft 365, nist, automation"
    ]
   },
   {
@@ -10127,7 +10085,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8771056002",
    "location": "Toronto, Canada",
    "source": "greenhouse",
-   "posted_at": "2026-09-23T21:49:08+00:00",
+   "posted_at": "2026-10-22T20:37:28+00:00",
    "first_seen_at": "2026-09-23T23:44:18.562449+00:00",
    "score": 27,
    "category": "Cloud",
@@ -10340,6 +10298,72 @@
     "Skills (3): azure, kubernetes, aws",
     "Onsite outside SoCal",
     "Senior level"
+   ]
+  },
+  {
+   "key": "8dda415f1077f4bd",
+   "title": "Security Engineer (Full Remote - Germany)",
+   "company": "EverAI",
+   "url": "https://www.arbeitnow.com/jobs/companies/everai/security-engineer-full-remote-germany-133099",
+   "location": "Germany",
+   "source": "arbeitnow",
+   "posted_at": "2026-10-22T20:40:14+00:00",
+   "first_seen_at": "2026-10-22T23:25:50.112079+00:00",
+   "score": 27,
+   "category": "Cybersecurity",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: security engineer",
+    "Skills (4): automation, monitoring, aws, vulnerability",
+    "Healthcare signals: phi",
+    "Onsite outside SoCal"
+   ]
+  },
+  {
+   "key": "b824ee0687655d07",
+   "title": "Security Engineer (Full Remote - France)",
+   "company": "EverAI",
+   "url": "https://www.arbeitnow.fr/jobs/companies/everai/security-engineer-full-remote-france-373500",
+   "location": "France",
+   "source": "arbeitnow",
+   "posted_at": "2026-10-22T20:40:14+00:00",
+   "first_seen_at": "2026-10-22T23:25:50.112079+00:00",
+   "score": 27,
+   "category": "Cybersecurity",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: security engineer",
+    "Skills (4): automation, monitoring, aws, vulnerability",
+    "Healthcare signals: phi",
+    "Onsite outside SoCal"
+   ]
+  },
+  {
+   "key": "be0d0e3ad466660e",
+   "title": "Security Engineer (Full Remote - Netherlands)",
+   "company": "EverAI",
+   "url": "https://www.arbeitnow.nl/jobs/companies/everai/security-engineer-full-remote-netherlands-46968",
+   "location": "Netherlands",
+   "source": "arbeitnow",
+   "posted_at": "2026-10-22T20:40:15+00:00",
+   "first_seen_at": "2026-10-22T23:25:50.112079+00:00",
+   "score": 27,
+   "category": "Cybersecurity",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: security engineer",
+    "Skills (4): automation, monitoring, aws, vulnerability",
+    "Healthcare signals: phi",
+    "Onsite outside SoCal"
    ]
   },
   {
