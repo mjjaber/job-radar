@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-24T12:42:53.085713+00:00",
- "signature": "30cfb35aad8b030a0381030c2de96b819a693a94",
- "count": 547,
+ "generated_at": "2026-10-24T16:38:00.937234+00:00",
+ "signature": "ebd459da17ef4420709691073df511b229a60b09",
+ "count": 551,
  "jobs": [
   {
    "key": "greenhouse:zocdoc:8060755",
@@ -1828,28 +1828,6 @@
    ]
   },
   {
-   "key": "300be121c5f24c9a",
-   "title": "Senior/Staff SRE",
-   "company": "Uforce",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/uforce/senior-staff-sre-london-227177",
-   "location": "United Kingdom - London",
-   "source": "arbeitnow",
-   "posted_at": "2026-10-24T05:40:24+00:00",
-   "first_seen_at": "2026-10-24T07:20:53.159937+00:00",
-   "score": 55,
-   "category": "Cloud",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: sre",
-    "Skills (10): active directory, terraform, kubernetes, escalation, troubleshooting, automation",
-    "Onsite outside SoCal",
-    "Senior level"
-   ]
-  },
-  {
    "key": "6bcb22faa568afca",
    "title": "Senior Cloud Engineer (Kubernetes)",
    "company": "Careerstrengo",
@@ -1867,6 +1845,28 @@
    "why": [
     "Title match: senior cloud engineer",
     "Skills (12): terraform, networking, linux, kubernetes, docker, ci/cd",
+    "Onsite outside SoCal",
+    "Senior level"
+   ]
+  },
+  {
+   "key": "300be121c5f24c9a",
+   "title": "Senior/Staff SRE",
+   "company": "Uforce",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/uforce/senior-staff-sre-london-227177",
+   "location": "United Kingdom - London",
+   "source": "arbeitnow",
+   "posted_at": "2026-10-24T05:40:24+00:00",
+   "first_seen_at": "2026-10-24T07:20:53.159937+00:00",
+   "score": 55,
+   "category": "Cloud",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: sre",
+    "Skills (10): active directory, terraform, kubernetes, escalation, troubleshooting, automation",
     "Onsite outside SoCal",
     "Senior level"
    ]
@@ -2088,6 +2088,48 @@
     "Skills (9): azure, terraform, kubernetes, incident response, automation, monitoring",
     "California",
     "Senior level"
+   ]
+  },
+  {
+   "key": "f54d74ca13da3dbd",
+   "title": "Red Team Security Engineer",
+   "company": "Gomotive",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/gomotive/red-team-security-engineer-443040",
+   "location": "",
+   "source": "arbeitnow",
+   "posted_at": "2026-10-24T14:55:35+00:00",
+   "first_seen_at": "2026-10-24T16:38:00.937234+00:00",
+   "score": 54,
+   "category": "Cybersecurity",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: security engineer",
+    "Skills (6): ci/cd, incident response, nist, automation, monitoring, identity"
+   ]
+  },
+  {
+   "key": "2800c7156ffa250f",
+   "title": "DevOps Engineer W/M (remote) \ud83c\uddea\ud83c\uddfa",
+   "company": "Pennylane SAS",
+   "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/devops-engineer-w-m-remote-451955",
+   "location": "Remote",
+   "source": "arbeitnow",
+   "posted_at": "2026-10-24T14:40:15+00:00",
+   "first_seen_at": "2026-10-24T16:38:00.937234+00:00",
+   "score": 54,
+   "category": "Cloud",
+   "remote": "Remote",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: devops engineer",
+    "Skills (3): monitoring, observability, aws",
+    "Healthcare signals: healthcare",
+    "Remote"
    ]
   },
   {
@@ -4944,6 +4986,25 @@
    ]
   },
   {
+   "key": "95fee94b65ad8ef9",
+   "title": "Consulting Architect - Security (EMEA / Public Sector eligible )",
+   "company": "Elastic",
+   "url": "https://www.arbeitnow.com/jobs/companies/elastic/consulting-architect-security-emea-public-sector-eligible-446692",
+   "location": "",
+   "source": "arbeitnow",
+   "posted_at": "2026-10-24T14:55:33+00:00",
+   "first_seen_at": "2026-10-24T16:38:00.937234+00:00",
+   "score": 40,
+   "category": "Cybersecurity",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (10): azure, linux, ci/cd, sentinel, defender, observability"
+   ]
+  },
+  {
    "key": "greenhouse:databricks:7845325002",
    "title": "Senior ML & AI Technical Solutions Engineer ",
    "company": "Databricks",
@@ -6525,6 +6586,28 @@
     "Healthcare signals: healthcare, clinical",
     "Remote",
     "Senior level"
+   ]
+  },
+  {
+   "key": "3abe7b903af07a32",
+   "title": "Senior Product Designer",
+   "company": "Duck Duck Go",
+   "url": "https://www.arbeitnow.com/jobs/companies/duck-duck-go/remote-senior-product-designer-255909",
+   "location": "Remote",
+   "source": "arbeitnow",
+   "posted_at": "2026-10-24T14:40:12+00:00",
+   "first_seen_at": "2026-10-24T16:38:00.937234+00:00",
+   "score": 36,
+   "category": "Other",
+   "remote": "Remote",
+   "shift": "",
+   "healthcare": false,
+   "salary": "$178,500 - $253,500",
+   "why": [
+    "Skills (2): aws, identity",
+    "Remote",
+    "Senior level",
+    "Salary $178,500 - $253,500"
    ]
   },
   {
@@ -9139,6 +9222,28 @@
    ]
   },
   {
+   "key": "06ca61edc265b796",
+   "title": "Senior Fullstack-Entwickler (m/w/d) \u2013 PHP/Symfony & React \u2013 Berlin",
+   "company": "MRP My Recruitment Partners Ltd.",
+   "url": "https://www.arbeitnow.com/jobs/companies/mrp-my-recruitment-partners-ltd/senior-fullstack-entwickler-php-symfony-react-berlin-170553",
+   "location": "Berlin",
+   "source": "arbeitnow",
+   "posted_at": "2026-10-24T13:20:05+00:00",
+   "first_seen_at": "2026-10-24T16:38:00.937234+00:00",
+   "score": 30,
+   "category": "Other",
+   "remote": "Remote",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (2): docker, ci/cd",
+    "Healthcare signals: ehr",
+    "Remote",
+    "Senior level"
+   ]
+  },
+  {
    "key": "greenhouse:datadog:8014851",
    "title": "Manager I, Technical Support Engineering",
    "company": "Datadog",
@@ -10181,28 +10286,6 @@
    ]
   },
   {
-   "key": "b824ee0687655d07",
-   "title": "Security Engineer (Full Remote - France)",
-   "company": "EverAI",
-   "url": "https://www.arbeitnow.fr/jobs/companies/everai/security-engineer-full-remote-france-373500",
-   "location": "France",
-   "source": "arbeitnow",
-   "posted_at": "2026-10-22T20:40:14+00:00",
-   "first_seen_at": "2026-10-22T23:25:50.112079+00:00",
-   "score": 27,
-   "category": "Cybersecurity",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: security engineer",
-    "Skills (4): automation, monitoring, aws, vulnerability",
-    "Healthcare signals: phi",
-    "Onsite outside SoCal"
-   ]
-  },
-  {
    "key": "be0d0e3ad466660e",
    "title": "Security Engineer (Full Remote - Netherlands)",
    "company": "EverAI",
@@ -11102,28 +11185,6 @@
    ]
   },
   {
-   "key": "3ab81b89c679e3a9",
-   "title": "Gardener Handyman Driver",
-   "company": "NT Health",
-   "url": "https://remoteOK.com/remote-jobs/remote-gardener-handyman-driver-nt-health-1136625",
-   "location": "Alice Springs, ",
-   "source": "remoteok",
-   "posted_at": "2026-08-13T20:09:23+00:00",
-   "first_seen_at": "2026-10-22T10:15:26.480331+00:00",
-   "score": 26,
-   "category": "Other",
-   "remote": "Remote",
-   "shift": "",
-   "healthcare": false,
-   "salary": "$67,945 - $83,807",
-   "why": [
-    "Skills (1): entra",
-    "Healthcare signals: health care",
-    "Remote",
-    "Senior level"
-   ]
-  },
-  {
    "key": "588e12116c2e9e0e",
    "title": "Backend Developer .Net - Remote from EU - Deadline 27/10/26",
    "company": "AlmavivA de Belgique",
@@ -11163,6 +11224,27 @@
     "Healthcare signals: phi",
     "Remote",
     "Senior level"
+   ]
+  },
+  {
+   "key": "613af6d785773cd6",
+   "title": "Communications and Social Media Manager",
+   "company": "Duck Duck Go",
+   "url": "https://www.arbeitnow.com/jobs/companies/duck-duck-go/remote-communications-and-social-media-manager-328503",
+   "location": "Remote",
+   "source": "arbeitnow",
+   "posted_at": "2026-10-24T14:40:12+00:00",
+   "first_seen_at": "2026-10-24T16:38:00.937234+00:00",
+   "score": 26,
+   "category": "Other",
+   "remote": "Remote",
+   "shift": "",
+   "healthcare": false,
+   "salary": "$129,000 - $183,200",
+   "why": [
+    "Skills (2): aws, identity",
+    "Remote",
+    "Salary $129,000 - $183,200"
    ]
   },
   {
