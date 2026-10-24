@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-23T23:11:08.477445+00:00",
- "signature": "5b40b00d13432e5f4e6a359f2cad69f8ca64d367",
- "count": 546,
+ "generated_at": "2026-10-24T01:38:17.906798+00:00",
+ "signature": "e3343fcaa3a00dc59e6310279418c7751a38156b",
+ "count": 543,
  "jobs": [
   {
    "key": "greenhouse:zocdoc:8060755",
@@ -915,29 +915,6 @@
     "Skills (3): azure, aws, gcp",
     "Healthcare signals: healthcare",
     "Remote (US)"
-   ]
-  },
-  {
-   "key": "a4d1f7b12ead7252",
-   "title": "Senior DevOps/ Cloud Engineer (f/m/d)",
-   "company": "Accurids GmbH",
-   "url": "https://www.arbeitnow.com/jobs/companies/accurids-gmbh/senior-devops-cloud-engineer-cologne-221013",
-   "location": "Cologne",
-   "source": "arbeitnow",
-   "posted_at": "2026-10-23T14:31:09+00:00",
-   "first_seen_at": "2026-10-23T19:17:40.537157+00:00",
-   "score": 67,
-   "category": "Cloud",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: cloud engineer",
-    "Skills (16): azure, terraform, networking, linux, kubernetes, docker",
-    "Healthcare signals: epic, patient",
-    "Onsite outside SoCal",
-    "Senior level"
    ]
   },
   {
@@ -1868,28 +1845,6 @@
    "why": [
     "Title match: site reliability",
     "Skills (13): azure, terraform, kubernetes, docker, ci/cd, iac",
-    "Onsite outside SoCal",
-    "Senior level"
-   ]
-  },
-  {
-   "key": "4c9b540a9e991e62",
-   "title": "Senior DevOps Engineer",
-   "company": "Localstack",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/localstack/senior-devops-engineer-london-316058",
-   "location": "United Kingdom",
-   "source": "arbeitnow",
-   "posted_at": "2026-10-23T08:40:15+00:00",
-   "first_seen_at": "2026-10-23T10:08:13.004654+00:00",
-   "score": 55,
-   "category": "Cloud",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: devops engineer",
-    "Skills (10): azure, entra, terraform, networking, iac, soc 2",
     "Onsite outside SoCal",
     "Senior level"
    ]
@@ -2860,11 +2815,11 @@
    ]
   },
   {
-   "key": "greenhouse:datadog:7466155",
+   "key": "greenhouse:datadog:7405822",
    "title": "Enterprise Sales Executive",
    "company": "Datadog",
-   "url": "https://careers.datadoghq.com/detail/7466155/?gh_jid=7466155",
-   "location": "Florida, USA, Remote",
+   "url": "https://careers.datadoghq.com/detail/7405822/?gh_jid=7405822",
+   "location": "Georgia, USA, Remote",
    "source": "greenhouse",
    "posted_at": "2026-09-29T17:18:57+00:00",
    "first_seen_at": "2026-08-19T04:12:53.757863+00:00",
@@ -2882,11 +2837,11 @@
    ]
   },
   {
-   "key": "greenhouse:datadog:7405822",
+   "key": "greenhouse:datadog:7466155",
    "title": "Enterprise Sales Executive",
    "company": "Datadog",
-   "url": "https://careers.datadoghq.com/detail/7405822/?gh_jid=7405822",
-   "location": "Georgia, USA, Remote",
+   "url": "https://careers.datadoghq.com/detail/7466155/?gh_jid=7466155",
+   "location": "Florida, USA, Remote",
    "source": "greenhouse",
    "posted_at": "2026-09-29T17:18:57+00:00",
    "first_seen_at": "2026-08-19T04:12:53.757863+00:00",
@@ -4031,6 +3986,28 @@
    "why": [
     "Title match: platform engineer",
     "Skills (7): entra, powershell, kubernetes, ci/cd, identity, saml",
+    "Onsite outside SoCal",
+    "Senior level"
+   ]
+  },
+  {
+   "key": "d92e9954e01f005b",
+   "title": "Staff Platform Engineer",
+   "company": "Deepl",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/deepl/staff-platform-engineer-london-256649",
+   "location": "London",
+   "source": "arbeitnow",
+   "posted_at": "2026-10-23T23:40:14+00:00",
+   "first_seen_at": "2026-10-24T01:38:17.906798+00:00",
+   "score": 43,
+   "category": "Cloud",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: platform engineer",
+    "Skills (7): terraform, networking, linux, kubernetes, incident response, observability",
     "Onsite outside SoCal",
     "Senior level"
    ]
@@ -7312,7 +7289,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8637758002",
    "location": "Maryland; Virginia; Washington, D.C.",
    "source": "greenhouse",
-   "posted_at": "2026-10-12T22:05:19+00:00",
+   "posted_at": "2026-10-23T23:35:23+00:00",
    "first_seen_at": "2026-08-21T17:47:42.253585+00:00",
    "score": 33,
    "category": "Cloud",
@@ -8193,28 +8170,6 @@
     "Skills (5): azure, aws, gcp, identity, sso",
     "Healthcare signals: healthcare",
     "Onsite outside SoCal"
-   ]
-  },
-  {
-   "key": "greenhouse:cloudflare:8163523",
-   "title": "Senior Distributed Systems Engineer - Cache",
-   "company": "Cloudflare",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8163523?gh_jid=8163523",
-   "location": "Hybrid",
-   "source": "greenhouse",
-   "posted_at": "2026-10-21T18:43:01+00:00",
-   "first_seen_at": "2026-09-09T19:47:46.456563+00:00",
-   "score": 31,
-   "category": "Cloud",
-   "remote": "Hybrid",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: systems engineer",
-    "Skills (4): networking, linux, incident response, observability",
-    "Onsite outside SoCal",
-    "Senior level"
    ]
   },
   {
@@ -10969,26 +10924,6 @@
     "Skills (3): networking, observability, identity",
     "Healthcare signals: healthcare",
     "California"
-   ]
-  },
-  {
-   "key": "dc6450d0f139adee",
-   "title": "Fullstack Web Developer",
-   "company": "Auterion",
-   "url": "https://www.arbeitnow.ch/jobs/companies/auterion/fullstack-web-developer-zurich-298773",
-   "location": "Zurich",
-   "source": "arbeitnow",
-   "posted_at": "2026-10-21T05:55:16+00:00",
-   "first_seen_at": "2026-10-21T10:14:10.927189+00:00",
-   "score": 26,
-   "category": "Other",
-   "remote": "Remote",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Skills (5): entra, docker, ci/cd, monitoring, observability",
-    "Remote"
    ]
   },
   {
