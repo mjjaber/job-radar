@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-24T22:31:20.278160+00:00",
- "signature": "90096da74f5e35a16b066618fea57f1b43a7afb7",
- "count": 553,
+ "generated_at": "2026-10-25T01:13:43.252776+00:00",
+ "signature": "cf2355b38749a2dd109ea4cfc05b813ae5dc7b38",
+ "count": 552,
  "jobs": [
   {
    "key": "greenhouse:zocdoc:8060755",
@@ -287,6 +287,29 @@
     "Remote (US)",
     "Senior level",
     "Salary $192,000 - $240,000"
+   ]
+  },
+  {
+   "key": "7b5a3a5e2af91492",
+   "title": "Solutions Engineer",
+   "company": "Onebrief",
+   "url": "https://remoteOK.com/remote-jobs/remote-solutions-engineer-onebrief-1137568",
+   "location": "Remote",
+   "source": "remoteok",
+   "posted_at": "2026-10-24T00:00:02+00:00",
+   "first_seen_at": "2026-10-25T01:13:43.252776+00:00",
+   "score": 86,
+   "category": "Cloud",
+   "remote": "Remote",
+   "shift": "",
+   "healthcare": false,
+   "salary": "$180,000 - $220,000",
+   "why": [
+    "Title match: solutions engineer",
+    "Skills (8): azure, terraform, networking, kubernetes, docker, monitoring",
+    "Healthcare signals: phi",
+    "Remote",
+    "Salary $180,000 - $220,000"
    ]
   },
   {
@@ -1343,7 +1366,7 @@
    "key": "9fb0dfb3e79143ed",
    "title": "Staff Site Reliability Engineer, Tools & Systems",
    "company": "mozilla",
-   "url": "https://www.arbeitnow.com/jobs/companies/mozilla/staff-site-reliability-engineer-tools-systems-242160",
+   "url": "https://www.arbeitnow.fr/jobs/companies/mozilla/staff-site-reliability-engineer-tools-systems-391062",
    "location": "",
    "source": "arbeitnow",
    "posted_at": "2026-10-24T05:55:21+00:00",
@@ -1402,29 +1425,6 @@
     "Skills (9): terraform, kubernetes, zero trust, nist, automation, identity",
     "Shift match: after hours",
     "Onsite outside SoCal"
-   ]
-  },
-  {
-   "key": "b3029b0315f30073",
-   "title": "Senior Site Reliability Engineer (x/f/m)",
-   "company": "Doctolib",
-   "url": "https://www.arbeitnow.com/jobs/companies/doctolib/senior-site-reliability-engineer-berlin-berlin-358880",
-   "location": "Berlin, Berlin",
-   "source": "arbeitnow",
-   "posted_at": "2026-10-23T17:55:19+00:00",
-   "first_seen_at": "2026-10-23T19:17:40.537157+00:00",
-   "score": 59,
-   "category": "Cloud",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: site reliability",
-    "Skills (8): azure, terraform, kubernetes, incident response, automation, observability",
-    "Healthcare signals: healthcare, patient",
-    "Onsite outside SoCal",
-    "Senior level"
    ]
   },
   {
@@ -1805,29 +1805,6 @@
    ]
   },
   {
-   "key": "1cdbaf1c02da3b0b",
-   "title": "Staff Site Reliability Engineer (x/f/m)",
-   "company": "Doctolib",
-   "url": "https://www.arbeitnow.com/jobs/companies/doctolib/staff-site-reliability-engineer-berlin-berlin-83760",
-   "location": "Berlin, Berlin",
-   "source": "arbeitnow",
-   "posted_at": "2026-10-23T17:55:19+00:00",
-   "first_seen_at": "2026-10-23T19:17:40.537157+00:00",
-   "score": 55,
-   "category": "Cloud",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: site reliability",
-    "Skills (7): azure, kubernetes, incident response, automation, observability, aws",
-    "Healthcare signals: healthcare, patient",
-    "Onsite outside SoCal",
-    "Senior level"
-   ]
-  },
-  {
    "key": "6bcb22faa568afca",
    "title": "Senior Cloud Engineer (Kubernetes)",
    "company": "Careerstrengo",
@@ -1845,28 +1822,6 @@
    "why": [
     "Title match: senior cloud engineer",
     "Skills (12): terraform, networking, linux, kubernetes, docker, ci/cd",
-    "Onsite outside SoCal",
-    "Senior level"
-   ]
-  },
-  {
-   "key": "300be121c5f24c9a",
-   "title": "Senior/Staff SRE",
-   "company": "Uforce",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/uforce/senior-staff-sre-london-227177",
-   "location": "United Kingdom - London",
-   "source": "arbeitnow",
-   "posted_at": "2026-10-24T05:40:24+00:00",
-   "first_seen_at": "2026-10-24T07:20:53.159937+00:00",
-   "score": 55,
-   "category": "Cloud",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: sre",
-    "Skills (10): active directory, terraform, kubernetes, escalation, troubleshooting, automation",
     "Onsite outside SoCal",
     "Senior level"
    ]
@@ -4025,6 +3980,27 @@
     "Healthcare signals: healthcare, phi",
     "Remote",
     "Senior level"
+   ]
+  },
+  {
+   "key": "cfe8f2620b57be70",
+   "title": "Technical Support Engineer (m/f/d)",
+   "company": "Sereact GmbH",
+   "url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/technical-support-engineer-germany-188563",
+   "location": "Germany",
+   "source": "arbeitnow",
+   "posted_at": "2026-10-24T23:40:12+00:00",
+   "first_seen_at": "2026-10-25T01:13:43.252776+00:00",
+   "score": 44,
+   "category": "Cloud Operations/Support",
+   "remote": "Remote",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: technical support engineer",
+    "Skills (2): docker, troubleshooting",
+    "Remote"
    ]
   },
   {
@@ -9330,6 +9306,28 @@
    ]
   },
   {
+   "key": "9ac8349110139889",
+   "title": "Senior Fullstack-Entwickler (m/w/d) \u2013 PHP/Symfony & React \u2013 Berlin",
+   "company": "MRP My Recruitment Partners Ltd.",
+   "url": "https://www.arbeitnow.com/jobs/companies/mrp-my-recruitment-partners-ltd/senior-fullstack-entwickler-php-symfony-react-berlin-348681",
+   "location": "Berlin, Brandenburg, Germany",
+   "source": "arbeitnow",
+   "posted_at": "2026-10-24T23:31:30+00:00",
+   "first_seen_at": "2026-10-25T01:13:43.252776+00:00",
+   "score": 30,
+   "category": "Other",
+   "remote": "Remote",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (2): docker, ci/cd",
+    "Healthcare signals: ehr",
+    "Remote",
+    "Senior level"
+   ]
+  },
+  {
    "key": "greenhouse:datadog:8014851",
    "title": "Manager I, Technical Support Engineering",
    "company": "Datadog",
@@ -9736,27 +9734,6 @@
     "Skills (2): entra, automation",
     "California",
     "Salary $146,600 \u2013 $233,975 \u2022 Offers Equity \u2022 Offers Commission \u2022 Multiple Ranges"
-   ]
-  },
-  {
-   "key": "ashby:openai:987c4eb8-819e-4258-a91c-f34ecfbcd5f1",
-   "title": "Development Lead",
-   "company": "OpenAI",
-   "url": "https://jobs.ashbyhq.com/openai/987c4eb8-819e-4258-a91c-f34ecfbcd5f1",
-   "location": "US - Remote",
-   "source": "ashby",
-   "posted_at": "2026-09-15T23:12:57.180000+00:00",
-   "first_seen_at": "2026-09-16T00:24:48.581451+00:00",
-   "score": 28,
-   "category": "Other",
-   "remote": "Remote",
-   "shift": "",
-   "healthcare": false,
-   "salary": "$225K \u2013 $385K \u2022 Offers Equity",
-   "why": [
-    "Skills (3): escalation, nist, aws",
-    "Remote",
-    "Senior level"
    ]
   },
   {
@@ -11165,28 +11142,6 @@
    ]
   },
   {
-   "key": "9d30e603798b4ad4",
-   "title": "SHE Coordinator im Bereich Clinical Supply Chain Organization (m/w/d) (60%) f\u00fcr F. Hoffmann La Roche",
-   "company": "We make it GmbH",
-   "url": "https://www.arbeitnow.ch/jobs/companies/we-make-it-gmbh/she-coordinator-im-bereich-clinical-supply-chain-organization-60-fur-f-hoffmann-la-roche-kaiseraugst-298832",
-   "location": "Kaiseraugst",
-   "source": "arbeitnow",
-   "posted_at": "2026-10-21T19:17:34+00:00",
-   "first_seen_at": "2026-10-21T20:12:28.215706+00:00",
-   "score": 26,
-   "category": "Healthcare IT",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": true,
-   "salary": "",
-   "why": [
-    "Healthcare title: clinical",
-    "Skills (2): entra, nist",
-    "Healthcare signals: ehr, clinical, patient",
-    "Onsite outside SoCal"
-   ]
-  },
-  {
    "key": "026b904124f9e60a",
    "title": "Risk Analyst",
    "company": "Pavago",
@@ -11288,6 +11243,28 @@
     "Skills (2): aws, identity",
     "Remote",
     "Salary $129,000 - $183,200"
+   ]
+  },
+  {
+   "key": "3ab81b89c679e3a9",
+   "title": "Gardener Handyman Driver",
+   "company": "NT Health",
+   "url": "https://remoteOK.com/remote-jobs/remote-gardener-handyman-driver-nt-health-1136625",
+   "location": "Alice Springs, ",
+   "source": "remoteok",
+   "posted_at": "2026-08-13T20:09:23+00:00",
+   "first_seen_at": "2026-10-25T01:13:43.252776+00:00",
+   "score": 26,
+   "category": "Other",
+   "remote": "Remote",
+   "shift": "",
+   "healthcare": false,
+   "salary": "$67,945 - $83,807",
+   "why": [
+    "Skills (1): entra",
+    "Healthcare signals: health care",
+    "Remote",
+    "Senior level"
    ]
   },
   {
