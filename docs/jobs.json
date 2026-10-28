@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-27T22:58:15.755627+00:00",
- "signature": "9ac55bdc46c018187551d3a9f766258fc6fa30f3",
- "count": 542,
+ "generated_at": "2026-10-28T02:19:30.782950+00:00",
+ "signature": "7cd402ebcac73cbccb1d9fb9c60072f0b832edae",
+ "count": 540,
  "jobs": [
   {
    "key": "greenhouse:zocdoc:8060755",
@@ -488,6 +488,29 @@
     "Title match: security engineer",
     "Skills (7): azure, networking, kubernetes, ci/cd, nist, automation",
     "Healthcare signals: phi",
+    "Remote",
+    "Senior level"
+   ]
+  },
+  {
+   "key": "1ef72b897695e427",
+   "title": "Cloud Native Security Engineer",
+   "company": "Controlplane",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/controlplane/cloud-native-security-engineer-24852",
+   "location": "Remote",
+   "source": "arbeitnow",
+   "posted_at": "2026-10-28T00:55:22+00:00",
+   "first_seen_at": "2026-10-28T02:19:30.782950+00:00",
+   "score": 80,
+   "category": "Cybersecurity",
+   "remote": "Remote",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: security engineer",
+    "Skills (7): azure, terraform, kubernetes, ci/cd, iac, aws",
+    "Healthcare signals: healthcare",
     "Remote",
     "Senior level"
    ]
@@ -2029,28 +2052,6 @@
    ]
   },
   {
-   "key": "40493b3ca3e4f289",
-   "title": "Senior Application Security Engineer",
-   "company": "Red Gate",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/red-gate/senior-application-security-engineer-cambridge-340401",
-   "location": "Cambridge",
-   "source": "arbeitnow",
-   "posted_at": "2026-10-27T15:40:31+00:00",
-   "first_seen_at": "2026-10-27T18:45:15.968234+00:00",
-   "score": 54,
-   "category": "Cybersecurity",
-   "remote": "Remote",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: security engineer",
-    "Skills (2): docker, aws",
-    "Remote",
-    "Senior level"
-   ]
-  },
-  {
    "key": "greenhouse:databricks:8563185002",
    "title": "Manager, Delivery Solutions Architects - Toronto, ON",
    "company": "Databricks",
@@ -2312,6 +2313,28 @@
     "Skills (9): azure, terraform, kubernetes, ci/cd, iac, troubleshooting",
     "Onsite outside SoCal",
     "Senior level"
+   ]
+  },
+  {
+   "key": "e3d1ccf197aaa081",
+   "title": "Expert Site Reliability Engineer - Edge Infrastructure (f/m/d)",
+   "company": "Orbem",
+   "url": "https://www.arbeitnow.com/jobs/companies/orbem/expert-site-reliability-engineer-edge-infrastructure-munich-73407",
+   "location": "Munich",
+   "source": "arbeitnow",
+   "posted_at": "2026-10-28T00:40:16+00:00",
+   "first_seen_at": "2026-10-28T02:19:30.782950+00:00",
+   "score": 51,
+   "category": "Cloud",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: site reliability",
+    "Skills (11): entra, terraform, vpn, linux, kubernetes, ci/cd",
+    "Healthcare signals: phi",
+    "Onsite outside SoCal"
    ]
   },
   {
@@ -2749,28 +2772,6 @@
    "why": [
     "Healthcare signals: healthcare, phi, clinical, patient",
     "Remote (US)"
-   ]
-  },
-  {
-   "key": "5d61929b6d415114",
-   "title": "Senior AI/ML Engineer (m/w/d)",
-   "company": "Recare Deutschland GmbH",
-   "url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-senior-ai-ml-engineer-berlin-460742",
-   "location": "Remote job",
-   "source": "arbeitnow",
-   "posted_at": "2026-10-27T09:31:11+00:00",
-   "first_seen_at": "2026-10-27T13:15:56.240694+00:00",
-   "score": 50,
-   "category": "Other",
-   "remote": "Remote",
-   "shift": "",
-   "healthcare": true,
-   "salary": "",
-   "why": [
-    "Skills (4): nist, automation, observability, aws",
-    "Healthcare signals: healthcare, patient, hospital",
-    "Remote",
-    "Senior level"
    ]
   },
   {
@@ -3581,27 +3582,6 @@
    ]
   },
   {
-   "key": "8c09e029bcac4821",
-   "title": "Infrastructure Engineer",
-   "company": "Red Gate",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/red-gate/infrastructure-engineer-cambridge-388290",
-   "location": "Cambridge",
-   "source": "arbeitnow",
-   "posted_at": "2026-10-27T15:40:31+00:00",
-   "first_seen_at": "2026-10-27T18:45:15.968234+00:00",
-   "score": 45,
-   "category": "Cloud",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: infrastructure engineer",
-    "Skills (15): entra, active directory, powershell, networking, firewall, linux",
-    "Onsite outside SoCal"
-   ]
-  },
-  {
    "key": "greenhouse:datadog:7421284",
    "title": "Enterprise Sales Executive (FED)",
    "company": "Datadog",
@@ -3801,7 +3781,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8746374002",
    "location": "Boston, Massachusetts; Delaware; Maryland; Remote - California; Remote - New York; Remote - Washington D.C.; Virginia; West Virginia",
    "source": "greenhouse",
-   "posted_at": "2026-10-06T10:46:48+00:00",
+   "posted_at": "2026-10-27T23:51:20+00:00",
    "first_seen_at": "2026-08-25T16:57:51.857000+00:00",
    "score": 44,
    "category": "Cybersecurity",
@@ -5187,6 +5167,30 @@
    ]
   },
   {
+   "key": "greenhouse:databricks:8892971002",
+   "title": "Lead Solutions Architect - Generative AI (EMEA Emerging DNB)",
+   "company": "Databricks",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8892971002",
+   "location": "Remote - Germany",
+   "source": "greenhouse",
+   "posted_at": "2026-10-15T18:27:39+00:00",
+   "first_seen_at": "2026-10-15T19:11:49.739407+00:00",
+   "score": 39,
+   "category": "Cloud",
+   "remote": "Remote",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: solutions architect",
+    "Skills (4): azure, monitoring, aws, gcp",
+    "Healthcare signals: healthcare, life sciences",
+    "Remote",
+    "Senior level",
+    "Downranked: recruiter"
+   ]
+  },
+  {
    "key": "greenhouse:databricks:8892968002",
    "title": "Lead Solutions Architect - Generative AI (EMEA Emerging DNB)",
    "company": "Databricks",
@@ -5218,30 +5222,6 @@
    "location": "Amsterdam, Netherlands",
    "source": "greenhouse",
    "posted_at": "2026-10-15T18:24:44+00:00",
-   "first_seen_at": "2026-10-15T19:11:49.739407+00:00",
-   "score": 39,
-   "category": "Cloud",
-   "remote": "Remote",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: solutions architect",
-    "Skills (4): azure, monitoring, aws, gcp",
-    "Healthcare signals: healthcare, life sciences",
-    "Remote",
-    "Senior level",
-    "Downranked: recruiter"
-   ]
-  },
-  {
-   "key": "greenhouse:databricks:8892971002",
-   "title": "Lead Solutions Architect - Generative AI (EMEA Emerging DNB)",
-   "company": "Databricks",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8892971002",
-   "location": "Remote - Germany",
-   "source": "greenhouse",
-   "posted_at": "2026-10-15T18:27:39+00:00",
    "first_seen_at": "2026-10-15T19:11:49.739407+00:00",
    "score": 39,
    "category": "Cloud",
@@ -6612,6 +6592,27 @@
    ]
   },
   {
+   "key": "ab9c9bf2b8d8262a",
+   "title": "Staff Backend Developer - Threat Intelligence",
+   "company": "zscaler",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/zscaler/staff-backend-developer-threat-intelligence-403073",
+   "location": "",
+   "source": "arbeitnow",
+   "posted_at": "2026-10-28T00:55:19+00:00",
+   "first_seen_at": "2026-10-28T02:19:30.782950+00:00",
+   "score": 36,
+   "category": "Other",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (5): kubernetes, zero trust, automation, observability, aws",
+    "Healthcare signals: phi",
+    "Senior level"
+   ]
+  },
+  {
    "key": "ashby:openai:99f823a1-66ec-44bd-ba30-d3645aa49d74",
    "title": "AI Support Engineer - San Francisco (Weekend Shift)",
    "company": "OpenAI",
@@ -7494,6 +7495,26 @@
    ]
   },
   {
+   "key": "4f6245e0afa14084",
+   "title": "Lead AI Engineer - ML/LLM Ops & Agentic AI",
+   "company": "shifttechnology",
+   "url": "https://www.arbeitnow.fr/jobs/companies/shifttechnology/lead-ai-engineer-ml-llm-ops-agentic-ai-479819",
+   "location": "",
+   "source": "arbeitnow",
+   "posted_at": "2026-10-28T00:55:19+00:00",
+   "first_seen_at": "2026-10-28T02:19:30.782950+00:00",
+   "score": 34,
+   "category": "Other",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (6): azure, terraform, kubernetes, ci/cd, nist, monitoring",
+    "Senior level"
+   ]
+  },
+  {
    "key": "greenhouse:cloudflare:8066589",
    "title": "Senior Systems Engineer",
    "company": "Cloudflare",
@@ -8121,27 +8142,6 @@
    "why": [
     "Skills (6): azure, ci/cd, aws, gcp, identity, sso",
     "California"
-   ]
-  },
-  {
-   "key": "94e77a0d16327ed1",
-   "title": "Senior Backend Engineer",
-   "company": "Payflows",
-   "url": "https://www.arbeitnow.fr/jobs/companies/payflows/remote-senior-backend-engineer-paris-287438",
-   "location": "Remote job",
-   "source": "arbeitnow",
-   "posted_at": "2026-10-26T21:51:29+00:00",
-   "first_seen_at": "2026-10-27T00:29:12.841542+00:00",
-   "score": 32,
-   "category": "Other",
-   "remote": "Remote",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Skills (4): nist, automation, observability, aws",
-    "Remote",
-    "Senior level"
    ]
   },
   {
@@ -9222,28 +9222,6 @@
    ]
   },
   {
-   "key": "317785507da4faa2",
-   "title": "Senior Full Stack Software Engineer (w/m/d) (GovTech & AI)",
-   "company": "Lexaru GmbH",
-   "url": "https://www.arbeitnow.com/jobs/companies/lexaru-gmbh/senior-full-stack-software-engineer-govtech-ai-berlin-98054",
-   "location": "Berlin",
-   "source": "arbeitnow",
-   "posted_at": "2026-10-27T10:01:05+00:00",
-   "first_seen_at": "2026-10-27T13:15:56.240694+00:00",
-   "score": 30,
-   "category": "Other",
-   "remote": "Remote",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Skills (2): ci/cd, monitoring",
-    "Healthcare signals: ehr",
-    "Remote",
-    "Senior level"
-   ]
-  },
-  {
    "key": "lever:spotify:53c07681-f798-4f2c-bef6-513c6d027c9e",
    "title": "Senior Editor, Podcast Editorial",
    "company": "Spotify",
@@ -9262,6 +9240,27 @@
     "Skills (1): sso",
     "Southern California",
     "Senior level"
+   ]
+  },
+  {
+   "key": "b30f38afbde52a99",
+   "title": "Portfolio analytics and forecasts actuary",
+   "company": "Alan",
+   "url": "https://www.arbeitnow.fr/jobs/companies/alan/portfolio-analytics-and-forecasts-actuary-anywhere-in-france-332005",
+   "location": "Anywhere in France",
+   "source": "arbeitnow",
+   "posted_at": "2026-10-27T18:40:34+00:00",
+   "first_seen_at": "2026-10-27T22:58:15.755627+00:00",
+   "score": 30,
+   "category": "Other",
+   "remote": "Remote",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (1): monitoring",
+    "Healthcare signals: healthcare",
+    "Remote (US)"
    ]
   },
   {
@@ -9284,24 +9283,23 @@
    ]
   },
   {
-   "key": "b30f38afbde52a99",
-   "title": "Portfolio analytics and forecasts actuary",
-   "company": "Alan",
-   "url": "https://www.arbeitnow.fr/jobs/companies/alan/portfolio-analytics-and-forecasts-actuary-anywhere-in-france-332005",
-   "location": "Anywhere in France",
+   "key": "7bf203cd52c362fc",
+   "title": "Senior Technical Success Manager",
+   "company": "zscaler",
+   "url": "https://www.arbeitnow.nl/jobs/companies/zscaler/senior-technical-success-manager-435059",
+   "location": "",
    "source": "arbeitnow",
-   "posted_at": "2026-10-27T18:40:34+00:00",
-   "first_seen_at": "2026-10-27T22:58:15.755627+00:00",
+   "posted_at": "2026-10-28T00:55:19+00:00",
+   "first_seen_at": "2026-10-28T02:19:30.782950+00:00",
    "score": 30,
    "category": "Other",
-   "remote": "Remote",
+   "remote": "Onsite",
    "shift": "",
    "healthcare": false,
    "salary": "",
    "why": [
-    "Skills (1): monitoring",
-    "Healthcare signals: healthcare",
-    "Remote (US)"
+    "Skills (5): entra, zero trust, escalation, troubleshooting, saml",
+    "Senior level"
    ]
   },
   {
@@ -9779,22 +9777,23 @@
    ]
   },
   {
-   "key": "c3a363f01e631e4d",
-   "title": "Senior Level Designer",
-   "company": "Blackbird Interactive",
-   "url": "https://remoteOK.com/remote-jobs/remote-senior-level-designer-blackbird-interactive-1137156",
-   "location": "Vancouver, BC, Canada",
-   "source": "remoteok",
-   "posted_at": "2026-08-27T00:00:23+00:00",
-   "first_seen_at": "2026-10-22T10:15:26.480331+00:00",
+   "key": "224aa3c79ba0f14c",
+   "title": "Senior Cloud Native Consultant",
+   "company": "Controlplane",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/controlplane/senior-cloud-native-consultant-84942",
+   "location": "",
+   "source": "arbeitnow",
+   "posted_at": "2026-10-28T00:55:22+00:00",
+   "first_seen_at": "2026-10-28T02:19:30.782950+00:00",
    "score": 28,
    "category": "Other",
-   "remote": "Remote",
+   "remote": "Onsite",
    "shift": "",
    "healthcare": false,
    "salary": "",
    "why": [
-    "Remote (California)",
+    "Skills (3): kubernetes, ci/cd, zero trust",
+    "Healthcare signals: healthcare",
     "Senior level"
    ]
   },
@@ -11049,48 +11048,6 @@
    "salary": "",
    "why": [
     "Skills (5): entra, docker, ci/cd, monitoring, observability",
-    "Remote"
-   ]
-  },
-  {
-   "key": "64ab85dceedf586c",
-   "title": "MTS: Behavioral Research Scientist",
-   "company": "Seldon",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/seldon/mts-behavioral-research-scientist-london-22245",
-   "location": "London",
-   "source": "arbeitnow",
-   "posted_at": "2026-10-27T15:40:31+00:00",
-   "first_seen_at": "2026-10-27T18:45:15.968234+00:00",
-   "score": 26,
-   "category": "Other",
-   "remote": "Remote",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Skills (2): nist, identity",
-    "Healthcare signals: phi, hospital",
-    "Remote"
-   ]
-  },
-  {
-   "key": "2ff25b2e632c7ab4",
-   "title": "MTS: AI Research Engineer",
-   "company": "Seldon",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/seldon/mts-ai-research-engineer-london-353129",
-   "location": "London",
-   "source": "arbeitnow",
-   "posted_at": "2026-10-27T15:40:31+00:00",
-   "first_seen_at": "2026-10-27T18:45:15.968234+00:00",
-   "score": 26,
-   "category": "Other",
-   "remote": "Remote",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Skills (2): nist, monitoring",
-    "Healthcare signals: phi, hospital",
     "Remote"
    ]
   },
