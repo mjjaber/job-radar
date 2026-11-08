@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-08T07:25:41.521864+00:00",
- "signature": "a9ea750cdb57bc9846be0ca28003003b319dfd91",
- "count": 530,
+ "generated_at": "2026-11-08T15:17:00.468806+00:00",
+ "signature": "ead8093aa148a61eb0f7bba626491828f618765f",
+ "count": 532,
  "jobs": [
   {
    "key": "greenhouse:zocdoc:8060755",
@@ -1588,6 +1588,28 @@
    ]
   },
   {
+   "key": "2bd958ac2c6d444c",
+   "title": "Security Engineer",
+   "company": "freiheit.com technologies",
+   "url": "https://www.arbeitnow.com/jobs/companies/freiheitcom-technologies/security-engineer-hamburg-430741",
+   "location": "Hamburg",
+   "source": "arbeitnow",
+   "posted_at": "2026-11-08T12:07:24+00:00",
+   "first_seen_at": "2026-11-08T15:17:00.468806+00:00",
+   "score": 57,
+   "category": "Cybersecurity",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: security engineer",
+    "Skills (10): azure, terraform, networking, kubernetes, docker, ci/cd",
+    "Healthcare signals: healthcare, ehr",
+    "Onsite outside SoCal"
+   ]
+  },
+  {
    "key": "greenhouse:datadog:7985840",
    "title": "Senior Developer Advocate - Modern App Development",
    "company": "Datadog",
@@ -3077,28 +3099,6 @@
    ]
   },
   {
-   "key": "c12d8d55701e2dae",
-   "title": "Site Reliability Engineer (DevOps / Azure AKS)",
-   "company": "M&S Software Engineering",
-   "url": "https://www.arbeitnow.ch/jobs/companies/ms-software-engineering/site-reliability-engineer-devops-azure-aks-schlieren-383690",
-   "location": "Schlieren",
-   "source": "arbeitnow",
-   "posted_at": "2026-11-05T18:01:13+00:00",
-   "first_seen_at": "2026-11-05T22:01:57.814637+00:00",
-   "score": 47,
-   "category": "Cloud",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: site reliability",
-    "Skills (9): azure, terraform, powershell, linux, kubernetes, ci/cd",
-    "Healthcare signals: ehr",
-    "Onsite outside SoCal"
-   ]
-  },
-  {
    "key": "greenhouse:zocdoc:7994223",
    "title": "Staff Platform Engineer, AI Enablement ",
    "company": "Zocdoc",
@@ -3226,28 +3226,6 @@
     "Skills (1): microsoft 365",
     "Healthcare signals: healthcare, patient, medtech, life sciences",
     "California",
-    "Senior level"
-   ]
-  },
-  {
-   "key": "9b4b659acd8cade1",
-   "title": "Senior Financial Analyst",
-   "company": "Engagedmd",
-   "url": "https://www.arbeitnow.com/jobs/companies/engagedmd/remote-senior-financial-analyst-290765",
-   "location": "Remote",
-   "source": "arbeitnow",
-   "posted_at": "2026-11-07T15:40:10+00:00",
-   "first_seen_at": "2026-11-07T16:51:19.606575+00:00",
-   "score": 46,
-   "category": "Other",
-   "remote": "Remote",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Skills (1): nist",
-    "Healthcare signals: healthcare, patient",
-    "Remote (US)",
     "Senior level"
    ]
   },
@@ -3503,6 +3481,27 @@
    "why": [
     "Title match: infrastructure engineer",
     "Skills (13): azure, terraform, powershell, networking, linux, ci/cd",
+    "Onsite outside SoCal"
+   ]
+  },
+  {
+   "key": "e17f89228c2817c8",
+   "title": "Data Platform Engineer (Mid-Level)",
+   "company": "sumup",
+   "url": "https://www.arbeitnow.com/jobs/companies/sumup/data-platform-engineer-mid-level-berlin-396788",
+   "location": "Berlin",
+   "source": "arbeitnow",
+   "posted_at": "2026-11-08T09:55:19+00:00",
+   "first_seen_at": "2026-11-08T15:17:00.468806+00:00",
+   "score": 45,
+   "category": "Cloud",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: platform engineer",
+    "Skills (10): terraform, kubernetes, docker, ci/cd, automation, monitoring",
     "Onsite outside SoCal"
    ]
   },
@@ -3826,44 +3825,45 @@
    ]
   },
   {
-   "key": "d09bbdeda67f3e4e",
-   "title": "Senior Solutions Architect",
-   "company": "mongodb",
-   "url": "https://www.arbeitnow.ch/jobs/companies/mongodb/senior-solutions-architect-111714",
-   "location": "",
+   "key": "bb0478861f0fe87e",
+   "title": "Senior Network Engineer",
+   "company": "SwissPeak Partners GmbH",
+   "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/senior-network-engineer-zurich-142802",
+   "location": "Zurich, Z\u00fcrich, Switzerland",
    "source": "arbeitnow",
-   "posted_at": "2026-11-06T03:55:21+00:00",
-   "first_seen_at": "2026-11-06T10:58:52.198175+00:00",
+   "posted_at": "2026-11-08T12:31:22+00:00",
+   "first_seen_at": "2026-11-08T15:17:00.468806+00:00",
    "score": 44,
-   "category": "Cloud",
-   "remote": "Onsite",
+   "category": "Other",
+   "remote": "Remote",
    "shift": "",
    "healthcare": false,
    "salary": "",
    "why": [
-    "Title match: solutions architect",
-    "Skills (1): kubernetes",
+    "Skills (7): vpn, firewall, linux, windows server, troubleshooting, nist",
+    "Remote",
     "Senior level"
    ]
   },
   {
-   "key": "b7ce2746c86151aa",
-   "title": "Senior Solutions Engineer (APAC Region)",
-   "company": "Ss8",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/ss8/senior-solutions-engineer-apac-region-364301",
-   "location": "",
+   "key": "c1478906ea44e0dd",
+   "title": "Talent Lead at AIOS- Remote, $100-200k inc equity",
+   "company": "AIOS (YC W20/S21)",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/aios-yc-w20s21/talent-lead-at-aios-remote-100-200k-inc-equity-blackburn-405054",
+   "location": "Remote (UK hours)",
    "source": "arbeitnow",
-   "posted_at": "2026-11-08T00:55:21+00:00",
-   "first_seen_at": "2026-11-08T07:25:41.521864+00:00",
+   "posted_at": "2026-11-08T06:40:11+00:00",
+   "first_seen_at": "2026-11-08T15:17:00.468806+00:00",
    "score": 44,
-   "category": "Cloud",
-   "remote": "Onsite",
+   "category": "Other",
+   "remote": "Remote",
    "shift": "",
-   "healthcare": false,
+   "healthcare": true,
    "salary": "",
    "why": [
-    "Title match: solutions engineer",
-    "Skills (1): networking",
+    "Skills (1): sso",
+    "Healthcare signals: healthcare, clinical, patient, payer",
+    "Remote",
     "Senior level"
    ]
   },
@@ -4651,14 +4651,14 @@
    ]
   },
   {
-   "key": "bf2a6b483c9136d1",
-   "title": "Site Reliability Engineer- Data Platform  (W/M/X)",
-   "company": "Veepee",
-   "url": "https://www.arbeitnow.fr/jobs/companies/veepee/site-reliability-engineer-data-platform-paris-79844",
-   "location": "Paris",
+   "key": "5332e093bbd048ac",
+   "title": "Cloud and Platform Engineer",
+   "company": "SwissPeak Partners GmbH",
+   "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/cloud-and-platform-engineer-zurich-368344",
+   "location": "Zurich, Z\u00fcrich, Switzerland",
    "source": "arbeitnow",
-   "posted_at": "2026-11-07T12:08:18+00:00",
-   "first_seen_at": "2026-11-07T16:51:19.606575+00:00",
+   "posted_at": "2026-11-08T12:31:22+00:00",
+   "first_seen_at": "2026-11-08T15:17:00.468806+00:00",
    "score": 41,
    "category": "Cloud",
    "remote": "Onsite",
@@ -4666,8 +4666,8 @@
    "healthcare": false,
    "salary": "",
    "why": [
-    "Title match: site reliability",
-    "Skills (9): terraform, networking, linux, kubernetes, ci/cd, automation",
+    "Title match: platform engineer",
+    "Skills (9): azure, entra, terraform, kubernetes, docker, ci/cd",
     "Onsite outside SoCal"
    ]
   },
@@ -4779,27 +4779,6 @@
     "Healthcare signals: patient, medtech, life sciences",
     "California",
     "Senior level"
-   ]
-  },
-  {
-   "key": "e8ac494968028648",
-   "title": "HR Generalist",
-   "company": "Engagedmd",
-   "url": "https://www.arbeitnow.com/jobs/companies/engagedmd/remote-hr-generalist-206132",
-   "location": "Remote",
-   "source": "arbeitnow",
-   "posted_at": "2026-11-07T15:40:10+00:00",
-   "first_seen_at": "2026-11-07T16:51:19.606575+00:00",
-   "score": 40,
-   "category": "Other",
-   "remote": "Remote",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Skills (2): nist, aws",
-    "Healthcare signals: healthcare, patient",
-    "Remote (US)"
    ]
   },
   {
@@ -5782,6 +5761,28 @@
    ]
   },
   {
+   "key": "44ef7bc8b43d457a",
+   "title": "Software engineer, generative AI (UK)",
+   "company": "Writer",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/writer/software-engineer-generative-ai-uk-london-225087",
+   "location": "London, UK",
+   "source": "arbeitnow",
+   "posted_at": "2026-11-08T06:40:12+00:00",
+   "first_seen_at": "2026-11-08T15:17:00.468806+00:00",
+   "score": 37,
+   "category": "Other",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (10): azure, kubernetes, docker, nist, monitoring, aws",
+    "Healthcare signals: healthcare, phi",
+    "Onsite outside SoCal",
+    "Senior level"
+   ]
+  },
+  {
    "key": "greenhouse:talkspace:6113920004",
    "title": "Health & Wellness Coach (Contract)",
    "company": "Talkspace",
@@ -5992,27 +5993,6 @@
    "why": [
     "Skills (2): automation, observability",
     "Healthcare signals: healthcare, clinical",
-    "Remote",
-    "Senior level"
-   ]
-  },
-  {
-   "key": "ashby:openai:c3f0fb07-2153-4ba9-b812-cd7ceb363ae8",
-   "title": "HSE and Portfolio Performance Lead",
-   "company": "OpenAI",
-   "url": "https://jobs.ashbyhq.com/openai/c3f0fb07-2153-4ba9-b812-cd7ceb363ae8",
-   "location": "US - Remote",
-   "source": "ashby",
-   "posted_at": "2026-10-28T04:19:02.851000+00:00",
-   "first_seen_at": "2026-10-28T09:44:57.248526+00:00",
-   "score": 36,
-   "category": "Other",
-   "remote": "Remote",
-   "shift": "",
-   "healthcare": false,
-   "salary": "$177K \u2013 $285K \u2022 Offers Equity",
-   "why": [
-    "Skills (5): entra, escalation, nist, aws, sso",
     "Remote",
     "Senior level"
    ]
@@ -7521,28 +7501,6 @@
    ]
   },
   {
-   "key": "e9e36517e323a0c8",
-   "title": "Senior Channel Marketing Manager, EMEA",
-   "company": "Huntress",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/huntress/senior-channel-marketing-manager-emea-429618",
-   "location": "Remote",
-   "source": "arbeitnow",
-   "posted_at": "2026-11-08T00:55:20+00:00",
-   "first_seen_at": "2026-11-08T07:25:41.521864+00:00",
-   "score": 34,
-   "category": "Other",
-   "remote": "Remote",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Skills (3): defender, nist, automation",
-    "Healthcare signals: phi",
-    "Remote",
-    "Senior level"
-   ]
-  },
-  {
    "key": "greenhouse:cloudflare:8066589",
    "title": "Senior Systems Engineer",
    "company": "Cloudflare",
@@ -7651,6 +7609,49 @@
     "Healthcare signals: health care, provider network",
     "Onsite outside SoCal",
     "Senior level"
+   ]
+  },
+  {
+   "key": "9adf0e51da19075f",
+   "title": "Cloud Engineer (m/w/d)",
+   "company": "Rewire",
+   "url": "https://www.arbeitnow.com/jobs/companies/rewire/cloud-engineer-heidelberg-100809",
+   "location": "Heidelberg, Baden-W\u00fcrttemberg, Germany",
+   "source": "arbeitnow",
+   "posted_at": "2026-11-08T12:31:18+00:00",
+   "first_seen_at": "2026-11-08T15:17:00.468806+00:00",
+   "score": 33,
+   "category": "Cloud",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: cloud engineer",
+    "Skills (7): azure, terraform, networking, ci/cd, automation, aws",
+    "Onsite outside SoCal"
+   ]
+  },
+  {
+   "key": "753545e9cfada685",
+   "title": "Security engineer, detection and response (UK)",
+   "company": "Writer",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/writer/security-engineer-detection-and-response-uk-london-463849",
+   "location": "London, UK",
+   "source": "arbeitnow",
+   "posted_at": "2026-11-08T06:40:12+00:00",
+   "first_seen_at": "2026-11-08T15:17:00.468806+00:00",
+   "score": 33,
+   "category": "Cybersecurity",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: security engineer",
+    "Skills (4): incident response, automation, monitoring, siem",
+    "Healthcare signals: healthcare, phi",
+    "Onsite outside SoCal"
    ]
   },
   {
@@ -8213,6 +8214,29 @@
    "why": [
     "Healthcare signals: healthcare, patient",
     "Remote (US)"
+   ]
+  },
+  {
+   "key": "24d531b05ca81ed6",
+   "title": "Director/Senior Director Medical Affairs EMEA",
+   "company": "Scholarrock",
+   "url": "https://www.arbeitnow.ch/jobs/companies/scholarrock/director-senior-director-medical-affairs-emea-zug-139111",
+   "location": "Zug",
+   "source": "arbeitnow",
+   "posted_at": "2026-11-08T12:07:18+00:00",
+   "first_seen_at": "2026-11-08T15:17:00.468806+00:00",
+   "score": 32,
+   "category": "Healthcare IT",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": true,
+   "salary": "",
+   "why": [
+    "Healthcare title: medical",
+    "Skills (1): sso",
+    "Healthcare signals: phi, clinical, patient",
+    "Onsite outside SoCal",
+    "Senior level"
    ]
   },
   {
@@ -9676,6 +9700,50 @@
    ]
   },
   {
+   "key": "ashby:openai:1a475859-21e3-45fc-9e93-8763aa1d0992",
+   "title": "Civil & Structural Architect, Power Generation ",
+   "company": "OpenAI",
+   "url": "https://jobs.ashbyhq.com/openai/1a475859-21e3-45fc-9e93-8763aa1d0992",
+   "location": "US - Remote",
+   "source": "ashby",
+   "posted_at": "2026-11-08T14:31:28.423000+00:00",
+   "first_seen_at": "2026-11-08T15:17:00.468806+00:00",
+   "score": 28,
+   "category": "Other",
+   "remote": "Remote",
+   "shift": "",
+   "healthcare": false,
+   "salary": "$257K \u2013 $327K \u2022 Offers Equity",
+   "why": [
+    "Skills (3): entra, nist, aws",
+    "Remote",
+    "Senior level"
+   ]
+  },
+  {
+   "key": "66bdfac788122864",
+   "title": "Clinical Pharmacist (Independent Prescriber) at AIOS Medical- Remote, \u00a345/hr inc equity",
+   "company": "AIOS (YC W20/S21)",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/aios-yc-w20s21/clinical-pharmacist-independent-prescriber-at-aios-medical-remote-ps45-hr-inc-equity-blackburn-86985",
+   "location": "Remote (UK hours)",
+   "source": "arbeitnow",
+   "posted_at": "2026-11-08T06:40:11+00:00",
+   "first_seen_at": "2026-11-08T15:17:00.468806+00:00",
+   "score": 28,
+   "category": "Healthcare IT",
+   "remote": "Remote",
+   "shift": "",
+   "healthcare": true,
+   "salary": "",
+   "why": [
+    "Healthcare title: clinical",
+    "Skills (2): escalation, monitoring",
+    "Healthcare signals: healthcare, clinical, patient, payer",
+    "Remote",
+    "Downranked: pharmacist"
+   ]
+  },
+  {
    "key": "greenhouse:cloudflare:8081027",
    "title": "Network Security Engineer",
    "company": "Cloudflare",
@@ -10906,28 +10974,6 @@
    "why": [
     "Skills (2): monitoring, observability",
     "California",
-    "Senior level"
-   ]
-  },
-  {
-   "key": "554042afe6c159ea",
-   "title": "Senior SEO & GEO Manager (m/w/d), Vollzeit und Teilzeit",
-   "company": "Joberg GmbH",
-   "url": "https://www.arbeitnow.com/jobs/companies/joberg-gmbh/senior-seo-geo-manager-vollzeit-und-teilzeit-munich-363302",
-   "location": "Munich",
-   "source": "arbeitnow",
-   "posted_at": "2026-11-07T13:31:01+00:00",
-   "first_seen_at": "2026-11-07T16:51:19.606575+00:00",
-   "score": 26,
-   "category": "Other",
-   "remote": "Remote",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Skills (1): automation",
-    "Healthcare signals: ehr",
-    "Remote",
     "Senior level"
    ]
   },
