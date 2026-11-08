@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-07T20:55:40.048654+00:00",
- "signature": "73f28d6fdaa0e51ed5bd1c18856de79f757af574",
- "count": 538,
+ "generated_at": "2026-11-08T00:40:42.862350+00:00",
+ "signature": "ae7f04dac226077b25204ce0e84debdc99d4bd1e",
+ "count": 537,
  "jobs": [
   {
    "key": "greenhouse:zocdoc:8060755",
@@ -831,6 +831,26 @@
    ]
   },
   {
+   "key": "b0cf4b019e2c03a0",
+   "title": "Site Reliability Engineer",
+   "company": "nice",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/nice/site-reliability-engineer-492426",
+   "location": "",
+   "source": "arbeitnow",
+   "posted_at": "2026-11-07T21:55:28+00:00",
+   "first_seen_at": "2026-11-08T00:40:42.862350+00:00",
+   "score": 70,
+   "category": "Cloud",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: site reliability",
+    "Skills (12): terraform, powershell, kubernetes, docker, ci/cd, incident response"
+   ]
+  },
+  {
    "key": "9723b48940b740b1",
    "title": "Senior Staff Infrastructure & Security Engineer",
    "company": "CivilGrid",
@@ -918,29 +938,6 @@
     "Skills (3): azure, aws, gcp",
     "Healthcare signals: healthcare",
     "Remote (US)"
-   ]
-  },
-  {
-   "key": "e528b21780678cfb",
-   "title": "Middle/Senior/Staff Site Reliability Engineer (K8s)",
-   "company": "Npv",
-   "url": "https://www.arbeitnow.com/jobs/companies/npv/remote-middle-senior-staff-site-reliability-engineer-k8s-1859",
-   "location": "Remote",
-   "source": "arbeitnow",
-   "posted_at": "2026-11-07T03:40:27+00:00",
-   "first_seen_at": "2026-11-07T10:18:05.765097+00:00",
-   "score": 68,
-   "category": "Cloud",
-   "remote": "Remote",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: site reliability",
-    "Skills (4): terraform, kubernetes, automation, observability",
-    "Healthcare signals: healthcare",
-    "Remote",
-    "Senior level"
    ]
   },
   {
@@ -2615,28 +2612,6 @@
    ]
   },
   {
-   "key": "befd6b691e95e89a",
-   "title": "Senior Solutions Architect (German speaking)",
-   "company": "Sanity",
-   "url": "https://www.arbeitnow.com/jobs/companies/sanity/remote-senior-solutions-architect-german-speaking-290951",
-   "location": "Remote in Germany",
-   "source": "arbeitnow",
-   "posted_at": "2026-11-07T00:40:12+00:00",
-   "first_seen_at": "2026-11-07T02:51:39.280080+00:00",
-   "score": 50,
-   "category": "Cloud",
-   "remote": "Remote",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: solutions architect",
-    "Skills (1): identity",
-    "Remote",
-    "Senior level"
-   ]
-  },
-  {
    "key": "greenhouse:cloudflare:7629805",
    "title": "Senior Infrastructure Engineer, Storage Platform",
    "company": "Cloudflare",
@@ -2749,11 +2724,11 @@
    ]
   },
   {
-   "key": "greenhouse:datadog:7466155",
+   "key": "greenhouse:datadog:7465857",
    "title": "Enterprise Sales Executive",
    "company": "Datadog",
-   "url": "https://careers.datadoghq.com/detail/7466155/?gh_jid=7466155",
-   "location": "Florida, USA, Remote",
+   "url": "https://careers.datadoghq.com/detail/7465857/?gh_jid=7465857",
+   "location": "North Carolina, USA, Remote; Tennessee, USA, Remote",
    "source": "greenhouse",
    "posted_at": "2026-11-05T17:12:56+00:00",
    "first_seen_at": "2026-08-19T04:12:53.757863+00:00",
@@ -2771,11 +2746,11 @@
    ]
   },
   {
-   "key": "greenhouse:datadog:7465857",
+   "key": "greenhouse:datadog:7466155",
    "title": "Enterprise Sales Executive",
    "company": "Datadog",
-   "url": "https://careers.datadoghq.com/detail/7465857/?gh_jid=7465857",
-   "location": "North Carolina, USA, Remote; Tennessee, USA, Remote",
+   "url": "https://careers.datadoghq.com/detail/7466155/?gh_jid=7466155",
+   "location": "Florida, USA, Remote",
    "source": "greenhouse",
    "posted_at": "2026-11-05T17:12:56+00:00",
    "first_seen_at": "2026-08-19T04:12:53.757863+00:00",
@@ -2877,27 +2852,6 @@
     "Skills (5): azure, ci/cd, aws, gcp, sso",
     "Remote (California)",
     "Senior level"
-   ]
-  },
-  {
-   "key": "ashby:ramp:4bc09b14-0389-40cd-9d5b-f5557f451d50",
-   "title": "IT Site Specialist",
-   "company": "Ramp",
-   "url": "https://jobs.ashbyhq.com/ramp/4bc09b14-0389-40cd-9d5b-f5557f451d50",
-   "location": "San Francisco, CA",
-   "source": "ashby",
-   "posted_at": "2026-08-11T13:09:41.462000+00:00",
-   "first_seen_at": "2026-09-15T18:14:10.832893+00:00",
-   "score": 48,
-   "category": "Other",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": false,
-   "salary": "$145,760 \u2013 $200,420",
-   "why": [
-    "Skills (7): entra, escalation, troubleshooting, nist, automation, identity",
-    "California",
-    "Salary $145,760 \u2013 $200,420"
    ]
   },
   {
@@ -3294,6 +3248,26 @@
    ]
   },
   {
+   "key": "0255495e305e1366",
+   "title": "AI Developer",
+   "company": "Salvo Software",
+   "url": "https://remoteOK.com/remote-jobs/remote-ai-developer-salvo-software-1137701",
+   "location": "Remote",
+   "source": "remoteok",
+   "posted_at": "2026-11-07T00:00:02+00:00",
+   "first_seen_at": "2026-11-08T00:40:42.862350+00:00",
+   "score": 46,
+   "category": "Other",
+   "remote": "Remote",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (13): azure, terraform, powershell, linux, kubernetes, docker",
+    "Remote"
+   ]
+  },
+  {
    "key": "greenhouse:cloudflare:8079117",
    "title": "Senior Systems Engineer, Cloudflare Tunnel",
    "company": "Cloudflare",
@@ -3484,6 +3458,27 @@
    "why": [
     "Title match: infrastructure engineer",
     "Skills (13): azure, entra, terraform, networking, linux, ci/cd",
+    "Onsite outside SoCal"
+   ]
+  },
+  {
+   "key": "4ca04d057b31bc96",
+   "title": "Infrastructure Engineer",
+   "company": "Gardacp",
+   "url": "https://www.arbeitnow.ch/jobs/companies/gardacp/infrastructure-engineer-geneva-geneva-103465",
+   "location": "Geneva, Geneva",
+   "source": "arbeitnow",
+   "posted_at": "2026-11-07T21:55:33+00:00",
+   "first_seen_at": "2026-11-08T00:40:42.862350+00:00",
+   "score": 45,
+   "category": "Cloud",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: infrastructure engineer",
+    "Skills (13): azure, terraform, powershell, networking, linux, ci/cd",
     "Onsite outside SoCal"
    ]
   },
@@ -5604,28 +5599,6 @@
    ]
   },
   {
-   "key": "45acdca5f62d4944",
-   "title": "Senior Data Scientist - Credit Risk Modelling",
-   "company": "iwoca",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/iwoca/senior-data-scientist-credit-risk-modelling-london-34566",
-   "location": "London",
-   "source": "arbeitnow",
-   "posted_at": "2026-11-07T12:40:13+00:00",
-   "first_seen_at": "2026-11-07T16:51:19.606575+00:00",
-   "score": 38,
-   "category": "Other",
-   "remote": "Remote",
-   "shift": "overnight",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Skills (1): monitoring",
-    "Shift match: overnight",
-    "Remote",
-    "Senior level"
-   ]
-  },
-  {
    "key": "greenhouse:databricks:8476064002",
    "title": "Sr. Solutions Architect",
    "company": "Databricks",
@@ -6770,28 +6743,6 @@
    ]
   },
   {
-   "key": "ashby:ramp:6075e1dc-c833-4e27-a789-61d3a596c66c",
-   "title": "Senior Security Engineer, Identity",
-   "company": "Ramp",
-   "url": "https://jobs.ashbyhq.com/ramp/6075e1dc-c833-4e27-a789-61d3a596c66c",
-   "location": "New York, NY (HQ)",
-   "source": "ashby",
-   "posted_at": "2026-11-06T19:57:59.753000+00:00",
-   "first_seen_at": "2026-11-06T23:12:48.664666+00:00",
-   "score": 35,
-   "category": "Cybersecurity",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": false,
-   "salary": "$175.2K \u2013 $240.9K \u2022 Offers Equity",
-   "why": [
-    "Title match: security engineer",
-    "Skills (5): entra, terraform, identity, saml, oidc",
-    "Onsite outside SoCal",
-    "Senior level"
-   ]
-  },
-  {
    "key": "greenhouse:datadog:8054420",
    "title": "Head of Competitive Intelligence",
    "company": "Datadog",
@@ -7587,6 +7538,26 @@
    ]
   },
   {
+   "key": "3c7e301e6835e0f7",
+   "title": "Senior Software Engineer",
+   "company": "nice",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/nice/senior-software-engineer-440724",
+   "location": "",
+   "source": "arbeitnow",
+   "posted_at": "2026-11-07T21:55:28+00:00",
+   "first_seen_at": "2026-11-08T00:40:42.862350+00:00",
+   "score": 34,
+   "category": "Other",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (6): azure, terraform, docker, bicep, arm template, identity",
+    "Senior level"
+   ]
+  },
+  {
    "key": "greenhouse:cloudflare:8066589",
    "title": "Senior Systems Engineer",
    "company": "Cloudflare",
@@ -7695,6 +7666,27 @@
     "Healthcare signals: health care, provider network",
     "Onsite outside SoCal",
     "Senior level"
+   ]
+  },
+  {
+   "key": "2f17b3580de7c56b",
+   "title": "Engineering Manager, Site Reliability Engineering",
+   "company": "Baseten",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/baseten/engineering-manager-site-reliability-engineering-london-142894",
+   "location": "London",
+   "source": "arbeitnow",
+   "posted_at": "2026-11-07T21:40:15+00:00",
+   "first_seen_at": "2026-11-08T00:40:42.862350+00:00",
+   "score": 33,
+   "category": "Cloud",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: site reliability",
+    "Skills (7): terraform, networking, kubernetes, incident response, escalation, observability",
+    "Onsite outside SoCal"
    ]
   },
   {
@@ -8276,27 +8268,6 @@
    "salary": "",
    "why": [
     "Skills (8): entra, kubernetes, docker, incident response, monitoring, observability"
-   ]
-  },
-  {
-   "key": "40a4bc2c4bd21e23",
-   "title": "Data Scientist - Credit Risk Modelling",
-   "company": "iwoca",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/iwoca/data-scientist-credit-risk-modelling-london-314934",
-   "location": "London",
-   "source": "arbeitnow",
-   "posted_at": "2026-11-07T12:40:13+00:00",
-   "first_seen_at": "2026-11-07T16:51:19.606575+00:00",
-   "score": 32,
-   "category": "Other",
-   "remote": "Remote",
-   "shift": "overnight",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Skills (2): automation, monitoring",
-    "Shift match: overnight",
-    "Remote"
    ]
   },
   {
@@ -9219,28 +9190,6 @@
    "salary": "",
    "why": [
     "Skills (2): automation, sso",
-    "Healthcare signals: healthcare",
-    "Remote",
-    "Senior level"
-   ]
-  },
-  {
-   "key": "e1729aced7200bb9",
-   "title": "Senior Solution Architect (m/w/d)",
-   "company": "qinX",
-   "url": "https://www.arbeitnow.com/jobs/companies/qinx/remote-senior-solution-architect-munchen-414114",
-   "location": "Homeoffice",
-   "source": "arbeitnow",
-   "posted_at": "2026-11-07T03:31:30+00:00",
-   "first_seen_at": "2026-11-07T10:18:05.765097+00:00",
-   "score": 30,
-   "category": "Other",
-   "remote": "Remote",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Skills (2): azure, aws",
     "Healthcare signals: healthcare",
     "Remote",
     "Senior level"
@@ -11754,6 +11703,27 @@
    "why": [
     "Title match: infrastructure engineer",
     "Skills (5): networking, kubernetes, monitoring, observability, aws",
+    "Onsite outside SoCal"
+   ]
+  },
+  {
+   "key": "7185f7f45af01aba",
+   "title": "Platform Security Engineer",
+   "company": "Omnea",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/omnea/platform-security-engineer-london-418660",
+   "location": "London",
+   "source": "arbeitnow",
+   "posted_at": "2026-11-07T21:40:13+00:00",
+   "first_seen_at": "2026-11-08T00:40:42.862350+00:00",
+   "score": 25,
+   "category": "Cybersecurity",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: security engineer",
+    "Skills (5): networking, ci/cd, iac, soc 2, aws",
     "Onsite outside SoCal"
    ]
   }
