@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-14T14:11:32.890380+00:00",
- "signature": "fa5fb5a463c564389406b8aa6c3a5b2c38a70a1c",
- "count": 542,
+ "generated_at": "2026-11-14T19:12:30.551517+00:00",
+ "signature": "7cb27d46541c4af3edd12494dc0f9ccb72a3a6a3",
+ "count": 539,
  "jobs": [
   {
    "key": "greenhouse:zocdoc:8060755",
@@ -757,6 +757,28 @@
     "Skills (8): azure, terraform, networking, vpn, automation, aws",
     "Healthcare signals: healthcare",
     "Remote"
+   ]
+  },
+  {
+   "key": "4d493b4715896e98",
+   "title": "Senior Solutions Engineer",
+   "company": "Jfrog",
+   "url": "https://www.arbeitnow.com/jobs/companies/jfrog/senior-solutions-engineer-419652",
+   "location": "Remote",
+   "source": "arbeitnow",
+   "posted_at": "2026-11-14T15:55:21+00:00",
+   "first_seen_at": "2026-11-14T19:12:30.551517+00:00",
+   "score": 74,
+   "category": "Cloud",
+   "remote": "Remote",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: solutions engineer",
+    "Skills (7): azure, entra, kubernetes, docker, ci/cd, aws",
+    "Remote",
+    "Senior level"
    ]
   },
   {
@@ -1871,28 +1893,6 @@
    "why": [
     "Title match: site reliability",
     "Skills (13): azure, terraform, kubernetes, docker, ci/cd, iac",
-    "Onsite outside SoCal",
-    "Senior level"
-   ]
-  },
-  {
-   "key": "2673042ff79306e7",
-   "title": "Staff Site Reliability Engineer",
-   "company": "Uforce",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/uforce/staff-site-reliability-engineer-london-103122",
-   "location": "United Kingdom - London",
-   "source": "arbeitnow",
-   "posted_at": "2026-11-14T06:40:32+00:00",
-   "first_seen_at": "2026-11-14T14:11:32.890380+00:00",
-   "score": 55,
-   "category": "Cloud",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: site reliability",
-    "Skills (10): active directory, terraform, kubernetes, escalation, troubleshooting, automation",
     "Onsite outside SoCal",
     "Senior level"
    ]
@@ -4740,6 +4740,29 @@
    ]
   },
   {
+   "key": "be9af86906d8e2f3",
+   "title": "Senior Security Engineer - Detection & Response",
+   "company": "Klaviyo",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/klaviyo/senior-security-engineer-detection-response-london-313545",
+   "location": "London",
+   "source": "arbeitnow",
+   "posted_at": "2026-11-14T15:55:21+00:00",
+   "first_seen_at": "2026-11-14T19:12:30.551517+00:00",
+   "score": 41,
+   "category": "Cybersecurity",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: security engineer",
+    "Skills (5): entra, ci/cd, incident response, automation, siem",
+    "Healthcare signals: phi",
+    "Onsite outside SoCal",
+    "Senior level"
+   ]
+  },
+  {
    "key": "1cabd0074bb3bdce",
    "title": "Director of Product Management and IT Operations",
    "company": "Self Bill Pro",
@@ -6624,6 +6647,26 @@
    ]
   },
   {
+   "key": "cff126671031aa7a",
+   "title": "AI Solutions Architect",
+   "company": "Point72",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/point72/ai-solutions-architect-308782",
+   "location": "",
+   "source": "arbeitnow",
+   "posted_at": "2026-11-14T15:55:22+00:00",
+   "first_seen_at": "2026-11-14T19:12:30.551517+00:00",
+   "score": 36,
+   "category": "Cloud",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: solutions architect",
+    "Healthcare signals: phi"
+   ]
+  },
+  {
    "key": "ashby:openai:99f823a1-66ec-44bd-ba30-d3645aa49d74",
    "title": "AI Support Engineer - San Francisco (Weekend Shift)",
    "company": "OpenAI",
@@ -7678,27 +7721,6 @@
    ]
   },
   {
-   "key": "c6981ff8a8833fc6",
-   "title": "Senior Producer",
-   "company": "Scopely",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/scopely/senior-producer-gb-london-52935",
-   "location": "GB - London",
-   "source": "arbeitnow",
-   "posted_at": "2026-11-14T06:55:24+00:00",
-   "first_seen_at": "2026-11-14T14:11:32.890380+00:00",
-   "score": 34,
-   "category": "Other",
-   "remote": "Remote",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Skills (1): escalation",
-    "Remote (US)",
-    "Senior level"
-   ]
-  },
-  {
    "key": "d0c49bea4e1bb00c",
    "title": "Senior Security Operations Engineer",
    "company": "Samsara",
@@ -7719,34 +7741,13 @@
    ]
   },
   {
-   "key": "b090a42ba08e4a05",
-   "title": "AI Enablement Lead",
-   "company": "Uforce",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/uforce/remote-ai-enablement-lead-72857",
-   "location": "United Kingdom | Remote",
+   "key": "c6981ff8a8833fc6",
+   "title": "Senior Producer",
+   "company": "Scopely",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/scopely/senior-producer-gb-london-52935",
+   "location": "GB - London",
    "source": "arbeitnow",
-   "posted_at": "2026-11-14T06:40:32+00:00",
-   "first_seen_at": "2026-11-14T14:11:32.890380+00:00",
-   "score": 34,
-   "category": "Other",
-   "remote": "Remote",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Skills (1): automation",
-    "Remote (US)",
-    "Senior level"
-   ]
-  },
-  {
-   "key": "5f518d0b35cf1859",
-   "title": "Global PMO Lead",
-   "company": "Uforce",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/uforce/remote-global-pmo-lead-246365",
-   "location": "United Kingdom | Remote",
-   "source": "arbeitnow",
-   "posted_at": "2026-11-14T06:40:32+00:00",
+   "posted_at": "2026-11-14T06:55:24+00:00",
    "first_seen_at": "2026-11-14T14:11:32.890380+00:00",
    "score": 34,
    "category": "Other",
@@ -8435,27 +8436,6 @@
    ]
   },
   {
-   "key": "f6f55a1fb142e415",
-   "title": "Senior Sales Engineer, Enterprise",
-   "company": "Fivetran",
-   "url": "https://www.arbeitnow.com/jobs/companies/fivetran/remote-senior-sales-engineer-enterprise-158139",
-   "location": "Remote",
-   "source": "arbeitnow",
-   "posted_at": "2026-11-13T18:55:26+00:00",
-   "first_seen_at": "2026-11-13T23:36:43.826145+00:00",
-   "score": 32,
-   "category": "Other",
-   "remote": "Remote",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Skills (4): azure, linux, aws, gcp",
-    "Remote",
-    "Senior level"
-   ]
-  },
-  {
    "key": "greenhouse:databricks:8910846002",
    "title": "Associate Forward Deployed Engineer",
    "company": "Databricks",
@@ -8534,27 +8514,6 @@
    "salary": "",
    "why": [
     "Skills (4): networking, monitoring, observability, vulnerability",
-    "Remote",
-    "Senior level"
-   ]
-  },
-  {
-   "key": "84aa0563da3abb97",
-   "title": "Backend Engineer III",
-   "company": "Monzoreferrals",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/monzoreferrals/backend-engineer-iii-cardiff-307022",
-   "location": "Cardiff",
-   "source": "arbeitnow",
-   "posted_at": "2026-11-14T06:55:20+00:00",
-   "first_seen_at": "2026-11-14T14:11:32.890380+00:00",
-   "score": 32,
-   "category": "Other",
-   "remote": "Remote",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Skills (4): kubernetes, docker, aws, gcp",
     "Remote",
     "Senior level"
    ]
@@ -9955,27 +9914,6 @@
    "salary": "",
    "why": [
     "Skills (3): incident response, observability, aws",
-    "Remote",
-    "Senior level"
-   ]
-  },
-  {
-   "key": "816b5b50090cc123",
-   "title": "Staff Backend Engineer",
-   "company": "Monzoreferrals",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/monzoreferrals/staff-backend-engineer-cardiff-218856",
-   "location": "Cardiff",
-   "source": "arbeitnow",
-   "posted_at": "2026-11-14T06:55:20+00:00",
-   "first_seen_at": "2026-11-14T14:11:32.890380+00:00",
-   "score": 28,
-   "category": "Other",
-   "remote": "Remote",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Skills (3): kubernetes, docker, aws",
     "Remote",
     "Senior level"
    ]
