@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-21T11:11:37.283836+00:00",
- "signature": "6ada2d2a5588096942c345411e15bdd95877a0ca",
- "count": 515,
+ "generated_at": "2026-11-21T17:59:59.242377+00:00",
+ "signature": "2f7853984a4d1e6c8123f8dae809cbe1a30d2482",
+ "count": 539,
  "jobs": [
   {
    "key": "greenhouse:zocdoc:8060755",
@@ -899,28 +899,6 @@
    ]
   },
   {
-   "key": "43f9221b67990fa8",
-   "title": "Manager EDI",
-   "company": "Gravie",
-   "url": "https://remoteOK.com/remote-jobs/remote-manager-edi-gravie-1137804",
-   "location": "Remote",
-   "source": "remoteok",
-   "posted_at": "2026-11-18T16:00:25+00:00",
-   "first_seen_at": "2026-11-19T22:11:05.261928+00:00",
-   "score": 66,
-   "category": "Other",
-   "remote": "Remote",
-   "shift": "",
-   "healthcare": true,
-   "salary": "$110,625 - $147,500",
-   "why": [
-    "Skills (6): escalation, troubleshooting, nist, hipaa, automation, monitoring",
-    "Healthcare signals: healthcare, hipaa, fhir, payer",
-    "Remote",
-    "Salary $110,625 - $147,500"
-   ]
-  },
-  {
    "key": "greenhouse:databricks:8559315002",
    "title": "Delivery Solutions Architect - Public Sector",
    "company": "Databricks",
@@ -1696,11 +1674,11 @@
    ]
   },
   {
-   "key": "greenhouse:databricks:8755476002",
+   "key": "greenhouse:databricks:8755482002",
    "title": "Solutions Architect - Communications, Media, Entertainment and Games",
    "company": "Databricks",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8755476002",
-   "location": "Remote - New York",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8755482002",
+   "location": "Remote - Pennsylvania",
    "source": "greenhouse",
    "posted_at": "2026-11-19T21:47:39+00:00",
    "first_seen_at": "2026-08-27T20:33:11.048991+00:00",
@@ -1718,11 +1696,11 @@
    ]
   },
   {
-   "key": "greenhouse:databricks:8755482002",
+   "key": "greenhouse:databricks:8755476002",
    "title": "Solutions Architect - Communications, Media, Entertainment and Games",
    "company": "Databricks",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8755482002",
-   "location": "Remote - Pennsylvania",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8755476002",
+   "location": "Remote - New York",
    "source": "greenhouse",
    "posted_at": "2026-11-19T21:47:39+00:00",
    "first_seen_at": "2026-08-27T20:33:11.048991+00:00",
@@ -2482,27 +2460,6 @@
    ]
   },
   {
-   "key": "deebd4d6caa55a1e",
-   "title": "Senior/Lead Python Engineer",
-   "company": "Mimica",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/mimica/senior-lead-python-engineer-london-128931",
-   "location": "Remote Anywhere",
-   "source": "arbeitnow",
-   "posted_at": "2026-11-21T03:43:20+00:00",
-   "first_seen_at": "2026-11-21T11:11:37.283836+00:00",
-   "score": 50,
-   "category": "Other",
-   "remote": "Remote",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Skills (5): networking, troubleshooting, automation, monitoring, observability",
-    "Remote (US)",
-    "Senior level"
-   ]
-  },
-  {
    "key": "greenhouse:cloudflare:7629805",
    "title": "Senior Infrastructure Engineer, Storage Platform",
    "company": "Cloudflare",
@@ -2571,28 +2528,6 @@
    ]
   },
   {
-   "key": "greenhouse:datadog:7405822",
-   "title": "Enterprise Sales Executive",
-   "company": "Datadog",
-   "url": "https://careers.datadoghq.com/detail/7405822/?gh_jid=7405822",
-   "location": "Georgia, USA, Remote",
-   "source": "greenhouse",
-   "posted_at": "2026-11-05T17:12:56+00:00",
-   "first_seen_at": "2026-08-19T04:12:53.757863+00:00",
-   "score": 48,
-   "category": "Other",
-   "remote": "Remote",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Skills (3): networking, observability, identity",
-    "Healthcare signals: healthcare",
-    "Remote (US)",
-    "Senior level"
-   ]
-  },
-  {
    "key": "greenhouse:datadog:7465857",
    "title": "Enterprise Sales Executive",
    "company": "Datadog",
@@ -2620,6 +2555,28 @@
    "company": "Datadog",
    "url": "https://careers.datadoghq.com/detail/7466155/?gh_jid=7466155",
    "location": "Florida, USA, Remote",
+   "source": "greenhouse",
+   "posted_at": "2026-11-05T17:12:56+00:00",
+   "first_seen_at": "2026-08-19T04:12:53.757863+00:00",
+   "score": 48,
+   "category": "Other",
+   "remote": "Remote",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (3): networking, observability, identity",
+    "Healthcare signals: healthcare",
+    "Remote (US)",
+    "Senior level"
+   ]
+  },
+  {
+   "key": "greenhouse:datadog:7405822",
+   "title": "Enterprise Sales Executive",
+   "company": "Datadog",
+   "url": "https://careers.datadoghq.com/detail/7405822/?gh_jid=7405822",
+   "location": "Georgia, USA, Remote",
    "source": "greenhouse",
    "posted_at": "2026-11-05T17:12:56+00:00",
    "first_seen_at": "2026-08-19T04:12:53.757863+00:00",
@@ -2898,6 +2855,121 @@
    ]
   },
   {
+   "key": "1dc218e1d0a489af",
+   "title": "Senior Operations Associate",
+   "company": "Privateequityinsights",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/senior-operations-associate-london-218261",
+   "location": "London",
+   "source": "arbeitnow",
+   "posted_at": "2026-11-21T15:55:28+00:00",
+   "first_seen_at": "2026-11-21T17:59:59.242377+00:00",
+   "score": 48,
+   "category": "Cloud Operations/Support",
+   "remote": "Remote",
+   "shift": "after-hours",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (2): nist, sso",
+    "Healthcare signals: phi",
+    "Shift match: after-hours",
+    "Remote",
+    "Senior level"
+   ]
+  },
+  {
+   "key": "9834823bd9c38468",
+   "title": "Senior Event Operations Associate",
+   "company": "Privateequityinsights",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/senior-event-operations-associate-london-102522",
+   "location": "London",
+   "source": "arbeitnow",
+   "posted_at": "2026-11-21T15:55:28+00:00",
+   "first_seen_at": "2026-11-21T17:59:59.242377+00:00",
+   "score": 48,
+   "category": "Cloud Operations/Support",
+   "remote": "Remote",
+   "shift": "after-hours",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (2): nist, sso",
+    "Healthcare signals: phi",
+    "Shift match: after-hours",
+    "Remote",
+    "Senior level"
+   ]
+  },
+  {
+   "key": "770199a205b3b502",
+   "title": "Senior Event Logistics Associate",
+   "company": "Privateequityinsights",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/senior-event-logistics-associate-london-52044",
+   "location": "London",
+   "source": "arbeitnow",
+   "posted_at": "2026-11-21T15:55:28+00:00",
+   "first_seen_at": "2026-11-21T17:59:59.242377+00:00",
+   "score": 48,
+   "category": "Other",
+   "remote": "Remote",
+   "shift": "after-hours",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (2): nist, sso",
+    "Healthcare signals: phi",
+    "Shift match: after-hours",
+    "Remote",
+    "Senior level"
+   ]
+  },
+  {
+   "key": "6ce1caba18fbebe7",
+   "title": "Senior Event Associate",
+   "company": "Privateequityinsights",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/senior-event-associate-london-90789",
+   "location": "London",
+   "source": "arbeitnow",
+   "posted_at": "2026-11-21T15:55:28+00:00",
+   "first_seen_at": "2026-11-21T17:59:59.242377+00:00",
+   "score": 48,
+   "category": "Other",
+   "remote": "Remote",
+   "shift": "after-hours",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (2): nist, sso",
+    "Healthcare signals: phi",
+    "Shift match: after-hours",
+    "Remote",
+    "Senior level"
+   ]
+  },
+  {
+   "key": "019f1b40d45677db",
+   "title": "Senior Conference Operations Associate",
+   "company": "Privateequityinsights",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/senior-conference-operations-associate-london-281694",
+   "location": "London",
+   "source": "arbeitnow",
+   "posted_at": "2026-11-21T15:55:28+00:00",
+   "first_seen_at": "2026-11-21T17:59:59.242377+00:00",
+   "score": 48,
+   "category": "Cloud Operations/Support",
+   "remote": "Remote",
+   "shift": "after-hours",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (2): nist, sso",
+    "Healthcare signals: phi",
+    "Shift match: after-hours",
+    "Remote",
+    "Senior level"
+   ]
+  },
+  {
    "key": "greenhouse:cloudflare:8104955",
    "title": "Senior Systems Engineer, Identity & Access Management",
    "company": "Cloudflare",
@@ -2961,28 +3033,6 @@
     "Skills (8): terraform, networking, linux, kubernetes, incident response, automation",
     "Onsite outside SoCal",
     "Senior level"
-   ]
-  },
-  {
-   "key": "2f8fa8e5ae81cd5b",
-   "title": "Solutions Architect, Mid-Market (EMEA)",
-   "company": "Rogo",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/rogo/solutions-architect-mid-market-emea-london-98599",
-   "location": "London",
-   "source": "arbeitnow",
-   "posted_at": "2026-11-21T09:40:15+00:00",
-   "first_seen_at": "2026-11-21T11:11:37.283836+00:00",
-   "score": 47,
-   "category": "Cloud",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: solutions architect",
-    "Skills (9): azure, terraform, networking, kubernetes, automation, monitoring",
-    "Healthcare signals: phi",
-    "Onsite outside SoCal"
    ]
   },
   {
@@ -3586,6 +3636,581 @@
    ]
   },
   {
+   "key": "b7ced34dae704552",
+   "title": "Senior Operations Specialist",
+   "company": "Privateequityinsights",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/senior-operations-specialist-london-154277",
+   "location": "London",
+   "source": "arbeitnow",
+   "posted_at": "2026-11-21T15:55:28+00:00",
+   "first_seen_at": "2026-11-21T17:59:59.242377+00:00",
+   "score": 44,
+   "category": "Cloud Operations/Support",
+   "remote": "Remote",
+   "shift": "after-hours",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (1): nist",
+    "Healthcare signals: phi",
+    "Shift match: after-hours",
+    "Remote",
+    "Senior level"
+   ]
+  },
+  {
+   "key": "615c4d56384b351e",
+   "title": "Senior Operations Manager",
+   "company": "Privateequityinsights",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/senior-operations-manager-london-337578",
+   "location": "London",
+   "source": "arbeitnow",
+   "posted_at": "2026-11-21T15:55:28+00:00",
+   "first_seen_at": "2026-11-21T17:59:59.242377+00:00",
+   "score": 44,
+   "category": "Cloud Operations/Support",
+   "remote": "Remote",
+   "shift": "after-hours",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (1): nist",
+    "Healthcare signals: phi",
+    "Shift match: after-hours",
+    "Remote",
+    "Senior level"
+   ]
+  },
+  {
+   "key": "b1d8936b3e1d58d6",
+   "title": "Senior Operations Lead",
+   "company": "Privateequityinsights",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/senior-operations-lead-london-464290",
+   "location": "London",
+   "source": "arbeitnow",
+   "posted_at": "2026-11-21T15:55:28+00:00",
+   "first_seen_at": "2026-11-21T17:59:59.242377+00:00",
+   "score": 44,
+   "category": "Cloud Operations/Support",
+   "remote": "Remote",
+   "shift": "after-hours",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (1): nist",
+    "Healthcare signals: phi",
+    "Shift match: after-hours",
+    "Remote",
+    "Senior level"
+   ]
+  },
+  {
+   "key": "30d7b9b9b04b74c2",
+   "title": "Senior Operations Executive",
+   "company": "Privateequityinsights",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/senior-operations-executive-london-319790",
+   "location": "London",
+   "source": "arbeitnow",
+   "posted_at": "2026-11-21T15:55:28+00:00",
+   "first_seen_at": "2026-11-21T17:59:59.242377+00:00",
+   "score": 44,
+   "category": "Cloud Operations/Support",
+   "remote": "Remote",
+   "shift": "after-hours",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (1): nist",
+    "Healthcare signals: phi",
+    "Shift match: after-hours",
+    "Remote",
+    "Senior level"
+   ]
+  },
+  {
+   "key": "340d7976136182f4",
+   "title": "Senior Operations Coordinator",
+   "company": "Privateequityinsights",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/senior-operations-coordinator-london-157425",
+   "location": "London",
+   "source": "arbeitnow",
+   "posted_at": "2026-11-21T15:55:28+00:00",
+   "first_seen_at": "2026-11-21T17:59:59.242377+00:00",
+   "score": 44,
+   "category": "Cloud Operations/Support",
+   "remote": "Remote",
+   "shift": "after-hours",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (1): nist",
+    "Healthcare signals: phi",
+    "Shift match: after-hours",
+    "Remote",
+    "Senior level"
+   ]
+  },
+  {
+   "key": "6f7a13a0c0e95a00",
+   "title": "Senior Event Specialist",
+   "company": "Privateequityinsights",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/senior-event-specialist-london-279830",
+   "location": "London",
+   "source": "arbeitnow",
+   "posted_at": "2026-11-21T15:55:28+00:00",
+   "first_seen_at": "2026-11-21T17:59:59.242377+00:00",
+   "score": 44,
+   "category": "Other",
+   "remote": "Remote",
+   "shift": "after-hours",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (1): nist",
+    "Healthcare signals: phi",
+    "Shift match: after-hours",
+    "Remote",
+    "Senior level"
+   ]
+  },
+  {
+   "key": "3c0cc94ce529fa1b",
+   "title": "Senior Event Operations Specialist",
+   "company": "Privateequityinsights",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/senior-event-operations-specialist-london-111002",
+   "location": "London",
+   "source": "arbeitnow",
+   "posted_at": "2026-11-21T15:55:28+00:00",
+   "first_seen_at": "2026-11-21T17:59:59.242377+00:00",
+   "score": 44,
+   "category": "Cloud Operations/Support",
+   "remote": "Remote",
+   "shift": "after-hours",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (1): nist",
+    "Healthcare signals: phi",
+    "Shift match: after-hours",
+    "Remote",
+    "Senior level"
+   ]
+  },
+  {
+   "key": "ff33de2d8cf3ff0b",
+   "title": "Senior Event Operations Manager",
+   "company": "Privateequityinsights",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/senior-event-operations-manager-london-220930",
+   "location": "London",
+   "source": "arbeitnow",
+   "posted_at": "2026-11-21T15:55:28+00:00",
+   "first_seen_at": "2026-11-21T17:59:59.242377+00:00",
+   "score": 44,
+   "category": "Cloud Operations/Support",
+   "remote": "Remote",
+   "shift": "after-hours",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (1): nist",
+    "Healthcare signals: phi",
+    "Shift match: after-hours",
+    "Remote",
+    "Senior level"
+   ]
+  },
+  {
+   "key": "ec7c2d6b2deedcea",
+   "title": "Senior Event Operations Lead",
+   "company": "Privateequityinsights",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/senior-event-operations-lead-london-445960",
+   "location": "London",
+   "source": "arbeitnow",
+   "posted_at": "2026-11-21T15:55:28+00:00",
+   "first_seen_at": "2026-11-21T17:59:59.242377+00:00",
+   "score": 44,
+   "category": "Cloud Operations/Support",
+   "remote": "Remote",
+   "shift": "after-hours",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (1): nist",
+    "Healthcare signals: phi",
+    "Shift match: after-hours",
+    "Remote",
+    "Senior level"
+   ]
+  },
+  {
+   "key": "214544150ad6f93d",
+   "title": "Senior Event Operations Executive",
+   "company": "Privateequityinsights",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/senior-event-operations-executive-london-276710",
+   "location": "London",
+   "source": "arbeitnow",
+   "posted_at": "2026-11-21T15:55:28+00:00",
+   "first_seen_at": "2026-11-21T17:59:59.242377+00:00",
+   "score": 44,
+   "category": "Cloud Operations/Support",
+   "remote": "Remote",
+   "shift": "after-hours",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (1): nist",
+    "Healthcare signals: phi",
+    "Shift match: after-hours",
+    "Remote",
+    "Senior level"
+   ]
+  },
+  {
+   "key": "81ec633fdad09a3e",
+   "title": "Senior Event Operations Coordinator",
+   "company": "Privateequityinsights",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/senior-event-operations-coordinator-london-355168",
+   "location": "London",
+   "source": "arbeitnow",
+   "posted_at": "2026-11-21T15:55:28+00:00",
+   "first_seen_at": "2026-11-21T17:59:59.242377+00:00",
+   "score": 44,
+   "category": "Cloud Operations/Support",
+   "remote": "Remote",
+   "shift": "after-hours",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (1): nist",
+    "Healthcare signals: phi",
+    "Shift match: after-hours",
+    "Remote",
+    "Senior level"
+   ]
+  },
+  {
+   "key": "212a2bdfcfa7c88c",
+   "title": "Senior Event Manager",
+   "company": "Privateequityinsights",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/senior-event-manager-london-387329",
+   "location": "London",
+   "source": "arbeitnow",
+   "posted_at": "2026-11-21T15:55:28+00:00",
+   "first_seen_at": "2026-11-21T17:59:59.242377+00:00",
+   "score": 44,
+   "category": "Other",
+   "remote": "Remote",
+   "shift": "after-hours",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (1): nist",
+    "Healthcare signals: phi",
+    "Shift match: after-hours",
+    "Remote",
+    "Senior level"
+   ]
+  },
+  {
+   "key": "8cae55feef55397f",
+   "title": "Senior Event Logistics Specialist",
+   "company": "Privateequityinsights",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/senior-event-logistics-specialist-london-316483",
+   "location": "London",
+   "source": "arbeitnow",
+   "posted_at": "2026-11-21T15:55:28+00:00",
+   "first_seen_at": "2026-11-21T17:59:59.242377+00:00",
+   "score": 44,
+   "category": "Other",
+   "remote": "Remote",
+   "shift": "after-hours",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (1): nist",
+    "Healthcare signals: phi",
+    "Shift match: after-hours",
+    "Remote",
+    "Senior level"
+   ]
+  },
+  {
+   "key": "6acb452e7ff95871",
+   "title": "Senior Event Logistics Manager",
+   "company": "Privateequityinsights",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/senior-event-logistics-manager-london-38518",
+   "location": "London",
+   "source": "arbeitnow",
+   "posted_at": "2026-11-21T15:55:28+00:00",
+   "first_seen_at": "2026-11-21T17:59:59.242377+00:00",
+   "score": 44,
+   "category": "Other",
+   "remote": "Remote",
+   "shift": "after-hours",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (1): nist",
+    "Healthcare signals: phi",
+    "Shift match: after-hours",
+    "Remote",
+    "Senior level"
+   ]
+  },
+  {
+   "key": "ead60267fe2abf03",
+   "title": "Senior Event Logistics Lead",
+   "company": "Privateequityinsights",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/senior-event-logistics-lead-london-142584",
+   "location": "London",
+   "source": "arbeitnow",
+   "posted_at": "2026-11-21T15:55:28+00:00",
+   "first_seen_at": "2026-11-21T17:59:59.242377+00:00",
+   "score": 44,
+   "category": "Other",
+   "remote": "Remote",
+   "shift": "after-hours",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (1): nist",
+    "Healthcare signals: phi",
+    "Shift match: after-hours",
+    "Remote",
+    "Senior level"
+   ]
+  },
+  {
+   "key": "d06e7e95f1877c12",
+   "title": "Senior Event Logistics Executive",
+   "company": "Privateequityinsights",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/senior-event-logistics-executive-london-347210",
+   "location": "London",
+   "source": "arbeitnow",
+   "posted_at": "2026-11-21T15:55:28+00:00",
+   "first_seen_at": "2026-11-21T17:59:59.242377+00:00",
+   "score": 44,
+   "category": "Other",
+   "remote": "Remote",
+   "shift": "after-hours",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (1): nist",
+    "Healthcare signals: phi",
+    "Shift match: after-hours",
+    "Remote",
+    "Senior level"
+   ]
+  },
+  {
+   "key": "49d34209119e8fff",
+   "title": "Senior Event Logistics Coordinator",
+   "company": "Privateequityinsights",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/senior-event-logistics-coordinator-london-353934",
+   "location": "London",
+   "source": "arbeitnow",
+   "posted_at": "2026-11-21T15:55:28+00:00",
+   "first_seen_at": "2026-11-21T17:59:59.242377+00:00",
+   "score": 44,
+   "category": "Other",
+   "remote": "Remote",
+   "shift": "after-hours",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (1): nist",
+    "Healthcare signals: phi",
+    "Shift match: after-hours",
+    "Remote",
+    "Senior level"
+   ]
+  },
+  {
+   "key": "b171e0b5235253bb",
+   "title": "Senior Event Lead",
+   "company": "Privateequityinsights",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/senior-event-lead-london-119685",
+   "location": "London",
+   "source": "arbeitnow",
+   "posted_at": "2026-11-21T15:55:28+00:00",
+   "first_seen_at": "2026-11-21T17:59:59.242377+00:00",
+   "score": 44,
+   "category": "Other",
+   "remote": "Remote",
+   "shift": "after-hours",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (1): nist",
+    "Healthcare signals: phi",
+    "Shift match: after-hours",
+    "Remote",
+    "Senior level"
+   ]
+  },
+  {
+   "key": "30775c50478fffb8",
+   "title": "Senior Event Executive",
+   "company": "Privateequityinsights",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/senior-event-executive-london-244756",
+   "location": "London",
+   "source": "arbeitnow",
+   "posted_at": "2026-11-21T15:55:28+00:00",
+   "first_seen_at": "2026-11-21T17:59:59.242377+00:00",
+   "score": 44,
+   "category": "Other",
+   "remote": "Remote",
+   "shift": "after-hours",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (1): nist",
+    "Healthcare signals: phi",
+    "Shift match: after-hours",
+    "Remote",
+    "Senior level"
+   ]
+  },
+  {
+   "key": "b1c7d3c6580f9a48",
+   "title": "Senior Event Coordinator",
+   "company": "Privateequityinsights",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/senior-event-coordinator-london-159612",
+   "location": "London",
+   "source": "arbeitnow",
+   "posted_at": "2026-11-21T15:55:28+00:00",
+   "first_seen_at": "2026-11-21T17:59:59.242377+00:00",
+   "score": 44,
+   "category": "Other",
+   "remote": "Remote",
+   "shift": "after-hours",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (1): nist",
+    "Healthcare signals: phi",
+    "Shift match: after-hours",
+    "Remote",
+    "Senior level"
+   ]
+  },
+  {
+   "key": "e261eb99a5e4b0b5",
+   "title": "Senior Conference Operations Specialist",
+   "company": "Privateequityinsights",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/senior-conference-operations-specialist-london-319777",
+   "location": "London",
+   "source": "arbeitnow",
+   "posted_at": "2026-11-21T15:55:28+00:00",
+   "first_seen_at": "2026-11-21T17:59:59.242377+00:00",
+   "score": 44,
+   "category": "Cloud Operations/Support",
+   "remote": "Remote",
+   "shift": "after-hours",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (1): nist",
+    "Healthcare signals: phi",
+    "Shift match: after-hours",
+    "Remote",
+    "Senior level"
+   ]
+  },
+  {
+   "key": "678cab9063bccb98",
+   "title": "Senior Conference Operations Manager",
+   "company": "Privateequityinsights",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/senior-conference-operations-manager-london-359593",
+   "location": "London",
+   "source": "arbeitnow",
+   "posted_at": "2026-11-21T15:55:28+00:00",
+   "first_seen_at": "2026-11-21T17:59:59.242377+00:00",
+   "score": 44,
+   "category": "Cloud Operations/Support",
+   "remote": "Remote",
+   "shift": "after-hours",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (1): nist",
+    "Healthcare signals: phi",
+    "Shift match: after-hours",
+    "Remote",
+    "Senior level"
+   ]
+  },
+  {
+   "key": "bc34ed58c61f4dab",
+   "title": "Senior Conference Operations Lead",
+   "company": "Privateequityinsights",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/senior-conference-operations-lead-london-421664",
+   "location": "London",
+   "source": "arbeitnow",
+   "posted_at": "2026-11-21T15:55:28+00:00",
+   "first_seen_at": "2026-11-21T17:59:59.242377+00:00",
+   "score": 44,
+   "category": "Cloud Operations/Support",
+   "remote": "Remote",
+   "shift": "after-hours",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (1): nist",
+    "Healthcare signals: phi",
+    "Shift match: after-hours",
+    "Remote",
+    "Senior level"
+   ]
+  },
+  {
+   "key": "756b93bc0f17b350",
+   "title": "Senior Conference Operations Executive",
+   "company": "Privateequityinsights",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/senior-conference-operations-executive-london-459672",
+   "location": "London",
+   "source": "arbeitnow",
+   "posted_at": "2026-11-21T15:55:28+00:00",
+   "first_seen_at": "2026-11-21T17:59:59.242377+00:00",
+   "score": 44,
+   "category": "Cloud Operations/Support",
+   "remote": "Remote",
+   "shift": "after-hours",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (1): nist",
+    "Healthcare signals: phi",
+    "Shift match: after-hours",
+    "Remote",
+    "Senior level"
+   ]
+  },
+  {
+   "key": "d7834062b796934b",
+   "title": "Senior Conference Operations Coordinator",
+   "company": "Privateequityinsights",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/senior-conference-operations-coordinator-london-98853",
+   "location": "London",
+   "source": "arbeitnow",
+   "posted_at": "2026-11-21T15:55:28+00:00",
+   "first_seen_at": "2026-11-21T17:59:59.242377+00:00",
+   "score": 44,
+   "category": "Cloud Operations/Support",
+   "remote": "Remote",
+   "shift": "after-hours",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (1): nist",
+    "Healthcare signals: phi",
+    "Shift match: after-hours",
+    "Remote",
+    "Senior level"
+   ]
+  },
+  {
    "key": "greenhouse:databricks:8337391002",
    "title": "Sr. Technical Solutions Engineer - Platform (Support)",
    "company": "Databricks",
@@ -3779,34 +4404,11 @@
    ]
   },
   {
-   "key": "greenhouse:databricks:8494143002",
+   "key": "greenhouse:databricks:8494146002",
    "title": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
    "company": "Databricks",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494143002",
-   "location": "Chicago, Illinois",
-   "source": "greenhouse",
-   "posted_at": "2026-11-19T21:47:39+00:00",
-   "first_seen_at": "2026-08-21T17:47:42.253585+00:00",
-   "score": 42,
-   "category": "Healthcare IT",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": true,
-   "salary": "",
-   "why": [
-    "Healthcare title: healthcare",
-    "Skills (5): azure, entra, ci/cd, aws, gcp",
-    "Healthcare signals: healthcare, life sciences",
-    "Onsite outside SoCal",
-    "Senior level"
-   ]
-  },
-  {
-   "key": "greenhouse:databricks:8494144002",
-   "title": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
-   "company": "Databricks",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494144002",
-   "location": "Dallas, Texas",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494146002",
+   "location": "Atlanta, Georgia",
    "source": "greenhouse",
    "posted_at": "2026-11-19T21:47:39+00:00",
    "first_seen_at": "2026-08-21T17:47:42.253585+00:00",
@@ -3848,6 +4450,29 @@
    ]
   },
   {
+   "key": "greenhouse:databricks:8494144002",
+   "title": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
+   "company": "Databricks",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494144002",
+   "location": "Dallas, Texas",
+   "source": "greenhouse",
+   "posted_at": "2026-11-19T21:47:39+00:00",
+   "first_seen_at": "2026-08-21T17:47:42.253585+00:00",
+   "score": 42,
+   "category": "Healthcare IT",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": true,
+   "salary": "",
+   "why": [
+    "Healthcare title: healthcare",
+    "Skills (5): azure, entra, ci/cd, aws, gcp",
+    "Healthcare signals: healthcare, life sciences",
+    "Onsite outside SoCal",
+    "Senior level"
+   ]
+  },
+  {
    "key": "greenhouse:databricks:8371312002",
    "title": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
    "company": "Databricks",
@@ -3871,11 +4496,11 @@
    ]
   },
   {
-   "key": "greenhouse:databricks:8494146002",
+   "key": "greenhouse:databricks:8494143002",
    "title": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
    "company": "Databricks",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494146002",
-   "location": "Atlanta, Georgia",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494143002",
+   "location": "Chicago, Illinois",
    "source": "greenhouse",
    "posted_at": "2026-11-19T21:47:39+00:00",
    "first_seen_at": "2026-08-21T17:47:42.253585+00:00",
@@ -4927,11 +5552,11 @@
    ]
   },
   {
-   "key": "greenhouse:databricks:6544435002",
+   "key": "greenhouse:databricks:4799387002",
    "title": "Senior Software Engineer - Backend",
    "company": "Databricks",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6544435002",
-   "location": "Mountain View, California",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=4799387002",
+   "location": "San Francisco, California",
    "source": "greenhouse",
    "posted_at": "2026-11-19T21:47:39+00:00",
    "first_seen_at": "2026-08-21T17:47:42.253585+00:00",
@@ -4948,11 +5573,11 @@
    ]
   },
   {
-   "key": "greenhouse:databricks:4799387002",
+   "key": "greenhouse:databricks:6544435002",
    "title": "Senior Software Engineer - Backend",
    "company": "Databricks",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=4799387002",
-   "location": "San Francisco, California",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6544435002",
+   "location": "Mountain View, California",
    "source": "greenhouse",
    "posted_at": "2026-11-19T21:47:39+00:00",
    "first_seen_at": "2026-08-21T17:47:42.253585+00:00",
@@ -5406,49 +6031,6 @@
    ]
   },
   {
-   "key": "2a3359c82e3eef6d",
-   "title": "AI Resident UK/EMEA",
-   "company": "Ema",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/ema/ai-resident-uk-emea-london-385504",
-   "location": "United Kingdom (Remote)",
-   "source": "arbeitnow",
-   "posted_at": "2026-11-21T06:40:13+00:00",
-   "first_seen_at": "2026-11-21T11:11:37.283836+00:00",
-   "score": 38,
-   "category": "Other",
-   "remote": "Remote",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Skills (8): azure, networking, linux, kubernetes, ci/cd, observability",
-    "Remote"
-   ]
-  },
-  {
-   "key": "e49bccf0d7c8ef96",
-   "title": "Director of Practice and Clinical Services - Small Animal",
-   "company": "Ivcevidensia",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/ivcevidensia/director-of-practice-and-clinical-services-small-animal-brayton-north-yorkshire-england-287674",
-   "location": "Brayton, North Yorkshire, England",
-   "source": "arbeitnow",
-   "posted_at": "2026-11-21T03:26:46+00:00",
-   "first_seen_at": "2026-11-21T11:11:37.283836+00:00",
-   "score": 38,
-   "category": "Healthcare IT",
-   "remote": "Onsite",
-   "shift": "saturday",
-   "healthcare": true,
-   "salary": "",
-   "why": [
-    "Healthcare title: clinical",
-    "Skills (2): iac, monitoring",
-    "Healthcare signals: clinical, patient",
-    "Shift match: saturday",
-    "Onsite outside SoCal"
-   ]
-  },
-  {
    "key": "greenhouse:databricks:8476064002",
    "title": "Sr. Solutions Architect",
    "company": "Databricks",
@@ -5665,11 +6247,11 @@
    ]
   },
   {
-   "key": "greenhouse:databricks:6544364002",
+   "key": "greenhouse:databricks:5646855002",
    "title": "Staff Software Engineer - Distributed Data Systems",
    "company": "Databricks",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6544364002",
-   "location": "Mountain View, California",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=5646855002",
+   "location": "San Francisco, California",
    "source": "greenhouse",
    "posted_at": "2026-11-19T21:47:39+00:00",
    "first_seen_at": "2026-08-21T17:47:42.253585+00:00",
@@ -5687,11 +6269,11 @@
    ]
   },
   {
-   "key": "greenhouse:databricks:5646855002",
+   "key": "greenhouse:databricks:6544364002",
    "title": "Staff Software Engineer - Distributed Data Systems",
    "company": "Databricks",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=5646855002",
-   "location": "San Francisco, California",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6544364002",
+   "location": "Mountain View, California",
    "source": "greenhouse",
    "posted_at": "2026-11-19T21:47:39+00:00",
    "first_seen_at": "2026-08-21T17:47:42.253585+00:00",
@@ -6500,6 +7082,28 @@
    "why": [
     "Title match: platform engineer",
     "Skills (5): entra, terraform, linux, kubernetes, automation",
+    "Onsite outside SoCal",
+    "Senior level"
+   ]
+  },
+  {
+   "key": "greenhouse:cloudflare:8406944",
+   "title": "Senior Platform Engineer, Replicate",
+   "company": "Cloudflare",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8406944?gh_jid=8406944",
+   "location": "In-Office",
+   "source": "greenhouse",
+   "posted_at": "2026-11-21T17:47:15+00:00",
+   "first_seen_at": "2026-11-21T17:59:59.242377+00:00",
+   "score": 35,
+   "category": "Cloud",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: platform engineer",
+    "Skills (5): networking, kubernetes, observability, aws, gcp",
     "Onsite outside SoCal",
     "Senior level"
    ]
@@ -7431,11 +8035,11 @@
    ]
   },
   {
-   "key": "greenhouse:databricks:4513122002",
+   "key": "greenhouse:databricks:6544325002",
    "title": "Senior Software Engineer - Distributed Data Systems",
    "company": "Databricks",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=4513122002",
-   "location": "San Francisco, California",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6544325002",
+   "location": "Mountain View, California",
    "source": "greenhouse",
    "posted_at": "2026-11-19T21:47:39+00:00",
    "first_seen_at": "2026-08-21T17:47:42.253585+00:00",
@@ -7453,11 +8057,11 @@
    ]
   },
   {
-   "key": "greenhouse:databricks:6544325002",
+   "key": "greenhouse:databricks:4513122002",
    "title": "Senior Software Engineer - Distributed Data Systems",
    "company": "Databricks",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6544325002",
-   "location": "Mountain View, California",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=4513122002",
+   "location": "San Francisco, California",
    "source": "greenhouse",
    "posted_at": "2026-11-19T21:47:39+00:00",
    "first_seen_at": "2026-08-21T17:47:42.253585+00:00",
@@ -7841,6 +8445,27 @@
    ]
   },
   {
+   "key": "fc5ddbf4c763bba1",
+   "title": "Principal Enterprise Architect - AI & Cloud Integrations",
+   "company": "celonis",
+   "url": "https://www.arbeitnow.nl/jobs/companies/celonis/remote-principal-enterprise-architect-ai-cloud-integrations-162065",
+   "location": "Remote",
+   "source": "arbeitnow",
+   "posted_at": "2026-11-21T15:55:26+00:00",
+   "first_seen_at": "2026-11-21T17:59:59.242377+00:00",
+   "score": 32,
+   "category": "Other",
+   "remote": "Remote",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (4): azure, automation, aws, gcp",
+    "Remote",
+    "Senior level"
+   ]
+  },
+  {
    "key": "greenhouse:cloudflare:8050813",
    "title": "Systems Engineer, Data Intelligence & Analytics Team",
    "company": "Cloudflare",
@@ -7907,11 +8532,33 @@
    ]
   },
   {
-   "key": "greenhouse:databricks:8720252002",
+   "key": "greenhouse:databricks:8720251002",
    "title": "Senior Solutions Architect (EDW Enterprise Data Warehouse Migrations)",
    "company": "Databricks",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8720252002",
-   "location": "Amsterdam, Netherlands",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8720251002",
+   "location": "Paris, France",
+   "source": "greenhouse",
+   "posted_at": "2026-11-19T21:47:39+00:00",
+   "first_seen_at": "2026-08-21T17:47:42.253585+00:00",
+   "score": 31,
+   "category": "Cloud",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: solutions architect",
+    "Skills (4): azure, escalation, aws, gcp",
+    "Onsite outside SoCal",
+    "Senior level"
+   ]
+  },
+  {
+   "key": "greenhouse:databricks:8704938002",
+   "title": "Senior Solutions Architect (EDW Enterprise Data Warehouse Migrations)",
+   "company": "Databricks",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8704938002",
+   "location": "London, United Kingdom",
    "source": "greenhouse",
    "posted_at": "2026-11-19T21:47:39+00:00",
    "first_seen_at": "2026-08-21T17:47:42.253585+00:00",
@@ -7973,33 +8620,11 @@
    ]
   },
   {
-   "key": "greenhouse:databricks:8720251002",
+   "key": "greenhouse:databricks:8720252002",
    "title": "Senior Solutions Architect (EDW Enterprise Data Warehouse Migrations)",
    "company": "Databricks",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8720251002",
-   "location": "Paris, France",
-   "source": "greenhouse",
-   "posted_at": "2026-11-19T21:47:39+00:00",
-   "first_seen_at": "2026-08-21T17:47:42.253585+00:00",
-   "score": 31,
-   "category": "Cloud",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: solutions architect",
-    "Skills (4): azure, escalation, aws, gcp",
-    "Onsite outside SoCal",
-    "Senior level"
-   ]
-  },
-  {
-   "key": "greenhouse:databricks:8704938002",
-   "title": "Senior Solutions Architect (EDW Enterprise Data Warehouse Migrations)",
-   "company": "Databricks",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8704938002",
-   "location": "London, United Kingdom",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8720252002",
+   "location": "Amsterdam, Netherlands",
    "source": "greenhouse",
    "posted_at": "2026-11-19T21:47:39+00:00",
    "first_seen_at": "2026-08-21T17:47:42.253585+00:00",
@@ -8278,6 +8903,28 @@
     "Healthcare signals: healthcare, hipaa, clinical, patient",
     "Shift match: saturday",
     "Onsite outside SoCal"
+   ]
+  },
+  {
+   "key": "b4b50d05479bd103",
+   "title": "Staff DevSecOps Engineer",
+   "company": "ionq",
+   "url": "https://www.arbeitnow.ch/jobs/companies/ionq/staff-devsecops-engineer-geneva-261399",
+   "location": "Geneva",
+   "source": "arbeitnow",
+   "posted_at": "2026-11-21T12:55:31+00:00",
+   "first_seen_at": "2026-11-21T17:59:59.242377+00:00",
+   "score": 31,
+   "category": "Cybersecurity",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: devsecops",
+    "Skills (4): networking, ci/cd, automation, vulnerability",
+    "Onsite outside SoCal",
+    "Senior level"
    ]
   },
   {
@@ -8748,6 +9395,26 @@
    ]
   },
   {
+   "key": "67a93c7e05b902b6",
+   "title": "Senior Sales Operations Manager (EMEA Central)",
+   "company": "Sentinellabs",
+   "url": "https://www.arbeitnow.nl/jobs/companies/sentinellabs/senior-sales-operations-manager-emea-central-354873",
+   "location": "",
+   "source": "arbeitnow",
+   "posted_at": "2026-11-20T21:55:19+00:00",
+   "first_seen_at": "2026-11-21T02:21:15.058659+00:00",
+   "score": 30,
+   "category": "Cloud Operations/Support",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (5): entra, sentinel, automation, monitoring, identity",
+    "Senior level"
+   ]
+  },
+  {
    "key": "1c6454e36d04e8dc",
    "title": "Account Development Representative I - DACH",
    "company": "Camunda",
@@ -8766,26 +9433,6 @@
     "Skills (2): automation, monitoring",
     "Healthcare signals: hospital",
     "Remote",
-    "Senior level"
-   ]
-  },
-  {
-   "key": "67a93c7e05b902b6",
-   "title": "Senior Sales Operations Manager (EMEA Central)",
-   "company": "Sentinellabs",
-   "url": "https://www.arbeitnow.nl/jobs/companies/sentinellabs/senior-sales-operations-manager-emea-central-354873",
-   "location": "",
-   "source": "arbeitnow",
-   "posted_at": "2026-11-20T21:55:19+00:00",
-   "first_seen_at": "2026-11-21T02:21:15.058659+00:00",
-   "score": 30,
-   "category": "Cloud Operations/Support",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Skills (5): entra, sentinel, automation, monitoring, identity",
     "Senior level"
    ]
   },
@@ -8855,11 +9502,11 @@
    ]
   },
   {
-   "key": "greenhouse:databricks:8585164002",
+   "key": "greenhouse:databricks:8593505002",
    "title": "Specialist Solutions Architect - AI/ML",
    "company": "Databricks",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8585164002",
-   "location": "Bengaluru, India",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8593505002",
+   "location": "Mumbai, India",
    "source": "greenhouse",
    "posted_at": "2026-11-19T21:47:39+00:00",
    "first_seen_at": "2026-09-01T05:14:25.796021+00:00",
@@ -8876,11 +9523,11 @@
    ]
   },
   {
-   "key": "greenhouse:databricks:8593505002",
+   "key": "greenhouse:databricks:8585164002",
    "title": "Specialist Solutions Architect - AI/ML",
    "company": "Databricks",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8593505002",
-   "location": "Mumbai, India",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8585164002",
+   "location": "Bengaluru, India",
    "source": "greenhouse",
    "posted_at": "2026-11-19T21:47:39+00:00",
    "first_seen_at": "2026-09-01T05:14:25.796021+00:00",
@@ -9069,26 +9716,6 @@
    "why": [
     "Remote (California)",
     "Senior level"
-   ]
-  },
-  {
-   "key": "greenhouse:databricks:8735590002",
-   "title": "Director, Marketing Strategy and AI Transformation",
-   "company": "Databricks",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8735590002",
-   "location": "United States",
-   "source": "greenhouse",
-   "posted_at": "2026-11-19T21:47:39+00:00",
-   "first_seen_at": "2026-08-28T18:45:45.837534+00:00",
-   "score": 28,
-   "category": "Other",
-   "remote": "Remote",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Skills (2): entra, automation",
-    "Remote (US)"
    ]
   },
   {
@@ -9325,27 +9952,6 @@
     "Healthcare signals: clinical, patient, medtech",
     "Onsite outside SoCal",
     "Senior level"
-   ]
-  },
-  {
-   "key": "a95ef4bed9aa8559",
-   "title": "Backend Engineer - Acquisition Technology",
-   "company": "iwoca",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/iwoca/backend-engineer-acquisition-technology-london-56026",
-   "location": "London",
-   "source": "arbeitnow",
-   "posted_at": "2026-11-21T03:43:20+00:00",
-   "first_seen_at": "2026-11-21T11:11:37.283836+00:00",
-   "score": 28,
-   "category": "Other",
-   "remote": "Remote",
-   "shift": "overnight",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Skills (1): monitoring",
-    "Shift match: overnight",
-    "Remote"
    ]
   },
   {
@@ -10477,27 +11083,6 @@
    ]
   },
   {
-   "key": "c7a318fe4de9c264",
-   "title": "Legal Engineering Counsel",
-   "company": "Stedi",
-   "url": "https://remoteOK.com/remote-jobs/remote-legal-engineering-counsel-stedi-1137803",
-   "location": "Remote",
-   "source": "remoteok",
-   "posted_at": "2026-11-18T16:00:19+00:00",
-   "first_seen_at": "2026-11-19T22:11:05.261928+00:00",
-   "score": 26,
-   "category": "Other",
-   "remote": "Remote",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Skills (2): escalation, automation",
-    "Healthcare signals: healthcare, payer",
-    "Remote"
-   ]
-  },
-  {
    "key": "094def2458a1b2e7",
    "title": "Engineering Lead, Clinical Operations",
    "company": "Clover Health",
@@ -10517,28 +11102,6 @@
     "Skills (1): entra",
     "Healthcare signals: healthcare, clinical",
     "Onsite outside SoCal",
-    "Senior level"
-   ]
-  },
-  {
-   "key": "6398560b65b806c7",
-   "title": "Senior Product Marketing Manager - EMEA",
-   "company": "Camunda",
-   "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-product-marketing-manager-emea-383561",
-   "location": "Remote",
-   "source": "arbeitnow",
-   "posted_at": "2026-11-20T21:40:15+00:00",
-   "first_seen_at": "2026-11-21T02:21:15.058659+00:00",
-   "score": 26,
-   "category": "Other",
-   "remote": "Remote",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Skills (1): automation",
-    "Healthcare signals: healthcare",
-    "Remote",
     "Senior level"
    ]
   },
@@ -10563,23 +11126,23 @@
    ]
   },
   {
-   "key": "362ab406dd6b56bf",
-   "title": "Senior Manager- Asset Management and Operations",
-   "company": "Baringa",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/baringa/remote-senior-manager-asset-management-and-operations-71005",
-   "location": "London; Remote",
+   "key": "6398560b65b806c7",
+   "title": "Senior Product Marketing Manager - EMEA",
+   "company": "Camunda",
+   "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-product-marketing-manager-emea-383561",
+   "location": "Remote",
    "source": "arbeitnow",
-   "posted_at": "2026-11-21T09:55:16+00:00",
-   "first_seen_at": "2026-11-21T11:11:37.283836+00:00",
+   "posted_at": "2026-11-20T21:40:15+00:00",
+   "first_seen_at": "2026-11-21T02:21:15.058659+00:00",
    "score": 26,
-   "category": "Cloud Operations/Support",
+   "category": "Other",
    "remote": "Remote",
    "shift": "",
    "healthcare": false,
    "salary": "",
    "why": [
-    "Skills (1): monitoring",
-    "Healthcare signals: life sciences",
+    "Skills (1): automation",
+    "Healthcare signals: healthcare",
     "Remote",
     "Senior level"
    ]
@@ -10698,11 +11261,11 @@
    ]
   },
   {
-   "key": "greenhouse:datadog:8141243",
+   "key": "greenhouse:datadog:8141240",
    "title": "Senior Security Sales Engineer",
    "company": "Datadog",
-   "url": "https://careers.datadoghq.com/detail/8141243/?gh_jid=8141243",
-   "location": "California, USA, Remote; Colorado, USA, Remote; Washington, USA, Remote",
+   "url": "https://careers.datadoghq.com/detail/8141240/?gh_jid=8141240",
+   "location": "Florida, USA, Remote; Georgia, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote",
    "source": "greenhouse",
    "posted_at": "2026-11-05T17:12:56+00:00",
    "first_seen_at": "2026-08-19T08:56:34.050171+00:00",
@@ -10721,11 +11284,11 @@
    ]
   },
   {
-   "key": "greenhouse:datadog:8141240",
+   "key": "greenhouse:datadog:8141243",
    "title": "Senior Security Sales Engineer",
    "company": "Datadog",
-   "url": "https://careers.datadoghq.com/detail/8141240/?gh_jid=8141240",
-   "location": "Florida, USA, Remote; Georgia, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote",
+   "url": "https://careers.datadoghq.com/detail/8141243/?gh_jid=8141243",
+   "location": "California, USA, Remote; Colorado, USA, Remote; Washington, USA, Remote",
    "source": "greenhouse",
    "posted_at": "2026-11-05T17:12:56+00:00",
    "first_seen_at": "2026-08-19T08:56:34.050171+00:00",
