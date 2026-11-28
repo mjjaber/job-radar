@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-27T22:00:08.694247+00:00",
- "signature": "294b42af822ae6c54c5cd0d807d125abaacf0238",
+ "generated_at": "2026-11-28T03:56:04.923416+00:00",
+ "signature": "3cfc31fb673cab8a9352bb04a121064a701eb31a",
  "count": 524,
  "jobs": [
   {
@@ -99,29 +99,6 @@
    ]
   },
   {
-   "key": "dbf2597a011ba0b1",
-   "title": "Senior Identity Security Engineer",
-   "company": "Scopely",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/scopely/senior-identity-security-engineer-gb-london-387474",
-   "location": "GB - London",
-   "source": "arbeitnow",
-   "posted_at": "2026-11-27T15:55:23+00:00",
-   "first_seen_at": "2026-11-27T22:00:08.694247+00:00",
-   "score": 92,
-   "category": "Cybersecurity",
-   "remote": "Remote",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: security engineer",
-    "Skills (11): terraform, ci/cd, zero trust, escalation, automation, observability",
-    "Healthcare signals: phi",
-    "Remote",
-    "Senior level"
-   ]
-  },
-  {
    "key": "greenhouse:cloudflare:8329758",
    "title": "Technical Support Engineer, Zero Trust",
    "company": "Cloudflare",
@@ -211,28 +188,6 @@
     "Skills (3): azure, aws, gcp",
     "Healthcare signals: healthcare, fhir, hl7",
     "Remote (California)",
-    "Senior level"
-   ]
-  },
-  {
-   "key": "212d6f5c75077f09",
-   "title": "Senior DevSecOps Engineer",
-   "company": "360Learning",
-   "url": "https://www.arbeitnow.fr/jobs/companies/360learning/remote-senior-devsecops-engineer-349434",
-   "location": "Paris, Remote",
-   "source": "arbeitnow",
-   "posted_at": "2026-11-27T03:08:19+00:00",
-   "first_seen_at": "2026-11-27T12:30:57.679106+00:00",
-   "score": 86,
-   "category": "Cybersecurity",
-   "remote": "Remote",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: devsecops",
-    "Skills (10): azure, terraform, kubernetes, ci/cd, soc 2, automation",
-    "Remote",
     "Senior level"
    ]
   },
@@ -438,27 +393,6 @@
    "why": [
     "Title match: devops engineer",
     "Skills (11): terraform, networking, linux, kubernetes, ci/cd, zero trust",
-    "Senior level"
-   ]
-  },
-  {
-   "key": "60642e101c898d2c",
-   "title": "Staff Software Engineer - Databases SRE | Germany | Remote",
-   "company": "grafanalabs",
-   "url": "https://www.arbeitnow.com/jobs/companies/grafanalabs/staff-software-engineer-databases-sre-germany-remote-98761",
-   "location": "",
-   "source": "arbeitnow",
-   "posted_at": "2026-11-27T09:55:21+00:00",
-   "first_seen_at": "2026-11-27T12:30:57.679106+00:00",
-   "score": 80,
-   "category": "Cloud",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: sre",
-    "Skills (11): azure, terraform, networking, linux, kubernetes, incident response",
     "Senior level"
    ]
   },
@@ -874,6 +808,29 @@
    ]
   },
   {
+   "key": "f2bb4ad59dba5868",
+   "title": "Senior Solutions Engineer - DACH",
+   "company": "Saviynt",
+   "url": "https://www.arbeitnow.com/jobs/companies/saviynt/senior-solutions-engineer-dach-munich-255248",
+   "location": "Munich",
+   "source": "arbeitnow",
+   "posted_at": "2026-11-28T00:06:52+00:00",
+   "first_seen_at": "2026-11-28T03:56:04.923416+00:00",
+   "score": 67,
+   "category": "Cloud",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: solutions engineer",
+    "Skills (11): azure, active directory, powershell, networking, firewall, nist",
+    "Healthcare signals: hipaa, phi",
+    "Onsite outside SoCal",
+    "Senior level"
+   ]
+  },
+  {
    "key": "greenhouse:databricks:6049142002",
    "title": "Solutions Architect - Retail, Travel & Hospitality ",
    "company": "Databricks",
@@ -1255,6 +1212,28 @@
    ]
   },
   {
+   "key": "cc4af6cc182dfc4d",
+   "title": "Senior DevOps Engineer (m/w/d)",
+   "company": "celebrate company GmbH",
+   "url": "https://www.arbeitnow.com/jobs/companies/celebrate-company-gmbh/remote-senior-devops-engineer-hamburg-216097",
+   "location": "Homeoffice",
+   "source": "arbeitnow",
+   "posted_at": "2026-11-27T21:51:22+00:00",
+   "first_seen_at": "2026-11-28T03:56:04.923416+00:00",
+   "score": 62,
+   "category": "Cloud",
+   "remote": "Remote",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: devops engineer",
+    "Skills (4): terraform, kubernetes, observability, aws",
+    "Remote",
+    "Senior level"
+   ]
+  },
+  {
    "key": "greenhouse:databricks:8589172002",
    "title": "Sr Technical Solutions Engineering",
    "company": "Databricks",
@@ -1297,29 +1276,6 @@
     "Skills (5): entra, linux, escalation, troubleshooting, observability",
     "Shift match: saturday, sunday",
     "Onsite outside SoCal"
-   ]
-  },
-  {
-   "key": "d1022f26c10246c6",
-   "title": "Senior Azure Cloud DevOps Engineer \u2013 Kubernetes, Terraform & C#/.NET (gn)",
-   "company": "New Monday GmbH",
-   "url": "https://www.arbeitnow.com/jobs/companies/new-monday-gmbh/senior-azure-cloud-devops-engineer-kubernetes-terraform-c-net-gn-berlin-68473",
-   "location": "Berlin",
-   "source": "arbeitnow",
-   "posted_at": "2026-11-27T11:01:27+00:00",
-   "first_seen_at": "2026-11-27T12:30:57.679106+00:00",
-   "score": 61,
-   "category": "Cloud",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: devops engineer",
-    "Skills (14): azure, entra, active directory, terraform, powershell, linux",
-    "Healthcare signals: ehr",
-    "Onsite outside SoCal",
-    "Senior level"
    ]
   },
   {
@@ -1715,28 +1671,6 @@
    "why": [
     "Title match: site reliability",
     "Skills (13): azure, terraform, kubernetes, docker, ci/cd, iac",
-    "Onsite outside SoCal",
-    "Senior level"
-   ]
-  },
-  {
-   "key": "bc618e8b6b14dd06",
-   "title": "Senior Software & Cloud Engineer (H/F)",
-   "company": "ILLUIN Technology",
-   "url": "https://www.arbeitnow.fr/jobs/companies/illuin-technology/senior-software-cloud-engineer-h-f-puteaux-435091",
-   "location": "Paris La D\u00e9fense",
-   "source": "arbeitnow",
-   "posted_at": "2026-11-26T18:40:14+00:00",
-   "first_seen_at": "2026-11-27T02:53:01.489635+00:00",
-   "score": 55,
-   "category": "Cloud",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: cloud engineer",
-    "Skills (10): azure, terraform, kubernetes, docker, ci/cd, iac",
     "Onsite outside SoCal",
     "Senior level"
    ]
@@ -3011,6 +2945,29 @@
     "Skills (8): azure, networking, linux, iac, nist, automation",
     "Onsite outside SoCal",
     "Senior level"
+   ]
+  },
+  {
+   "key": "2efb8243cb149fff",
+   "title": "Senior Software Engineer",
+   "company": "3Y Health",
+   "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-3y-health-1138212",
+   "location": "Canada Only",
+   "source": "remoteok",
+   "posted_at": "2026-11-27T03:00:43+00:00",
+   "first_seen_at": "2026-11-28T03:56:04.923416+00:00",
+   "score": 47,
+   "category": "Other",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": true,
+   "salary": "$150,000 - $200,000",
+   "why": [
+    "Skills (5): terraform, incident response, hipaa, monitoring, aws",
+    "Healthcare signals: healthcare, hipaa, phi, fhir",
+    "Onsite outside SoCal",
+    "Senior level",
+    "Salary $150,000 - $200,000"
    ]
   },
   {
@@ -4680,28 +4637,6 @@
    ]
   },
   {
-   "key": "2b245065f8385e49",
-   "title": "Senior Corporate Accountant - Tax",
-   "company": "Salesloft",
-   "url": "https://remoteOK.com/remote-jobs/remote-senior-corporate-accountant-tax-salesloft-1138099",
-   "location": "US Only",
-   "source": "remoteok",
-   "posted_at": "2026-11-24T11:20:07+00:00",
-   "first_seen_at": "2026-11-25T15:40:06.813545+00:00",
-   "score": 40,
-   "category": "Other",
-   "remote": "Remote",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Skills (1): identity",
-    "Healthcare signals: phi",
-    "Remote (US)",
-    "Senior level"
-   ]
-  },
-  {
    "key": "greenhouse:collective health:8075259",
    "title": "Senior Manager, Procurement",
    "company": "Collective Health",
@@ -5564,6 +5499,50 @@
     "Healthcare signals: healthcare, hipaa, patient, life sciences",
     "Onsite outside SoCal",
     "Senior level"
+   ]
+  },
+  {
+   "key": "8a493a0c46ffc9eb",
+   "title": "Founding Engineer",
+   "company": "3Y Health",
+   "url": "https://remoteOK.com/remote-jobs/remote-founding-engineer-3y-health-1138213",
+   "location": "Canada Only",
+   "source": "remoteok",
+   "posted_at": "2026-11-27T03:20:38+00:00",
+   "first_seen_at": "2026-11-28T03:56:04.923416+00:00",
+   "score": 37,
+   "category": "Other",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": true,
+   "salary": "$150,000 - $200,000",
+   "why": [
+    "Skills (5): terraform, incident response, hipaa, monitoring, aws",
+    "Healthcare signals: healthcare, hipaa, phi, fhir",
+    "Onsite outside SoCal",
+    "Salary $150,000 - $200,000"
+   ]
+  },
+  {
+   "key": "62206c55e05acb5e",
+   "title": "Senior Forward Deployed Engineer (United States)",
+   "company": "Coder Technologies Inc.",
+   "url": "https://remoteOK.com/remote-jobs/remote-senior-forward-deployed-engineer-united-states-coder-technologies-inc-1138209",
+   "location": "US Only",
+   "source": "remoteok",
+   "posted_at": "2026-11-27T02:00:43+00:00",
+   "first_seen_at": "2026-11-28T03:56:04.923416+00:00",
+   "score": 37,
+   "category": "Other",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "$160,000 - $246,000",
+   "why": [
+    "Skills (13): azure, entra, terraform, networking, linux, kubernetes",
+    "Onsite outside SoCal",
+    "Senior level",
+    "Salary $160,000 - $246,000"
    ]
   },
   {
@@ -7241,27 +7220,6 @@
    ]
   },
   {
-   "key": "f2d9cee1677faf00",
-   "title": "Product Engineer",
-   "company": "Inato",
-   "url": "https://www.arbeitnow.fr/jobs/companies/inato/remote-product-engineer-335504",
-   "location": "PARIS OFFICE or REMOTE FROM FRANCE",
-   "source": "arbeitnow",
-   "posted_at": "2026-11-27T12:40:19+00:00",
-   "first_seen_at": "2026-11-27T22:00:08.694247+00:00",
-   "score": 34,
-   "category": "Other",
-   "remote": "Remote",
-   "shift": "",
-   "healthcare": true,
-   "salary": "",
-   "why": [
-    "Skills (1): entra",
-    "Healthcare signals: healthcare, ehr, clinical, patient",
-    "Remote"
-   ]
-  },
-  {
    "key": "32bbad04f5c684f5",
    "title": "Stellvertretende \u00c4rztliche Leitung der Ovivamed Clinic",
    "company": "Oviva",
@@ -7280,6 +7238,27 @@
     "Healthcare signals: ehr, clinical, patient",
     "Remote",
     "Senior level"
+   ]
+  },
+  {
+   "key": "f2d9cee1677faf00",
+   "title": "Product Engineer",
+   "company": "Inato",
+   "url": "https://www.arbeitnow.fr/jobs/companies/inato/remote-product-engineer-335504",
+   "location": "PARIS OFFICE or REMOTE FROM FRANCE",
+   "source": "arbeitnow",
+   "posted_at": "2026-11-27T12:40:19+00:00",
+   "first_seen_at": "2026-11-27T22:00:08.694247+00:00",
+   "score": 34,
+   "category": "Other",
+   "remote": "Remote",
+   "shift": "",
+   "healthcare": true,
+   "salary": "",
+   "why": [
+    "Skills (1): entra",
+    "Healthcare signals: healthcare, ehr, clinical, patient",
+    "Remote"
    ]
   },
   {
@@ -7393,26 +7372,24 @@
    ]
   },
   {
-   "key": "330e33857526cb1a",
-   "title": "Regional Vice President, Biddable",
-   "company": "Doximity",
-   "url": "https://remoteOK.com/remote-jobs/remote-regional-vice-president-biddable-doximity-1138097",
-   "location": "US Only",
-   "source": "remoteok",
-   "posted_at": "2026-11-24T11:00:06+00:00",
-   "first_seen_at": "2026-11-25T15:40:06.813545+00:00",
+   "key": "3517183711fb5856",
+   "title": "Cloud Platform Engineer",
+   "company": "Sonarsource",
+   "url": "https://www.arbeitnow.ch/jobs/companies/sonarsource/cloud-platform-engineer-geneva-457427",
+   "location": "Geneva",
+   "source": "arbeitnow",
+   "posted_at": "2026-11-28T00:06:56+00:00",
+   "first_seen_at": "2026-11-28T03:56:04.923416+00:00",
    "score": 33,
-   "category": "Other",
-   "remote": "Remote",
+   "category": "Cloud",
+   "remote": "Onsite",
    "shift": "",
-   "healthcare": true,
-   "salary": "$192,500 - $313,833",
+   "healthcare": false,
+   "salary": "",
    "why": [
-    "Skills (3): nist, aws, identity",
-    "Healthcare signals: healthcare, clinical, patient, health system",
-    "Remote (US)",
-    "Salary $192,500 - $313,833",
-    "Downranked: physician"
+    "Title match: platform engineer",
+    "Skills (7): terraform, networking, iac, automation, aws, identity",
+    "Onsite outside SoCal"
    ]
   },
   {
@@ -7911,6 +7888,28 @@
    ]
   },
   {
+   "key": "99c322c8acc6f511",
+   "title": "Remote Sr. Product Manager (m/f/d)",
+   "company": "Roompricegenie",
+   "url": "https://www.arbeitnow.com/jobs/companies/roompricegenie/remote-sr-product-manager-43710",
+   "location": "Remote Germany",
+   "source": "arbeitnow",
+   "posted_at": "2026-11-27T21:40:13+00:00",
+   "first_seen_at": "2026-11-28T03:56:04.923416+00:00",
+   "score": 32,
+   "category": "Other",
+   "remote": "Remote",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (1): networking",
+    "Healthcare signals: epic, hospital",
+    "Remote",
+    "Senior level"
+   ]
+  },
+  {
    "key": "greenhouse:cloudflare:8050813",
    "title": "Systems Engineer, Data Intelligence & Analytics Team",
    "company": "Cloudflare",
@@ -8285,28 +8284,6 @@
    ]
   },
   {
-   "key": "af5a2e0848a70a7a",
-   "title": "Security Engineer, Offensive Security",
-   "company": "Dropbox",
-   "url": "https://remoteOK.com/remote-jobs/remote-security-engineer-offensive-security-dropbox-1138096",
-   "location": "North America",
-   "source": "remoteok",
-   "posted_at": "2026-11-24T11:00:04+00:00",
-   "first_seen_at": "2026-11-25T15:40:06.813545+00:00",
-   "score": 31,
-   "category": "Cybersecurity",
-   "remote": "Onsite",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Title match: security engineer",
-    "Skills (4): defender, automation, identity, vulnerability",
-    "Onsite outside SoCal",
-    "Senior level"
-   ]
-  },
-  {
    "key": "3b0b38f1acb4d534",
    "title": "Senior Network Architect (Relocation Provided)",
    "company": "Wypoon",
@@ -8374,6 +8351,28 @@
    ]
   },
   {
+   "key": "c69bb1221d760609",
+   "title": "Delivery Solutions Architect",
+   "company": "databricks",
+   "url": "https://www.arbeitnow.ch/jobs/companies/databricks/delivery-solutions-architect-zurich-116421",
+   "location": "Z\u00fcrich",
+   "source": "arbeitnow",
+   "posted_at": "2026-11-27T15:55:24+00:00",
+   "first_seen_at": "2026-11-27T22:00:08.694247+00:00",
+   "score": 31,
+   "category": "Cloud",
+   "remote": "Onsite",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Title match: solutions architect",
+    "Skills (4): azure, aws, gcp, identity",
+    "Onsite outside SoCal",
+    "Senior level"
+   ]
+  },
+  {
    "key": "b9ded010595fef2b",
    "title": "Senior Solutions Architect (EDW Enterprise Data Warehouse Migrations)",
    "company": "databricks",
@@ -8396,14 +8395,14 @@
    ]
   },
   {
-   "key": "c69bb1221d760609",
-   "title": "Delivery Solutions Architect",
-   "company": "databricks",
-   "url": "https://www.arbeitnow.ch/jobs/companies/databricks/delivery-solutions-architect-zurich-116421",
-   "location": "Z\u00fcrich",
+   "key": "4475bb412c28c6ef",
+   "title": "Director, Solutions Engineer - EMEA",
+   "company": "Saviynt",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/saviynt/director-solutions-engineer-emea-london-8587",
+   "location": "London",
    "source": "arbeitnow",
-   "posted_at": "2026-11-27T15:55:24+00:00",
-   "first_seen_at": "2026-11-27T22:00:08.694247+00:00",
+   "posted_at": "2026-11-28T00:06:55+00:00",
+   "first_seen_at": "2026-11-28T03:56:04.923416+00:00",
    "score": 31,
    "category": "Cloud",
    "remote": "Onsite",
@@ -8411,10 +8410,10 @@
    "healthcare": false,
    "salary": "",
    "why": [
-    "Title match: solutions architect",
-    "Skills (4): azure, aws, gcp, identity",
-    "Onsite outside SoCal",
-    "Senior level"
+    "Title match: solutions engineer",
+    "Skills (5): azure, powershell, nist, aws, identity",
+    "Healthcare signals: phi",
+    "Onsite outside SoCal"
    ]
   },
   {
@@ -9467,14 +9466,14 @@
    ]
   },
   {
-   "key": "a6a69d3c0d221871",
-   "title": "Principal Production Designer, Print & Packaging",
-   "company": "Hims And Hers",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/hims-and-hers/remote-principal-production-designer-print-packaging-101028",
-   "location": "UK - Remote",
+   "key": "0fe9f708cb0ec1a9",
+   "title": "Senior Data Scientist (m/f/d)",
+   "company": "Sport Alliance GmbH",
+   "url": "https://www.arbeitnow.com/jobs/companies/sport-alliance-gmbh/remote-senior-data-scientist-118803",
+   "location": "Remote (Germany)",
    "source": "arbeitnow",
-   "posted_at": "2026-11-27T15:40:13+00:00",
-   "first_seen_at": "2026-11-27T22:00:08.694247+00:00",
+   "posted_at": "2026-11-28T03:07:35+00:00",
+   "first_seen_at": "2026-11-28T03:56:04.923416+00:00",
    "score": 28,
    "category": "Other",
    "remote": "Remote",
@@ -9482,7 +9481,28 @@
    "healthcare": false,
    "salary": "",
    "why": [
-    "Healthcare signals: healthcare, phi",
+    "Skills (3): terraform, monitoring, aws",
+    "Remote",
+    "Senior level"
+   ]
+  },
+  {
+   "key": "19bbbff0144ef507",
+   "title": "Payments Pricing Lead",
+   "company": "Everfield",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/everfield/payments-pricing-lead-london-413491",
+   "location": "UK - Remote",
+   "source": "arbeitnow",
+   "posted_at": "2026-11-28T00:40:13+00:00",
+   "first_seen_at": "2026-11-28T03:56:04.923416+00:00",
+   "score": 28,
+   "category": "Other",
+   "remote": "Remote",
+   "shift": "",
+   "healthcare": false,
+   "salary": "",
+   "why": [
+    "Skills (3): entra, monitoring, identity",
     "Remote",
     "Senior level"
    ]
@@ -10061,23 +10081,23 @@
    ]
   },
   {
-   "key": "fb77086de0968f67",
-   "title": "Senior Full-Stack Software Engineer",
-   "company": "Heim",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/heim/senior-full-stack-software-engineer-london-483191",
-   "location": "London, Greater London, United Kingdom",
+   "key": "a6d28d4721d78d5d",
+   "title": "Senior Linux / HPC Infrastructure Engineer (SRE)",
+   "company": "MARGO",
+   "url": "https://www.arbeitnow.fr/jobs/companies/margo/senior-linux-hpc-infrastructure-engineer-sre-paris-108414",
+   "location": "Paris",
    "source": "arbeitnow",
-   "posted_at": "2026-11-27T12:51:44+00:00",
-   "first_seen_at": "2026-11-27T22:00:08.694247+00:00",
+   "posted_at": "2026-11-28T03:07:35+00:00",
+   "first_seen_at": "2026-11-28T03:56:04.923416+00:00",
    "score": 27,
-   "category": "Other",
+   "category": "Cloud",
    "remote": "Onsite",
    "shift": "",
-   "healthcare": true,
+   "healthcare": false,
    "salary": "",
    "why": [
-    "Skills (3): entra, ci/cd, automation",
-    "Healthcare signals: healthcare, fhir, clinical, patient",
+    "Title match: sre",
+    "Skills (3): linux, ci/cd, iac",
     "Onsite outside SoCal",
     "Senior level"
    ]
@@ -10768,27 +10788,6 @@
     "Healthcare signals: healthcare",
     "Remote",
     "Senior level"
-   ]
-  },
-  {
-   "key": "af75d17302b899ca",
-   "title": "Strategic WFM Analyst",
-   "company": "Clipboard",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/clipboard/strategic-wfm-analyst-london-240797",
-   "location": "Remote (Canada, UK, EU)",
-   "source": "arbeitnow",
-   "posted_at": "2026-11-27T15:40:13+00:00",
-   "first_seen_at": "2026-11-27T22:00:08.694247+00:00",
-   "score": 26,
-   "category": "Other",
-   "remote": "Remote",
-   "shift": "",
-   "healthcare": false,
-   "salary": "",
-   "why": [
-    "Skills (2): entra, monitoring",
-    "Healthcare signals: healthcare, hospital",
-    "Remote"
    ]
   },
   {
